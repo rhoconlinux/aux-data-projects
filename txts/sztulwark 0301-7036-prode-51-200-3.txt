@@ -1,0 +1,786 @@
+Problemas del Desarrollo. Revista Latinoamericana de Economía, vol. 51, núm. 200, enero-marzo 2020.3a Universidad Nacional de General Sarmiento ( UNGS ) y Consejo Nacional de Investigaciones Científicas 
+y Técnicas ( CONICET ), Argentina. Correo electrónico: sztulwark@campus.ungs.edu.arLa condición periférica 
+en el nuevo capitalismo
+Sebastián Sztulwarka
+Fecha de recepción: 31 de enero de 2019. Fecha de aceptación: 1 de junio de 2019. 
+https://doi.org/10.22201/iiec.20078951e.2020.200.68283
+Resumen. En la tradición del estructuralismo latinoamericano de posguerra, la econo -
+mía mundial era el escenario de un antagonismo entre un polo central (industrializado) 
+y otro periférico (proveedor de bienes primarios). En este trabajo se sostiene que para 
+abordar la forma específica en que ese antagonismo se reproduce en las condiciones 
+históricas del nuevo capitalismo es necesario considerar la emergencia de una lógica 
+estructural con forma de cadena, que diferencia al interior de los distintos sectores pro -
+ductivos las actividades de creación de las de reproducción de conocimiento. Esta lógica 
+de cadena no impugna la idea de estructura, en tanto diferenciación sectorial de la pro -
+ducción propia del capitalismo de posguerra, pero se impone como norma dominante. 
+Palabras clave: América Latina; centro-periferia;  nuevo capitalismo;  espacios de acu -
+mulación; lógica estructural.
+Clasificación JEL: N16; O14; O54; P1.
+The peripheral condition  
+under new capitalism
+Abstract. Within the framework of Latin American post-war structuralism, the global 
+economy was the grounds of antagonism between a central (industrialized) pole and the 
+periphery (providers of primary goods). This paper argues that addressing the specific 
+way this antagonism is reproduced in the historical conditions of new capitalism requires 
+considering the emergence of a chain-shaped structural logic, which differentiates 
+activities of knowledge creation from those of knowledge reproduction within distinct 
+productive sectors. This chain logic does not challenge the concept of structure, in terms 
+of a sectoral differentiation in post-war capitalist production, but rather imposes it as a 
+dominant norm.
+Key Words : Latin America; center-periphery; new capitalism; spaces of accumulation; 
+structural logic.4
+Sebastián Sztulwark1. Introducc Ión
+Las categorías “centro” y “periferia” han sido parte fundamental de la teoría 
+del desarrollo de posguerra y, en particular, del estructuralismo latinoameri -
+cano. Formaban parte de una concepción más general orientada a repensar 
+la especificidad de los países que estaban avanzando en procesos “tardíos” de 
+industrialización, en el marco de un cambio histórico en el liderazgo de la 
+economía mundial desde Inglaterra hasta Estados Unidos. El rechazo al mo -
+delo de la economía convencional (y su pretensión de validez universal) y las 
+contradicciones de la industrialización latinoamericana de posguerra fueron 
+fuente de una temprana reflexión sobre la propia naturaleza de la condición 
+periférica, así como de los antagonismos inherentes a la dinámica del sistema 
+económico mundial (Prebisch, 1963; Hirschman, 1980; Rodríguez, 1977). 
+La crisis de la industrialización latinoamericana de la década de 1970 en el 
+siglo XX puede ser leída en términos de sus contradicciones internas, pero tam -
+bién como efecto de una discontinuidad en la dinámica histórica del capita -
+lismo mundial. Las explicaciones no son necesariamente contradictorias. Pero 
+de la crisis emerge, no una concepción renovada sobre cómo avanzar hacia 
+nuevas vías de cambio estructural, sino un consenso antiestructuralista: la idea 
+de que no existe más lógica posible para el desarrollo económico que aquella 
+que se define en términos de una adaptación pasiva a las determinaciones del 
+mercado mundial. La diferencia centro-periferia queda abolida en nombre del 
+modelo único de la globalización neoliberal.
+En respuesta a esta visión dominante y a las consecuencias que implicó 
+para el desarrollo de los países latinoamericanos, la perspectiva del cambio 
+estructural se hizo presente en los últimos años en el discurso de los eco -
+nomistas que se declaran herederos de aquella perspectiva estructuralista de 
+posguerra ( CEPAL , 2012; Ocampo, 2011; Cimoli et al., 2005). Pero esta re -
+cuperación “neoestructuralista”, por lo general, tiende a inscribirse en una vi -
+sión en la que el antagonismo centro-periferia queda desplazado o atenuado, 
+a favor de un discurso que enfatiza el consenso y la cooperación (Leiva, 2008; 
+Sztulwark, 2005). 
+En este trabajo, en cambio, se asume que el antagonismo centro-periferia 
+constituye un elemento fundamental para pensar los desafíos presentes del 
+desarrollo latinoamericano. Las condiciones de esa vigencia, sin embargo, no 
+pueden limitarse a la comprensión del nuevo marco histórico mundial que 
+le da referencia, sino que deben incluir una revisión de los propios funda -
+mentos conceptuales con los que se pensó la dinámica centro-periferia en el 
+periodo de posguerra.   5
+La condición periférica en el nuevo capitalismo A continuación se presenta una reflexión sobre la naturaleza de la condi -
+ción periférica en el nuevo capitalismo,1 partiendo de las siguientes premisas 
+teórico-metodológicas: 1) “centro” y “periferia” son dos espacios de acumu -
+lación estructuralmente diferenciados; 2) esa diferenciación se produce en 
+torno a la posición que cada uno de ellos ocupa en una determinada lógica 
+estructural, entendida como una secuencia específica en la que se articulan 
+actividades productivas con un diferente potencial de acumulación;  3) esa ló -
+gica estructural se transforma históricamente como parte de un cambio más 
+general en la dinámica del capitalismo en tanto sistema mundial y,  4) la mo -
+dalidad de cambio de una lógica estructural a otra se produce bajo la forma 
+de un “corte”, de una discontinuidad en relación con la lógica preexistente. 
+ Sobre esta base, en este trabajo se sostiene que la lógica estructural del nue -
+vo capitalismo tiene la forma de una cadena,2 que diferencia al interior de los 
+distintos sectores productivos las actividades de creación de las de reproduc -
+ción de conocimiento. Esta lógica de cadena no impugna la idea de estructura 
+en tanto diferenciación sectorial de la producción propia del capitalismo de 
+posguerra, pero se le impone como norma dominante.  
+En la sección 2 de este trabajo se establecen algunas precisiones concep -
+tuales sobre la relación entre espacios de acumulación y lógica estructural. En 
+la tercera sección se ofrece una aproximación analítica a la lógica estructural 
+del capitalismo de posguerra y cómo se constituye en ella la oposición entre 
+centro y periferia. En la sección 4, se propone una caracterización de los rasgos 
+fundamentales de la lógica estructural del nuevo capitalismo y, por lo tanto, 
+del fundamento de una nueva dinámica de estructura en la que se redefine la 
+naturaleza de la condición periférica. Finalmente, en la sección 5, se presentan 
+las conclusiones.
+1 La noción de “nuevo capitalismo” alude a una transformación interna  al modo de producción ca -
+pitalista que tiene como rasgo fundamental el pasaje de un “régimen de reproducción”, en el que la 
+valorización reposaba sobre todo en el dominio del tiempo de reproducción de mercancías estan -
+darizadas, a un “régimen de invención”, en el que el proceso de valorización se apoya en un tiempo 
+de creación de nuevos conocimientos (Corsani, 2003). El carácter novedoso de la etapa actual ra -
+dica, por lo tanto, en una forma singularmente nueva de articular la producción de conocimiento 
+con la producción de valor.
+2 Una cadena es un conjunto de eslabones enlazados entre sí. En términos productivos se refiere a 
+una serie de actividades verticalmente desintegradas, pero vinculadas a través de una estructura de 
+gobierno (Gereffi et al. 2005; Kaplinsky, 2000). 6
+Sebastián Sztulwark2. E spac Ios dE acumulac Ión 
+y lóg Ica Estructural   
+Desde un punto de vista estructuralista, los términos “centro” y “periferia” re -
+miten a un lugar en la estructura del capital productivo mundial. Espacios de 
+acumulación diferenciados según su función en la dinámica de esa estructura. 
+El centro domina las actividades productivas de mayor potencial de acumu -
+lación, esto es, aquellas en las que predomina el trabajo complejo. La relación 
+entre grado de complejidad productiva y acumulación efectiva no es lineal. 
+Está mediada por la existencia de barreras a la entrada que regulan la con -
+versión del conocimiento productivo en renta de innovación (Rullani, 2000; 
+Teece, 1986). En cambio, la periferia, carente de las capacidades productivas 
+necesarias para disputar el núcleo del dinamismo productivo mundial, se es -
+pecializa en actividades en las que el potencial de acumulación es menor, esto 
+es, aquellas que se estructuran sobre la base del trabajo simple.3 
+La variable productiva como manifestación fundamental de la diferencia -
+ción centro-periferia no debe confundirse con un reduccionismo tecnologicis -
+ta. En efecto, el desarrollo de capacidades productivas avanzadas es indisociable 
+del proceso de construcción de poder y, por lo tanto, de la disputa por la he -
+gemonía mundial, fenómeno que tiene una naturaleza multicausal y en el que 
+intervienen tanto factores político-militares y financieros como tecnológicos y 
+culturales en sentido amplio (Arrighi y Silver, 2001; Sassen, 2010).  
+Al analizar las condiciones a partir de las cuales la propia relación centro-
+periferia se produce, algunos problemas conceptuales subsisten. Consideran -
+do el foco problemático de este trabajo, es pertinente preguntarse: ¿cómo se 
+representa la relación entre trabajo simple y complejo en la estructura produc -
+tiva mundial? ¿Con qué categorías se distinguen las actividades que tienen un 
+alto potencial de acumulación de otras que poseen un potencial más limitado? 
+En el estructuralismo latinoamericano de posguerra esa dimensión estaba im -
+plícita en el ideal de industrialización de la época . Pero no tenía una categoría 
+explícita que la designara, que fuera capaz de diferenciar la dimensión teórica 
+del problema de su contenido histórico concreto. 
+Este trabajo se propone llenar este vacío con la categoría “lógica estruc-  
+tural”, que indica el modo concreto en que en una determinada etapa his-  
+tórica se representa la heterogeneidad en el potencial de acumulación que 
+existe en las actividades que conforman la estructura del capital productivo 
+3 La existencia de renta de la tierra como fuente extraordinaria de acumulación es compatible con 
+una función periférica en la economía mundial.  7
+La condición periférica en el nuevo capitalismo mundial. Esto es, cómo se define la secuencia que ordena a las actividades de 
+la economía mundial según el grado de complejidad del trabajo que cada una 
+de ellas requiere. Desde este punto de vista, los espacios de acumulación se de -
+finen (y diferencian) en relación con su posición respecto a una determinada 
+lógica estructural que cambia históricamente. De este modo, la comprensión 
+de la naturaleza histórica de los espacios de acumulación está siempre sujeta a 
+la modalidad de un corte, que se produce como consecuencia de la ruptura en 
+la lógica estructural vigente, proceso que no puede analizarse sino en el marco 
+de un cambio más general del capitalismo en tanto sistema mundial.4 
+Bajo esta perspectiva adquiere sentido la distinción analítica entre “cambio 
+estructural” y “cambio de estructura”. El cambio estructural, referente funda -
+mental del discurso estructuralista de posguerra, significa también cambio de 
+posición en la estructura productiva mundial que rige en una determinada 
+etapa histórica. El concepto alude a la transformación productiva interna de 
+un territorio específico que le permite ir construyendo un pasaje desde funcio -
+nes periféricas a funciones de centralidad a lo largo de una determinada lógica 
+estructural que, al menos en un periodo histórico determinado, permanece 
+vigente. De este modo, el concepto de cambio estructural más que indicar un 
+punto de llegada (la “posición centro”), expresa la dirección de un proceso de 
+cambio: el dominio de una creciente complejidad productiva. Mientras que, 
+un cambio de estructura implica una modificación de la propia lógica estruc -
+tural dominante y, por lo tanto, de las condiciones productivas concretas en 
+las que se definen los lugares de la estructura. 
+Sobre estas bases conceptuales, a continuación se presenta una aproxima -
+ción a los elementos fundamentales del cambio en la lógica estructural del 
+capitalismo mundial con el fin de abordar, de un modo preliminar, los rasgos 
+constitutivos de la condición periférica en esta nueva etapa histórica. 
+ 
+4 Dentro de la diferentes posturas sobre cómo periodizar las etapas del capitalismo (Dabat, 2006; 
+Perez, 2002), este trabajo se apoya en el concepto de Sistema Histórico de Acumulación, en tan -
+to transformación interna del modo de producción capitalista, que alude “a la asociación entre un 
+modo de producción y una lógica de acumulación que orientan en un largo periodo las tenden -
+cias de la valorización del capital, la división del trabajo y la reproducción de las relaciones sociales 
+más fundamentales” (Dieuaide et al., 2007, p. 74). Véanse también Vercellone (2011) y Moulier-
+Boutang (2004).8
+Sebastián Sztulwark3. la lóg Ica Estructural  dEl 
+cap ItalIsmo  dE posgu Erra
+El punto de partida es, entonces, la definición de la lógica estructural del 
+capitalismo de posguerra, que representa la etapa de madurez del capitalismo 
+industrial en su fase fordista-keynesiana y que es el marco histórico en el que 
+se despliega el periodo clásico del estructuralismo latinoamericano. 
+La secuencia que expresa la lógica estructural de este periodo histórico, esto 
+es, el eje en el que se ordenan las actividades productivas según su potencial 
+de acumulación se puede representar a través de una serie de movimientos en 
+el plano analítico: el primero y fundamental, es el que va de los bienes prima -
+rios a los industriales, y que expresa la idea misma de industrialización como 
+sinónimo de desarrollo económico. Pero esta primera parte de la secuencia no 
+agota el problema. La industrialización puede ser “profundizada” en la medida 
+en que se avanza hacia las ramas más capital-intensivas que requieren una ma -
+yor escala de producción y acceso a un mercado más amplio. Este movimiento 
+implica un pasaje desde los bienes de consumo hacia los bienes de produc -
+ción. Sin embargo, este paso tampoco completa la secuencia, ya que dentro 
+de los bienes de consumo se puede establecer la existencia de un potencial de 
+acumulación creciente que va de los de los bienes de consumo no durables a 
+los durables; y, dentro de los bienes de producción, de modo equivalente, la 
+profundización implica un pasaje desde los bienes intermedios a los bienes de 
+capital, que constituyen el punto de llegada de toda la secuencia. 
+En suma, la secuencia completa tiene cuatro movimientos, cada uno de los 
+cuales señala un grado creciente de acumulación potencial: 1) De los Bienes 
+Primarios ( BP) a los Bienes Industriales ( BI); 2) De los Bienes Industriales de 
+Consumo ( BC) a los Bienes de Producción ( BP); 3) De los Bienes No Durables 
+de Consumo ( ND) a los Bienes de consumo Durables ( D); 4) De los Bienes In -
+termedios (Bint) a los Bienes de Capital (BdeK). De este modo, se pude escri -
+bir la lógica estructural del capitalismo de posguerra  (L1) de la siguiente manera:
+L1 = BP  → BI [BC (ND →D) → BP (Bint → BdeK)]
+Dos citas pueden ser de utilidad para ilustrar cómo esta lógica estructural 
+estaba implícita en el ideal de industrialización de la época. La primera es de 
+Surendra J. Patel, ex director de la División de Tecnología de la Conferencia 
+de las Naciones Unidas sobre Comercio y Desarrollo ( UNCTAD ):9
+La condición periférica en el nuevo capitalismo Este último siglo se caracterizó por importantes cambios en la estructura del pro -
+ducto. Aquí podemos destacar dos de esos cambios: la inversión de la participa -
+ción de la agricultura y la industria en el producto total, y una inversión semejante 
+en la participación de los bienes de consumo y de los bienes de producción en el 
+producto industrial. Estas dos inversiones pueden considerarse como las leyes de la 
+dinámica económica en la transformación estructural (Patel, 1987, p. 9).
+La segunda cita pertenece a Raúl Prebisch, referente principal del estruc -
+turalismo latinoamericano de posguerra quien, al referirse a las fallas de la 
+industrialización latinoamericana de fines de los años cincuenta y principios 
+de los sesenta, afirmaba: 
+Era claro que este proceso (por lo menos en los países periféricos más avanzados) 
+había agotado casi por completo las posibilidades de sustitución de importaciones 
+para el mercado interno de los bienes de consumo no duraderos. En consecuencia, 
+era necesaria la iniciación de formas de industrialización más complejas y difíciles 
+en bienes intermedios, de capital y de consumo durables que requieren mercados 
+más amplios (Prebisch, 1987, p. 348).
+Para comprender las condiciones de estructura en las que esta lógica im -
+peraba, es necesario considerar algunas propiedades fundamentales de la 
+dinámica del capital productivo mundial vigente durante el periodo fordista-
+keynesiano. A modo de síntesis, esas propiedades eran: 
+a) La existencia de un ciclo de vida de la tecnología relativamente largo y con 
+una baja diferenciación de producto. Durante el fordismo, explica Corsani 
+(2003, p. 17), “la valorización reposaba esencialmente sobre el dominio 
+del tiempo de reproducción de mercancías estandarizadas producidas con 
+tecnologías mecánicas”. El foco del proceso de innovación se orientaba a 
+la adopción de tecnología incorporada en el capital fijo (máquina como 
+vehículo fundamental de la difusión tecnológica) y a mejoras de tipo orga -
+nizacional, necesarias para disciplinar una mano de obra de escaza califica -
+ción (Rullani, 2000). El protagonismo se ubicaba en las innovaciones de 
+proceso, orientadas a las mejoras en los medios de producción utilizados 
+en el proceso de trabajo y a los avances que surgían a partir de la llamada 
+organización “científica” del trabajo (Míguez, 2008).
+b) Los servicios considerados “productivos” eran aquellos que tenían una fun -
+ción específica en el proceso de producción de bienes (ámbito directo de 
+validez de L1). Estos eran los servicios de transporte y distribución que 10
+Sebastián Sztulwarkcumplían una función básica, pero externa al proceso de producción: lle -
+var a los trabajadores de la casa a la fábrica y los productos de la fábrica al 
+mercado. El resto de los servicios, sobre todo aquellos que se ubicaban en 
+el ámbito de la reproducción social, podrían tener un valor social, pero no 
+una función directa en L1.
+c) Una alta integración vertical de la producción que se correspondía, a su 
+vez, con un marco institucional de regulación económica centrado en la es -
+cala nacional. El proceso de internacionalización de capital y la conforma -
+ción de un mercado mundial no eran incompatibles con la existencia de un 
+modelo de producción articulado en el espacio nacional (Dicken, 2003). 
+Lo específico del periodo de posguerra era el escenario de la Guerra Fría 
+y la hegemonía militar y tecnológica de Estados Unidos, que adquieren 
+un papel protagónico en la estructuración de un nuevo marco regulatorio 
+internacional a partir de los acuerdos de Bretton Woods (Stiglitz, 2003). 
+Partiendo de la premisa de que los espacios de acumulación “centro” y 
+“periferia” se diferencian en este periodo por su función en el despliegue mun -
+dial de L1, se puede seguir, en este aspecto, la proposición estructuralista se -
+gún la cual mientras el centro presenta una estructura productiva homogénea 
+y diversificada, la periferia posee una estructura heterogénea y especializada5 
+(Rodríguez, 1977). Tomando este punto de partida, se pueden definir dos 
+dimensiones fundamentales de la estructura: i) el grado de completitud sec -
+torial, que alude al nivel de diversificación productiva y ii) al grado de com -
+plejidad del proceso productivo, entendida como una distancia respecto de la 
+frontera mundial de productividad de una determinada época. 
+El centro representa el espacio dominante del sistema y, por lo tanto, co -
+manda la dinámica de la estructura. Esto significa 1) que tiene las capacidades 
+productivas suficientes para alcanzar y dominar la gama completa de produc -
+tos definida en L1, pero sobre todo aquellos que tienen un mayor  potencial de 
+acumulación; y 2) que en todos ellos posee la potencia productiva más elevada 
+de su época (productividad mundial de frontera). Es en este sentido que la 
+estructura del centro puede ser definida como diversificada y homogénea.
+La periferia, en cambio, asume un papel subordinado, que se expresa en 
+una doble imposibilidad: tanto para avanzar sobre la gama de productos más 
+complejos (ausencia de profundidad de la industrialización), como para alcan -
+zar los niveles de productividad del centro, con la excepción de un conjunto 
+5 En rigor, tanto el centro como la periferia poseen subestructuras productivas que, en conjunto, 
+conforman la estructura de la economía mundial.11
+La condición periférica en el nuevo capitalismo de bienes primarios o industriales básicos de exportación. De estas caracterís -
+ticas, la estructura productiva de la periferia asume un carácter especializado 
+(escaso grado de diversificación) y heterogéneo (en sus niveles de productivi -
+dad), en relación con la norma del centro que es la norma central de la época.
+La dinámica de estructura, a su vez, está sujeta a cambios relativos de po -
+sición, que no son cambios de estructura sino modulaciones dentro de una 
+misma lógica estructural. Son avances y retrocesos dentro de la misma lógica. 
+Así, un país periférico puede ampliar el grado de completitud sectorial de su 
+estructura interna, a partir de la profundización de la industrialización hacia 
+los bienes durables o los bienes de producción; o producir variaciones de pro -
+ductividad que induzcan una reducción o ampliación de la brecha respecto 
+del centro, en tanto hay cambios en ambos términos de la relación. Estos 
+movimientos generan un proceso incesante de diferenciación al interior del 
+polo periférico de la estructura. Eso se verifica, por ejemplo, en los distintos 
+patrones de industrialización de posguerra de Asia oriental y América Latina 
+(Fajnzylber, 1983; Amsden, 2004; Fernández, 2016).
+Desde el punto de vista geográfico, el despliegue de esta lógica estructural 
+fue paralela a la consolidación de la zona del Atlántico Norte (Europa nor-
+occidental y Estados Unidos, con foco en la costa Este) como espacio en el 
+que se concentraba lo más avanzado de la producción industrial de la época, 
+esto es, los bienes intermedios de uso difundido (como en la industria petro -
+química), los bienes durables de consumo de mayor complejidad (cuyo caso 
+emblemático es la industria automotriz), y los bienes de capital (“máquinas 
+que hacen máquinas”, núcleo central de L1).  
+Esta lógica estructural de posguerra fue encontrando, hacia fines de los 
+años sesenta y principios de los setenta, límites concretos para su funciona -
+miento y despliegue. No es este el espacio para discutir en profundidad las 
+razones de este proceso. Sólo para no eludir un elemento fuerte de la argumen -
+tación, se pude afirmar que éste tuvo que ver con una crisis de legitimidad, 
+por un lado, y de rentabilidad, por otro, en los propios países del centro. Las 
+causas fundamentales, no necesariamente las únicas, fueron: 1) una dinámica 
+creciente de los salarios y los impuestos, asociada a la fuerza de la organización 
+sindical de la época y al sostenimiento del Estado de Bienestar; 2) un creciente 
+nivel de conflictividad social expresado, sobre todo, en el rechazo del trabajo 
+industrial por parte de los propios obreros del centro; 3) la saturación de un 
+patrón de consumo de bienes estandarizados y una creciente inestabilidad de 
+la demanda, y 4) una crisis del modelo de innovación, en el que sólo una 
+pequeña fracción de la fuerza de trabajo –aquella vinculada directamente con 
+las tareas de “concepción”– tenía a su cargo el aumento de productividad de 12
+Sebastián Sztulwarkuna enorme masa de trabajadores que asumía las tareas de “ejecución” y tenía 
+un lugar pasivo en este proceso (Coriat, 1991; Gorz, 1998; Vercellone, 2011; 
+Piore y Sabel, 1984). 
+4. la lóg Ica Estructural  dEl nuEvo cap ItalIsmo   
+Hacia fines de los años sesenta y principios de los setenta, los países más 
+grandes de América Latina, como Brasil, México y Argentina, a pesar de sus 
+inconsistencias internas, avanzaban en la profundización de su proceso de 
+industrialización (Hirschman, 1968; Katz y Kosacoff, 1998). Sin embargo, 
+como afirma Fajnzylber (1983), la aspiración a un cambio de posición en 
+la estructura económica mundial quedó “trunca”, no sólo por las contradic -
+ciones internas creadas en ese proceso, sino también por la existencia de un 
+cambio en la estructura económica mundial. El intento de cambio de posición 
+en la estructura se superponía con un cambio en la propia estructura. 
+Lo que se sostiene en este trabajo es que la emergencia de la lógica estruc -
+tural del nuevo capitalismo representa un corte respecto de la anterior. No un 
+cambio de paradigma tecno-económico (revolución informática y organiza -
+ción en red) dentro de la misma lógica industrial de posguerra. Se trata de un 
+corte en las condiciones estructurales en los que estos cambios tecnológicos 
+(“digitalización”) y organizacionales (“descentralización”) se despliegan.6 El 
+problema a considerar es cómo comprender la naturaleza de este corte. El 
+significado de pasar de una lógica a otra. 
+Una nueva lógica se afirma. Su punto de partida es la imposibilidad del 
+polo dominante de seguir reproduciendo su función de centralidad a partir 
+de los criterios que regían la lógica estructural de posguerra. Nuevos deter -
+minantes espacio-temporales de la acumulación comienzan a emerger como 
+respuesta a la crisis. La estructura de la economía mundial se reconfigura bajo 
+la forma de una cadena global: una sucesión de etapas del proceso productivo 
+que se encuentran segmentadas entre actividades que tienen una naturaleza 
+diferenciada desde el punto de vista del grado de complejidad del trabajo in -
+volucrado, pero que se articulan bajo la fuerza de planificación de una firma 
+líder.7
+6 Para el concepto de paradigma tecnoeconómico, véanse Freeman y Pérez (1988); sobre digitaliza -
+ción y redes, véanse UNCTAD  (2017) y Castells (1999).
+7 Es importante distinguir la cadena global como fenómeno histórico de lo que en la literatura es -
+pecializada se conoce como enfoque de cadenas globales de valor  de autores como Gereffi (1996), 13
+La condición periférica en el nuevo capitalismo La distinción entre actividades de producción y de innovación puede ser 
+un recurso útil para comprender la naturaleza de la forma-cadena bajo una 
+perspectiva de economía del conocimiento. Las capacidades de producción 
+son aquellas que se orientan en principio hacia el uso y la adaptación del 
+conocimiento existente. Según Bell y Albu (1999) y Bell y Pavitt (1995), es -
+tas capacidades se vinculan con la replicación y circulación de conocimiento 
+ya establecido dentro del sistema de producción, con la potencialidad de ex -
+pandir la capacidad productiva usando métodos de producción dados. Por 
+otro lado, el desarrollo de capacidades de innovación tiene como núcleo la 
+adquisición, creación, procesamiento y acumulación de nuevo conocimiento. 
+Innovar y producir son dimensiones del proceso de valorización que están en -
+trelazadas. La distinción analítica apunta, sin embargo, a diferenciar las etapas 
+productivas dominadas por las tareas de introducción de nuevo conocimiento 
+de aquellas orientadas sobre todo a la reproducción del conocimiento existen -
+te (Altenburg et al., 2008).
+La naturaleza del corte, en este sentido, alude al modo singularmente nue -
+vo en que se encadenan las actividades de producción con las de innovación. A 
+continuación, y como referencia básica para el análisis, se presenta un modelo 
+simple de cadena8 y la caracterización, en términos de economía del conoci -
+miento, que le subyace:
+Etapa de Concepción → Etapa de Producción → Etapa de Comercialización
+La etapa de concepción consiste en el desarrollo de nuevas técnicas produc -
+tivas y en la creación de diseños de producto. Se trata de una actividad especí -
+fica de innovación, de producción de nuevo conocimiento, que se apoya en el 
+exponencial aumento del poder de cómputo para acumular y procesar datos 
+que surge a partir de la difusión de las tecnologías de la información ( UNCTAD , 
+2017), pero que no se reduce a eso. El trabajo de concepción posee un carácter 
+“creativo” cuya función esencial es la de aportar un “plus” de sentido respecto 
+de la acumulación de información existente. A su vez, el espacio en el que 
+ese proceso de producción de conocimiento se despliega, no puede limitarse 
+a lo que ocurre al interior de las fronteras de una firma individual (Dieuaide 
+et al., 2007). Se trata, más bien, de un vínculo entre el sistema de formación 
+Kaplinsky (2000), Humphrey y Schmitz (2000) o Dicken (2003), entre otros. Considerar el fenó -
+meno histórico de cadena global no implica acordar con el marco normativo que surge de ese en -
+foque. Véase al respecto, T revignani y Fernández (2017).
+8 Para una presentación de diferentes modelos de cadena, véase Gereffi et al. (2005).14
+Sebastián Sztulwarke investigación de un determinado territorio y un heterogéneo entramado de 
+empresas. La potencia del trabajo que se despliega en esta etapa depende del 
+grado de complejidad del sistema de conocimiento en que se apoye.9 Así como 
+de la capacidad de la empresa para explotar económicamente el conocimiento 
+creado en ese marco. Los medios de monopolización del saber son muy va -
+riados, y encuentran en las patentes un medio fundamental de apropiación. 
+En la etapa de producción se lleva a cabo la adopción de los diseños y las 
+técnicas que fueron desarrolladas en la etapa previa y se realiza la tarea de pro -
+ducción propiamente dicha, que incluye la reproducción, captura o extracción 
+de recursos naturales, en el caso de los bienes primarios; la transformación 
+física de las materias primas y el ensamblado de partes y componentes en los 
+bienes industriales; y la provisión, en los servicios.10 La potencia productiva 
+de esta etapa se halla por completo ligada a la capacidad de reproducir, de un 
+modo eficiente, los conocimientos existentes. Y esta eficiencia debe enten -
+derse como la relación entre la productividad física y los costos del trabajo 
+involucrado, esto es, como la minimización del costo unitario de producción 
+de un bien o servicio. En este caso, la velocidad de adopción de las técnicas 
+más avanzadas y los diseños dominantes juega un papel crítico en el proceso 
+de competencia, hecho que pone en primer plano las barreras a la entrada de 
+naturaleza tecnológica e institucional que regulan la difusión del conocimien -
+to a nivel internacional (Amsden, 1989).
+La comercialización es la etapa final de la cadena. Más allá de que invo -
+lucra una serie de tareas relativamente simples, en esta etapa se despliega una 
+función que puede resultar decisiva para el éxito o fracaso de un producto en 
+el mercado. Se trata de la función de comunicación entre la empresa y el con -
+sumidor y, por lo tanto, de la creación de un discurso sobre el efecto subjetivo 
+que provee el consumo de una determinada mercancía. Su eficacia depende 
+de la construcción de un imaginario que sea capaz de movilizar el deseo del 
+consumidor y no sólo su interés. Se trata de una actividad intensiva en innova -
+ción, en tanto su foco es la producción de nuevo conocimiento, aunque de un 
+tipo diferente al que se crea en la etapa de concepción. La potencia del trabajo 
+en esta etapa hay que buscarla, no tanto en el sistema de ciencia y tecnología o 
+9 Para un análisis del sistema de innovación desde el punto de vista del enfoque de la complejidad, 
+véase Robert y Yoguel (2010). 
+10 La concepción de un servicio puede separarse de su ejecución (la propia provisión del servicio). Es 
+lo que ocurre, por ejemplo, con buena parte de las cadenas de servicios de consumo masivo en los 
+que esta fragmentación se expresa en términos de un franquiciante (concepción) y un franquiciado 
+(ejecución). 15
+La condición periférica en el nuevo capitalismo en las instituciones de formación e investigación, sino más bien, en las lógicas 
+que sirven para dotar a la mercancía de un “aura” cultural y que implican la 
+puesta en marcha de maquinarias lingüísticas orientadas a operar sobre la sub -
+jetividad del consumidor. El modelo de esta lógica debe buscarse en la propia 
+industria cultural (Lash y Urry, 1998: Power y Scott, 2004; Bocock, 1993; 
+Lazzarato, 2006).  
+Este esquema de cadena no es universal, pero domina en las principales 
+industrias del nuevo capitalismo. Sus propiedades fundamentales son: 
+a) Acortamiento del ciclo de vida de la tecnología y una creciente diferencia -
+ción de producto. De acuerdo con Corsani (2003), esta situación alude al 
+pasaje de un “régimen de reproducción”, en el que la valorización reposaba 
+sobre todo en el dominio del tiempo de reproducción de mercancías es -
+tandarizadas a un “régimen de invención”, en el que el proceso de valori -
+zación se apoya en un tiempo de creación de nuevos conocimientos. Esto 
+implica, como sostiene Vercellone (2011), que es cada vez más “atrás” de 
+la esfera del trabajo asalariado y del universo mercantil, en la sociedad, y 
+en particular en el sistema de formación e investigación, donde se encuen -
+tran la clave de la productividad y del desarrollo de la riqueza social. Estas 
+condiciones plantean nuevos conflictos en el plano de la apropiación de la 
+renta innovativa, esto, en el ejercicio de la propiedad sobre las creaciones 
+intelectuales.
+b) Una segmentación entre las actividades intensivas en innovación (creación 
+de nuevo conocimiento) y las actividades intensivas en producción (repro -
+ducción del conocimiento existente).11 Esta segmentación implica que las 
+empresas adoptantes se vean gradualmente despojadas de la capacidad de 
+crear sus propias técnicas de producción (Levín, 1997).   
+c) Desconcentración de la producción, pero centralización del comando; la 
+entrada de nuevos actores pertenecientes a espacios de acumulación perifé -
+ricos en la etapa de producción no implica una desconcentración del poder 
+dentro de las cadenas globales. En efecto, la empresa líder se ve obligada 
+a asumir funciones de gobierno ( governance ) en el conjunto de la cadena, 
+en tanto la separación entre innovación y producción contiene un riesgo 
+muy alto para la empresa subcontratante: que la empresa subcontratada 
+11 Este proceso de segmentación productivo es al mismo tiempo un proceso de fragmentación social, 
+de separación espacial (en una escala global) de los trabajadores calificados de los no calificados y, 
+por lo tanto, de la unidad de organización de los trabajadores que hasta entonces se encontraban 
+integrados en un mismo espacio nacional (Sassen, 1999). 16
+Sebastián Sztulwarkno cumpla con el estándar productivo (de calidad o tiempo de entrega, 
+por ejemplo) establecido. En ese sentido, el comando de la cadena implica 
+que la firma líder, si quiere garantizar su estándar de producto, no puede 
+desentenderse de las etapas subordinadas de la cadena y debe, por lo tanto, 
+asumir funciones de control y penalización en caso de incumplimiento y 
+tareas de asistencia técnicas para el desarrollo de sus proveedores (Kaplins -
+ky, 2000; Humphrey y Schmitz, 2000; Sassen, 1999).   
+d) La emergencia de una nueva estructura de gobierno de la producción de 
+carácter privada y global pone en primer plano la existencia de nuevas mo -
+dalidades de regulación de la acumulación global, que plantean nuevos de -
+safíos para el ejercicio de la soberanía en la esfera pública y nacional, centro 
+de la regulación del capitalismo industrial de posguerra. A su vez, las estra -
+tegias de las empresas multinacionales se articulan con redes políticas glo -
+bales en la construcción de nuevas modalidades de regulación financiera, 
+comercial, de la propiedad intelectual, de los estándares medioambienta -
+les, entre otras, que moldean la institucionalidad global con un innegable 
+sesgo centro-periferia (Sassen, 2007; Ramírez y Sztulwark, 2018).  
+Entonces, ¿cómo considerar la lógica estructural del nuevo capitalismo a 
+partir de la emergencia de esta estructura con forma de cadena? Una opción 
+sería plantear que el corte hace tabla rasa  con la lógica anterior. En ese sentido, 
+se podría afirmar que el potencial creciente de acumulación podría adquirir la 
+siguiente secuencia: de la función periférica de adopción de técnicas y diseños 
+productivos (ya creados) a la función central de desarrollo de esas técnicas y 
+diseños dominantes. Vale la pena insistir sobre el hecho de que cuando se agre -
+ga el término “dominante” ya se está incluyendo la etapa de comercialización, 
+sin la cual no existiría ningún proceso de dominio sobre la subjetividad del 
+consumidor, al menos no como fenómeno estructural. En términos de una 
+división cognitiva del trabajo, esto puede expresarse de la siguiente manera: 
+como el pasaje de actividades de reproducción de conocimiento existente (uso 
+y adaptación de conocimiento) a otras de creación de nuevo conocimiento 
+(innovación de punta mundial).12
+12 Una relativización de esta tendencia se puede considerar al diferenciar innovaciones de primera y 
+segunda generación (Breznitz y Murphree, 2011). En el primer caso, se refiere a la innovación de 
+productos radicalmente nuevos; la segunda, al desarrollo de nuevos atributos de productos ya exis -
+tentes o a mejoras incrementales de proceso. 17
+La condición periférica en el nuevo capitalismo Pero la lógica estructural del nuevo capitalismo no puede afirmarse como 
+tabla rasa  respecto a la del capitalismo de posguerra. La naturaleza del corte 
+no es esa. Las diferencias estructurales en la especialización sectorial no de-  
+saparecen. El potencial de acumulación sigue siendo heterogéneo respecto  
+de la estructura sectorial de la producción. Pero esa heterogeneidad es atrave -
+sada por la forma-cadena. De este modo, formar parte de un sector de punta 
+mundial no implica asumir funciones de centralidad . Es el caso de un trabajador 
+de la periferia que realiza tareas simples en una industria de alta tecnología.
+La idea central para considerar es, entonces, que L1, en tanto lógica estruc -
+tural del capitalismo de posguerra, que se define según una clasificación del 
+grado de complejidad de los diferentes sectores productores de bienes, sigue 
+vigente, pero ya no como norma dominante. En efecto, L1 está atravesada por 
+una nueva lógica que corta, al interior de los diferentes sectores (aunque no 
+en todos), las actividades de creación de las de reproducción de conocimien -
+to. Ese es el corte. Es una división que se impone sobre la lógica anterior sin 
+eliminarla.  En consecuencia, se puede escribir la lógica estructural del nuevo 
+capitalismo  (L2) de la siguiente manera:
+L2 = L1 / (A → D)
+Esto es, en el nuevo capitalismo a la lógica estructural del capitalismo de 
+posguerra (L1), se le impone (y la divide) una estructura con forma de cadena 
+que expresa una secuencia de acumulación creciente a partir del pasaje de una 
+función de Adoptante ( A) a otra de Desarrollador ( D) de técnicas productivas 
+y diseños construidos como dominantes por un discurso empresarial.    
+El cambio estructural en el nuevo capitalismo es, por lo tanto, un cambio 
+de posición en la estructura en el sentido A → D en sectores de creciente po -
+tencial de acumulación. A su vez, vale la pena considerar en qué medida L1 se 
+ve alterada (o persiste) cuando es atravesada por la lógica estructural del nuevo 
+capitalismo. Los cambios fundamentales a considerar son: 
+a) Una revalorización de los bienes de consumo en relación con los de pro -
+ducción, derivada de una creciente importancia de la estética y la comuni -
+cación (Jameson, 1991);
+b) Una incorporación más plena de los servicios en la lógica estructural, a par -
+tir de un mayor potencial innovativo tanto en los servicios financieros, de 
+logística y distribución de contenidos, de informática o asistencia técnica 
+especializada, entre otros, como en aquellos que se orientan al consumo 18
+Sebastián Sztulwarkmasivo y tienden a estructurarse en cadenas comerciales de franquicias con 
+despliegue global (Low, 2013). 
+c) Un proceso de descomoditización de bienes primarios, a partir de una cre -
+ciente diferenciación de producto, ya sea por los avances en el diseño gené -
+tico de la materia viva, por la certificación de la denominación de origen o 
+por características distintivas del proceso productivo, como el carácter de 
+“orgánico” o la modalidad de “comercio justo”, entre otros (Kaplinsky y 
+Fitter, 2004; Sztulwark y Girard, 2016).   
+Del lado de la persistencia sobresale que en algunas ramas de la industria 
+manufacturera aún no es posible segmentar, al menos no por completo, las fa -
+ses de concepción de las de ejecución. La existencia de una ingeniería comple -
+ja opera como una barrera para alcanzar el grado de codificación necesario que 
+permita independizar los aprendizajes de procesos de los de producto (Pisano 
+y Shih, 2012). A su vez, en las actividades en las que la ingeniería constituye 
+en sí misma una barrera a la entrada mayor, ésta puede actuar como un activo 
+complementario sobre el cual apropiar las rentas que surgen de la innovación 
+de producto (Teece, 1986). En este sentido, en la metalmecánica se expresa 
+algo de una lógica anterior que no es tan fácil de asimilar por la lógica domi -
+nante del nuevo capitalismo, un punto resistente al corte. 
+La condición periférica adquiere en este marco una nueva significación. Si 
+en las actividades innovación-intensivas se verifica un proceso de elevación de 
+barreras a la entrada, que se deriva del desarrollo de sistemas de conocimiento 
+de creciente complejidad y de la concentración de la capacidad para explotar 
+económicamente el conocimiento en una escala global, no ocurre lo mismo 
+con las etapas producción-intensivas, en las que se experimenta una amplia -
+ción de su oferta global, a partir de la entrada de nuevos actores (Altenburg et 
+al., 2008). De este modo, las actividades innovación intensivas (desarrollo de 
+técnicas productivas y creación de diseños dominantes) asumen las funciones 
+de centralidad  en la nueva estructura y las actividades producción-intensivas 
+(posición de “adoptante”) asumen un papel periférico en la dinámica de la 
+estructura. 
+En términos geográficos, el cambio de estructura implica un desplaza -
+miento del centro de la economía mundial desde la zona del Atlántico hasta 
+la del Pacífico (la costa Oeste de Estados Unidos y Asia oriental). Esta región, 
+sin embargo, no constituye un espacio unificado de comando de la economía 
+mundial, por el contrario, está sujeto a la segmentación propia de la estructura 
+mundial con forma-cadena. De un lado, la costa Oeste de Estados Unidos con 
+los símbolos mayores de la alta innovación tecnológica (Sillicon Valley) y cul -19
+La condición periférica en el nuevo capitalismo tural (Hollywood y las nuevas plataformas digitales de provisión de conteni -
+dos). Por otro, la costa oriental de Asia, con China como máximo exponente, 
+en donde se concentran las mayores capacidades de producción del mundo. 
+El modelo asiático admite, a su vez, una diferenciación interna, entre aquellos 
+países que sólo dominan la etapa de producción y los que además han reali -
+zado avances significativos en materia de innovación de segunda generación, 
+esto es, desarrollos nuevos pero complementarios a la innovación fundamental 
+(Breznitz y Murphree, 2011; Rivera Ríos, 2016). 
+5. conclus IonEs 
+En este trabajo se presentó la idea de que para pensar la condición periférica 
+en la actualidad se requiere considerar la existencia de un corte histórico en la 
+dinámica del capitalismo en tanto sistema mundial. El foco del problema es 
+que la representación del sendero de cambio estructural inscripto en el ideal 
+de industrialización de posguerra podría no ser el adecuado para comprender 
+las condiciones de estructura vigentes en el capitalismo contemporáneo y, por 
+lo tanto, para aproximarse a los factores que explican la posición de los países 
+en el espacio de la economía mundial. 
+La categoría “lógica estructural”, propuesta en este trabajo, apunta a iden -
+tificar cómo, a partir de ese corte histórico, se produjo un cambio en la se -
+cuencia que articula las diferentes actividades productivas según su potencial 
+de acumulación. Esta transformación demanda una nueva comprensión de 
+cómo se estructura en la economía mundial la relación entre trabajo simple y 
+complejo. En este artículo se planteó, como una aproximación exploratoria, 
+que el núcleo fundamental de esa dinámica lo constituye la forma-cadena, un 
+dispositivo organizacional que articula de un modo singularmente nuevo las 
+actividades de creación con las de reproducción de conocimiento. 
+Sobre esta base, se avanzó en la distinción entre la lógica estructural de 
+posguerra y la que rige en las condiciones del capitalismo contemporáneo. En 
+el primer caso, la lógica puede ser representada como un proceso de diferen -
+ciación sectorial que va desde lo primario a lo industrial, y que se profundiza 
+en dirección a los bienes de producción, los durables de consumo y los bienes 
+de capital. En el segundo caso, alude al pasaje de una función de adoptante 
+a otra de desarrollador de técnicas productivas y diseños construidos como 
+dominantes por un discurso empresarial. Esta nueva lógica no impugna la 
+idea de estructura en tanto diferenciación sectorial de la producción propia del 
+capitalismo de posguerra, pero se le impone como norma dominante.  20
+Sebastián SztulwarkAsí, la relevancia de este análisis radica en que induce a revisar de forma 
+crítica si existe consistencia entre la estrategia de cambio estructural y la es -
+tructura de la economía mundial. Su implicancia fundamental, como se ve, es 
+el hecho de que concebir el cambio estructural en clave de la lógica estructural 
+de posguerra significa tomar una dirección que conduce a un lugar que ya no 
+existe en la estructura. 
+De este modo, considerar la condición periférica en el nuevo capitalismo 
+demanda algo más que adecuar los conceptos existentes a las condiciones his -
+tóricas del presente. Hay algo nuevo que pensar: la naturaleza de un corte. 
+El estructuralismo latinoamericano de posguerra fue pionero en la tarea de 
+aprender a leer las condiciones de estructura de su época e hizo de ese saber 
+una escuela de pensamiento. El esfuerzo fue abandonado sistemáticamente. 
+Retomar la tarea, ante los incesantes cambios del capitalismo mundial, exige 
+sostener una apuesta por un programa de investigación que sea capaz de pro -
+ducir una nueva escritura allí donde insiste la repetición.  
+BIBlIografía  
+Altenburg, T., Schmitz, H. y Stamm, A. (2008), “Breakthrough? China’s and 
+India’s transition from production to innovation”, World Development , 
+vol. 36, núm. 2, DOI <https://doi.org/10.1016/j.worlddev.2007.06.011>
+Amsden, A. (1989), Asia’s next giant: South Korea and late industrialization , 
+New York, Oxford University Press.
+______ (2004), “La sustitución de importaciones en las industrias de alta tec -
+nología: Prebisch renace en Asia”, Revista de la CEPAL , núm. 82, Santiago 
+de Chile, CEPAL , abril. 
+Arrighi, G. y Silver, B. (2001), “Capitalism and world (dis)order”, en M. 
+Cox, T. Dunne y K. Booth (eds.), Empires, systems and states: great trans -
+formations in international politics , Cambridge y New York, Cambridge 
+University Press.
+Bell, M. y Pavitt, K. (1995), “The development of technological capabilities”, 
+en I. U. Haque (ed.), Trade and international competitiveness, Washington, 
+Banco Mundial.
+______ y Albu, M. (1999), “Knowledge systems and technological dyna -
+mism in industrial clusters in developing countries”, World Development , 
+vol. 27, núm. 9, Gran Bretaña, Elsevier Science, septiembre.
+Bocock, R. (1993),  El consumo , Madrid, Talasa Ediciones.21
+La condición periférica en el nuevo capitalismo Breznitz, D. y Murphree, M. (2011), Run of the red queen: government, in -
+novation, globalization, and economic growth in China , New Haven, Yale 
+University Press.
+Castells, M. (1999), La era de la información. Economía, sociedad y cultura,  
+vol. 1,  “La sociedad red”, Buenos Aires, Siglo XXI Editores.
+Cimoli, M., Porcile, G., Primi, A. y Vergara, S. (2005), “Cambio estructural, 
+heterogeneidad productiva y tecnología en América Latina”, en M. Cimoli 
+(ed.), Heterogeneidad estructural, asimetrías tecnológicas y crecimiento en 
+América Latina,  Santiago de Chile, CEPAL-BID.
+Comisión Económica para América Latina y el Caribe ( CEPAL)  (2012), Cam-
+bio estructural para la igualdad: una visión integrada del desarrollo , Santiago 
+de Chile, CEPAL .
+Conferencia de las Naciones Unidas sobre Comercio y Desarrollo  (UNCTAD)  
+(2017), Informe sobre la Economía de la Información 2017. Digitalización, 
+comercio y desarrollo , Ginebra, Conferencia de las Naciones Unidas sobre 
+Comercio y Desarrollo.
+Coriat, B. (1991), Pensar al revés. Trabajo y organización de la empresa japone -
+sa, México, Siglo XXI Editores.
+Corsani, A. (2003), “Elementos de uma ruptura: a hipótese do capitalismo 
+cognitivo”, en G. Cocco, A. Patez Galvao y G. Silva (orgs.), Capitalismo 
+Cognitivo. Trabalho, Redes e Innovación , Río de Janeiro, DP&A Editora.
+Dabat, A. (2006), “Capitalismo informático y capitalismo industrial. Acerca -
+miento al perfil histórico del nuevo capitalismo”,  Economía Informa , núm. 
+338, México, UNAM , enero-febrero.
+Dicken, P. (2003), Global shift: transforming the world economy , New York, 
+Guilford Press.
+Dieuaide, P., Paulré, B. y Vercellone, C. (2007), “Introducción al capitalismo 
+cognoscitivo”, en M. A Rivera Ríos y A. Dabat (eds.), Cambio histórico 
+mundial, conocimiento y desarrollo , México, UNAM /Casa Juan Pablos.
+Fajnzylber, F. (1983), La industrialización trunca de América Latina , Buenos 
+Aires, Centro Editor de América Latina.
+Fernández, V.R. (2016), La trilogía del erizo-zorro: redes globales, trayectorias 
+nacionales y dinámicas regionales desde la periferia,  Buenos Aires y Santa Fe, 
+Editorial Anthropos y Ediciones de la Universidad Nacional del Litoral.
+Freeman, C. y Pérez, C. (1988), “Structural crises of adjustment, business 
+cycles and investment behavior”, en G. Dosi, Ch. Freeman, R. Nelson, 
+G. Silverberg y L. Soete (eds.), Technical change an economy theory , Lon -
+dres, Pinter Publisher.22
+Sebastián SztulwarkGereffi, G. (1996), “Global commodity chains: new forms of coordination 
+and control among nations and firms in international industries”, Compe -
+tition & Change , vol. 1, núm. 4, Amsterdam, OPA, diciembre.
+Gereffi, G., Humphrey, J. y Sturgeon, T. (2005), “The governance of global 
+value chains”, Review of international political economy (special issue: aspects 
+of globalization) , vol. 12, núm. 1, DOI <10.1080/09692290500049805>
+Gorz, A. (1998), Miserias del presente, riqueza de lo posible , Buenos Aires, 
+Paidós.
+Hirschman, A. (1968), “The political economy of import-substituting indus -
+trialization in Latin America”, The Quarterly Journal of Economics , vol. 82, 
+núm. 1, Cambridge, Oxford University Press, febrero.
+______ (1980), “Auge y ocaso de la teoría económica del desarrollo”, El Tri -
+mestre Económico,  vol. 47, núm. 4, México, Fondo de Cultura Económica, 
+octubre-diciembre.
+Humphrey, J. y Schmitz, H. (2000), “Governance and upgrading: linking 
+industrial cluster and global value chain research”, IDS Working Paper,  
+núm. 120, Brighton, University of Sussex.
+Jameson, F. (1991), El posmodernismo o la lógica cultural del capitalismo avan -
+zado,  Buenos Aires, Paidós.
+Kaplinsky, R. (2000), “Globalization and unequalization: what can be lear -
+ned from value chain analysis”, The Journal of Development Studies, vol. 37, 
+núm. 2, diciembre, DOI <https://doi.org/10.1080/713600071>
+Kaplinsky, R. y Fitter, R. (2004), “Technology and globalisation: who gains 
+when commodities are de-commodified?”, International Journal of Techno -
+logy and Globalisation , vol. 1, núm. 1, DOI <10.1504/IJTG.2004.004548>
+Katz, J. y Kosacoff, B. (1998), “Aprendizaje tecnológico, desarrollo institu -
+cional y la microeconomía de la sustitución de importaciones”, Desarrollo 
+Económico , vol. 37, núm. 148, enero-marzo, doi < 10.2307/3467409>
+Lash, S. y Urry, J. (1998), Economías de signo y espacio , Buenos Aires, 
+Amorrortu Editores.
+Lazzarato, M. (2006), Políticas del acontecimiento,  Buenos Aires, Tinta Limón 
+Ediciones.
+Leiva, F. (2008), Latin American Neostructuralism. The Contradictions of  
+Post-Neoliberal Development , Minneapolis, University of Minnesota Press.
+Levín, P. (1997), El capital tecnológico,  Buenos Aires, Catálogos. 
+Low, P. (2013), “The role of services in global value chains”, en D. Elms y  
+P. Low (eds.), Global value chains in a changing world , Ginebra, World 
+Trade Organization. 23
+La condición periférica en el nuevo capitalismo Míguez, P. (2008), “Las transformaciones recientes de los procesos de tra -
+bajo: desde la automatización hasta la revolución informática”,  Trabajo y 
+sociedad , vol. X, núm. 11, Argentina, Universidad Nacional de Santiago 
+del Estero. 
+Moulier-Boutang, Y. (2004), “Riqueza, propiedad, libertad y renta en el ca -
+pitalismo cognitivo”, en E. Rodríguez y R. Sánchez (comp.), Capitalismo 
+cognitivo. Propiedad intelectual y creación colectiva,  Madrid, Traficantes de 
+Sueños.
+Ocampo, J. A. (2011), “Macroeconomía para el desarrollo: políticas anticícli -
+cas y transformación productiva”, Revista de la CEPAL , núm. 104, Santia -
+go, CEPAL , agosto.
+Patel, S. J. (1987), “Prefacio”, en D. Chudnovsky y M. Nagao, Bienes de capi -
+tal y tecnología en el tercer mundo , Buenos Aires, Centro Editor de América 
+Latina. 
+Perez, C. (2002), Technological revolutions and financial capital. The dynamics 
+of bubbles and golden ages , Cheltenham, Edgard Elgar.
+Piore, M. y Sabel, C. (1984), The second industrial divide , New York, Basic 
+Books.
+Pisano, G. y Shih, W. (2012), Producing prosperity: why America needs a ma -
+nufacturing renaissance , Cambridge, Harvard Business Review Press.
+Power, D. y Scott, A. (2004), Cultural industries and the production of culture , 
+London y New York, Routledge.
+Prebisch, R. (1963) [1949], “El desarrollo económico de América Latina y 
+algunos de sus principales problemas”, Boletín Económico de la América 
+Latina , vol. VII, núm. 1, Nueva York, CEPAL , febrero.
+______ (1987), “Cinco etapas de mi pensamiento sobre el desarrollo”, Co-
+mercio Exterior , vol. 37, núm. 5, México, Banco Nacional de Comercio 
+Exterior, mayo. 
+Ramírez, R. y Sztulwark, S. (2018), “América Latina: de la inmovilidad es -
+tructural al cambio en la matriz cognitiva”, Estado y Políticas Públicas , 
+núm. 10, Buenos Aires, FLACSO . 
+Rivera Ríos, M.A. (2016), “República Popular China: aprendizaje tecnoló -
+gico y retos del desarrollo exportador”, Economía: teoría y práctica, Nueva 
+Época, núm. 44, México, UAM, enero-junio.
+Robert, V. y Yoguel, G. (2010), “La dinámica compleja de la innovación y el 
+desarrollo económico”, Desarrollo Económico , vol. 50, núm. 199, Buenos 
+Aires, IEDS, octubre-diciembre.24
+Sebastián SztulwarkRodríguez, O. (1977), “Sobre la concepción del sistema centro-periferia”, 
+Revista de la CEPAL , Santiago de Chile, Naciones Unidas-Comisión Eco -
+nómica para América Latina, primer semestre.
+Rullani, E. (2000), “El capitalismo cognitivo: du déjà vú?”, Revista Multitu -
+des, núm. 2, DOI <10.3917/mult.002.0087>
+Sassen, S. (1999), La ciudad global , Buenos Aires, Eudeba.
+______ (2007), Sociología de la globalización , Buenos Aires, Katz.
+______ (2010), Territorio, autoridad y derechos. De los ensamblajes medievales 
+a los ensamblajes globales , Buenos Aires, Katz.
+Stiglitz, J. (2003), “Globalization and the logic of international collective ac -
+tion: re-examining the Bretton Woods Institutions”, en D. Nayyar (ed.), 
+Governing globalization: issues and institutions , New York, Oxford Univer -
+sity Press.
+Sztulwark, S. (2005), El estructuralismo latinoamericano. Fundamentos y trans -
+formaciones del pensamiento económico de la periferia , Buenos Aires, Pro -
+meteo/ UNGS . 
+Sztulwark, S. y Girard, M. (2016), “Genetically modified seeds and the de-
+commodification of primary goods”, International Journal of Biotechno -
+logy, vol. 14, núm. 2, DOI <https://doi.org/10.1504/IJBT.2016.077955>
+Teece, D. (1986), “Profiting from technological innovation”, Research Policy , 
+vol. 15, núm. 6, DOI <https://doi.org/10.1016/0048-7333(86)90027-2>
+Trevignani, M. y Fernández, V.R. (2017), Desarrollo y cadenas globales de va -
+lor. Una revisión crítica desde la periferia,  Santa Fe, Universidad Nacional 
+del Litoral.
+Vercellone, C. (2011), Capitalismo cognitivo. Renta, saber y valor en la época 
+posfordista , Buenos Aires, Prometeo.

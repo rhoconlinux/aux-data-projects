@@ -1,0 +1,742 @@
+r t í c u l o sre n t a s  e c o n ó m i c a s  e n e l m a r c o   
+d e l a g l o b a l i z a c i ó n : d e s a r ro l l o  y a p r e n d i z a j e
+Alejandro Dabat*
+Miguel A. Rivera Ríos**
+Sebastián Sztulwark***
+Fecha de recepción: 30 de mayo de 2007. Fecha de aceptación: 24 de agosto de 2007.
+Resumen
+En este artículo se estudian las rentas económicas globales ( reg) que son un producto 
+de la integración global de la producción y de la emergencia de nuevos patrones de 
+competencia. Los antecedentes teóricos del concepto se encuentran en la economía clásica, en Marx y Schumpeter. Se señala que los análisis sobre producción mundial integrada han colocado la elaboración del tema en un nuevo terreno que conecta con la organización de la empresa, los activos de conocimiento y el cambio tecnológico. Sin embargo, habría que llegar más lejos. Con excepción de las compañías de las econo -
+mías dinámicas de Asia, China y en medida cada vez mayor India, el resto de los países en desarrollo tiene una posición precaria en la lucha por las 
+reg, lo que constituye una 
+limitante más de su desarrollo.
+Palabras clave: competencia global, desarrollo nacional, rentas económicas, estrate -
+gias empresariales, políticas de competencia y aprendizaje tecnológico.
+* Investigador del Instituto de Investigaciones Económicas ( iiec)de la Universidad Nacional Au -
+tónoma de México ( u n a m ). Correo electrónico: dabat@servidor.unam.mx.
+** Profesor-investigador del Posgrado de la Facultad de Economía de la u n a m : Correo electróni -
+co: mriverarios@hotmail.com.
+*** Profesor-investigador de la Universidad General de Sarmiento, Argentina: Correo electrónico: 
+ssztulwa@ungs.edu.ar.Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200712
+Abstract
+This article deals with global economic rents ( g e r), which are a product of the global 
+integration of production and the emergence of new patterns of competition. The 
+theoretical antecedents of the concept are found in the classical economic theory of Marx and Schumpeter. This states that analysis of integrated world production has placed elaboration of the subject on new ground connecting the organization of the firm with knowledge assets and technological changes. However, it will have to go further than this. With the exception of companies in the dynamic economies of Asia, China and to an increasingly greater extent India, the other developing countries have a precarious position in the struggle for 
+g e r, this constituting a further limit on their development.
+Key words: global competition, national development, economic rents, business strategies, competition policies and technological learning.
+Résumé
+Dans cet article, sont étudiées les rentes économiques globales ( reg) qui résultent 
+de l’intégration globale de la production et de l’émergence de nouveaux schémas de compétition. Les antécédents théoriques du concept se trouvent dans l’économie classique, dans les travaux de Marx et Schumpeter. On remarque que les analyses relatives à la production mondiale intégrée ont placé l’élaboration du thème sur un nouveau terrain où l’organisation de l’entreprise se trouve liée aux actifs de savoir et au changement technologique. Pourtant, il faudrait aller plus loin. À l’exception des entreprises des économies dynamiques d’Asie, de Chine et, de plus en plus, de l’Inde, les pays en voie de développement se trouvent dans une position précaire dans la lutte pour les 
+reg, ce qui freine d’autant plus leur développement. 
+Mots clés: compétition globale, développement national, rentes économiques, stratégies d’entreprise, politiques de compétition et apprentissage technologique.
+Resumo
+Neste artigo estudam-se as rendas econômicas globais ( reg) que são um produto da 
+integração global da produção e da emergência de novos padrões de concorrência. Os antecedentes teóricos do conceito encontram-se na economia clássica, em Marx e Schumpeter. Assinala-se que as análises sobre produção mundial integrada colocaram a elaboração do tema em um novo terreno que conecta com a organização da empresa, os ativos de conhecimento e a mudança tecnológica. No entanto, seria necessário ir mais longe. Com a exceção das companhias das economias dinâmicas da Ásia, China e em medida cada vez maior da Índia, o resto dos países em desenvolvimento tem uma posição precária na briga pelas 
+reg, o que constitui mais um fator limitante para o seu 
+desenvolvimento.
+Palavras chave: concorrência global, desenvolvimento nacional, rendas econômicas, 
+estratégias empresariais, políticas de concorrência e aprendizagem tecnológica.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200713
+Introducción
+En los últimos 30 años la economía mundial ha sufrido cambios estructurales 
+que han modificado la inserción de naciones y localidades, especialmente de países en desarrollo. La integración global de la producción y la globalización 
+de la competencia son, sin duda, dos de esos cambios fundamentales, entre otras razones porque han ampliado la posibilidad de obtener rentas económicas o sobre -
+ganancias.
+1 La difusión de las tecnologías de la información y la comunicación ha 
+permitido integrar globalmente la producción, transfiriendo a un centro empresarial el comando o coordinación de la suma de capacidades productivas nacionales para constituir la base de las rentas globales. Al tratarse de una integración funcional de actividades nacionales antes dispersas se da un salto en comparación con la produc -
+ción y concurrencia entre naciones, fundamento de las rentas internacionales en el sentido clásico.
+Para las empresas líderes en el mundo, la obtención de las 
+r e g es el principal 
+móvil para competir, lo cual, como se verá, ha contribuido a cambiar las reglas de la competencia mundial. Las firmas más competitivas de las economías dinámicas de Asia empiezan a tener una significativa y creciente participación en estos ingresos. Sin embargo, para el conjunto de los países de desarrollo tardío o latecomers , espe -
+cialmente para los más avanzados, el mayor potencial de valorización se encuentra en las rentas internacionales, o sea la forma histórica previa. Como explican Amsden (1989), Pérez (2004) y otros autores, la etapa de maduración en el ciclo internacional de vida del producto abate las barreras a la entrada y les permite a las compañías más competitivas de un latecomers  dinámico generar un tipo sui generis  de innovación 
+que da lugar a lo aquí se llamarán rentas internacionales de aprendizaje . La capacidad 
+para transformar productos genéricos o commodities  en fuente de rentas económicas, 
+tal como ha sido ampliamente destacado en la literatura sobre el “milagro asiático”, requiere una combinación compleja de capacidades. De una parte, de la empresa que produce y exporta, pero igualmente de la nación que aporta infraestructura, cua -
+dros laborales, técnicos e ingenieros calificados, pero sobre todo capacidad social 
+1 Aquí se usan indistintamente y como equivalentes los conceptos de renta económica, sobre -
+ganancia o ganancia extraordinaria. Aunque pertenecen a distintas tradiciones teóricas, su 
+significación confluye hasta considerar los sinónimos conceptuales.Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200714
+(Ohkawa y Rosovsky, 1973 y Abramovitz, 1998/1986)  u organizacional (Hoff y Sti -
+glitz, 2001), que se concretó históricamente en el Estado desarrollista (Chalmers 
+Johnson, 1982; Wade, 1999).
+Los países con menor éxito en su desarrollo, como los de América Latina, han 
+tenido también acceso a rentas económicas internacionales aun antes de que el mer -
+cado adquiriera una dinámica global, primordialmente por la vía de los productos 
+primarios ( renta internacional del suelo ), por ejemplo del tipo minero, agrícola o 
+petrolero. Ese acceso no ha estado exento de requerimientos especiales ni tampoco libre de conflictos porque generalmente la explotación de los recursos primarios con mayor potencial para generar rentas económicas quedó en manos —y frecuentemente lo sigue— de grandes empresas transnacionales; en consecuencia, la apropiación nacional de al menos una parte de esos ingresos extraordinarios ha implicado un en -
+frentamiento/negociación entre el Estado y las compañías transnacionales. Pero una vez que esos ingresos pasan a los circuitos nacionales queda planteado el problema de su utilización como palanca en favor del aprendizaje en el sentido asiático. Si se asume que el desarrollo de la capacidad social u organizacional es la condición sine 
+qua non  para una mayor participación en las rentas económicas y retroalimentar el 
+desarrollo, el problema de esas naciones latinoamericanas remite a los fundamentos de su organización socioeconómica y política.
+Hoy en día, cuando parece abrirse una nueva etapa en el desarrollo de la economía 
+mundial marcada por el vertiginoso ascenso de China, la mayor difusión interna -
+cional del conocimiento tecnológico y la revalorización de los recursos naturales plantean una gran oportunidad para América Latina, pero igualmente le imponen a la región enormes exigencias para generar rentas de aprendizaje.
+Este artículo propone rediscutir la experiencia de los países en desarrollo (
+p e d) 
+tomando como foco de análisis la competencia global y como punto de apoyo la relación clave entre rentas globales, de aprendizaje y capacidad organizacional. Pre -
+cisamente por el interés en esa relación es crucial en este planteamiento el concepto de núcleo endógeno  (Fajnzylber, 1983:345-358) o endogenidad
+2 para referirnos a los 
+sustentos nacionales del desarrollo económico (constitución de los agentes, enlaces, orientación productiva y estratégica, entre otros).
+La exposición que se presenta en seguida está organizada de una manera que 
+intenta equilibrar entre las exigencias teórico-analíticas y las históricas en un tema 
+2 Según Fajnzylber, fortalecimiento del núcleo endógeno significa desarrollo sustentado en 
+aprendizaje en la medida que los agentes nacionales (empresas y trabajadores) acumulan 
+conocimiento y escalan en la cadena de valor.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200715
+de frontera. En el primer apartado se ubican algunas de las principales aportaciones 
+teóricas para el estudio de las rentas económicas y se buscan elementos de unidad 
+entre ellas. El segundo se centra en las repercusiones del cambio mundial (globali -
+zación, cambio tecnológico acelerado…), en la constitución de las sobreganancias, al revisar críticamente el análisis propuesto por Kaplinsky en su libro de 2005, pero hacia una concepción más amplia, a partir de formular la hipótesis de que las rentas económicas globales representan un desarrollo ulterior de la forma previa, es decir, la sobreganancia internacional que existe desde que se constituyó el mercado capitalista mundial; en este apartado la discusión de los mecanismos de apropiación de sobre -
+rrendimientos en los tigres asiáticos , específicamente en Corea del Sur y Taiwán, 
+es central para plantear una crítica a la interpretación de Kaplinski, para lo cual se tomarán como base varios trabajos de Amsden y coautores. En el tercer apartado se abordan las implicaciones para América Latina que, como se dijo, se encuentra ante la nueva oportunidad histórica derivada del auge internacional de los productos primarios; la experiencia histórica indica que el pasaje a las rentas de aprendizaje no es automático, sino que se requiere una respuesta que parta de los fundamentos de la organización socioeconómica y político-institucional.
+La discusión teórica acerca de las sobreganancias
+La ortodoxia y la raíz clásica del concepto
+La llamada teoría pura del comercio internacional  no da cabida al concepto de so -
+breganancias de este sector. Este primer enfoque ortodoxo supone que prevalece una 
+situación de beneficio mutuo, fundada en el principio de competencia perfecta. Sin embargo, con los nuevos desarrollos teóricos y, hasta cierto punto, autocríticos que se verificaron con posterioridad a la década de los setenta y que se concretaron en la nueva teoría del comercio , las sobreganancias estáticas (o ganancias oligopólicas) 
+obtenidas en el comercio internacional pasaron a ocupar un lugar central en la teoría y el análisis neoclásico (Krugman y Obstfeld, 1995; Grossman y Helpman, 1990). Al sustituir el supuesto de rendimientos constantes por rendimientos crecientes se admite la competencia imperfecta, de modo que algunas empresas nacionales gana -
+rán participación creciente en el mercado internacional, lo que lleva a la desaparición del supuesto del beneficio mutuo y conjuntamente del mérito normativo atribuido al comercio internacional.
+El nuevo interés en el estudio más realista de la competencia internacional y sus 
+efectos asimétricos referidos con anterioridad no quedaron confinados a la implosión Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200716
+neoclásica. Se abrió un amplio espectro de filiación heterodoxa en el que se retoma -
+ron aportaciones efectuadas por la teoría de la organización industrial (Bain, 1968), 
+del resource based view  (Penrose, 1972; Foss, 1996), de la teoría de la competencia 
+imperfecta (Chamberlin, 1933; Robinson, 1974) y del oligopolio (Labini, 1966). El estudio de las corporaciones multinacionales bajo la perspectiva del estudio clásico de Hymer (1976) —las empresas transnacionales como resultado de imperfecciones del mercado internacional— confluyó con la teoría del ciclo de vida del producto (Vernon, 1975 y Hirsch, 1965 y 1975), de las brechas tecnológicas (Thirlwall, 1980 y Kaldor, 1975), etcétera, para dar una nueva perspectiva al estudio de las sobrega -
+nancias internacionales.
+Desde el punto de vista de la economía política clásica, la aportación de Ricardo 
+al estudio de las rentas económicas constituye el punto de partida, al explicar por qué la tierra más fértil se hace acreedora a un ingreso extraordinario conforme se extiende la frontera agrícola. Aunque Ricardo dejó establecida la noción de escasez como base de la renta, el marco de sus preocupaciones era el mathusiano en su enfoque, ya que asumía una fertilidad decreciente del suelo avalada por el impacto del precio crecien -
+te de los granos en la Inglaterra de principios del siglo 
+x i x, que interpretaba como 
+tendencia secular. La crítica de Marx, condensada en el concepto de renta diferencial 
+ii (aumento de los rendimientos agrícolas merced a inversiones adicionales en la 
+agricultura), fue decisiva para liberar el concepto de su camisa de fuerza malthusiana. Esa modalidad 
+ii es equiparable a la plusvalía extraordinaria que Marx expone en el 
+tomo i, capítulo 10, de El capital : el capitalista individual se ve alentado para intro -
+ducir progreso tecnológico en tanto ello le permita reducir su costo de producción (o valor individual) y vender al precio vigente en el mercado (valor social dado). En esta primera aproximación, Marx formuló el mecanismo básico de la constitución de la plusvalía extraordinaria (antecedente conceptual de la sobreganancia, o su forma esencial), circunscribiéndolo a lo que ahora se puede considerar como la economía nacional. Hay una segunda aproximación de Marx en la que examina el caso en el cual una unidad de trabajo social es más productiva externa que internamente; en otras palabras, la empresa de un país más avanzado puede vender sus mercancías por encima de su valor interno nacional , lo cual le permite obtener una sobreganancia 
+realizable en el comercio internacional, pero atribuible a las diferencias nacionales de productividad. Ésta es la base conceptual importante de lo que en este trabajo se denomina “renta económica internacional”.
+El concepto de sobreganancia implica la existencia de una ganancia “normal” 
+que Marx llama media (1946, tomo 
+iii, sección ii). Éste, afín al del precio natural en rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200717
+el sentido clásico, tiene la función teórica de explicar la movilidad del capital en fun -
+ción de las oportunidades de rentabilidad entre sectores y es el eje del metabolismo 
+social para desarrollar las fuerzas productivas. Más allá de la cuestión teórica pura, la pregunta es si la ganancia normal tiene existencia en un nivel superior de concre -
+ción. Ésa fue la preocupación que asumió Schumpeter, el padre de la teoría moderna de la innovación, al relacionar el ciclo económico, principalmente las ondas tipo Kondratiev, los brotes discontinuos de innovación y las cambiantes oportunidades de ganancia empresarial (véase 1946, caps. 
+ii y v i y 1939/1964, cap. 4). Su respues -
+ta, que inspiró el planteamiento sobre el ciclo de vida tecnológico y el desarrollo de la teoría de las revoluciones tecnológicas, es clara: la ganancia capitalista sigue un proceso en el que a grandes rasgos aparecen tres momentos distintivos: recesión/de -
+presión, reanimación y despunte del beneficio extraordinario (producto de la apari-ción de nuevas combinaciones) y el descenso y estabilización (difusión social de las innovaciones). Schumpeter, al igual que Marx, asume que la aparición del beneficio extraordinario tiene la función de atraer capital a una actividad de reciente apertura y que por ende reclama una mayor proporción del trabajo social.
+Según Schumpeter, las ondas de destrucción creativa o revoluciones tecnológicas 
+siguen esa secuencia o ciclo que implica, en un extremo, oportunidades máximas de rentabilidad contra oportunidades crecientemente desfavorables. Sin embargo, como advierten Dosi et al. (1993), Freeman y Pérez (1988), la relación entre cambio tec -
+nológico y sobreganancias ha tendido a volverse más compleja, cuestión sobre la que se volverá más adelante. Lo que es necesario destacar aquí es que la elaboración teórica de la noción de sobreganancias efectuada por Marx y Schumpeter se centra en la modalidad o fuente estrictamente tecnológica de la misma, en tanto que hoy es posible identificar otras, como se verá más adelante.
+En resumen, a medida que se acelera el cambio tecnológico y abundan las mejoras 
+radicales, primero en productos y luego en procesos (véanse Abernathy y Utterback, 1978), el comportamiento de la economía y de las empresas se rige de manera cre -
+ciente por las sobreganancias. En cambio, cuando prevalece un clima de estabilidad tecnológica o de estancamiento la norma son las ganancias medias o aquellas que tienden a garantizar exclusivamente la recuperación de los costos de producción en el sentido de Schumpeter. Pero si las condiciones económicas empeoran y los rendi -
+mientos de las compañías caen debajo de su nivel medio, se intensifica la colusión o se producen retiros o quiebras de empresas, o sea, prevalecen las subganancias. Pero es importante resaltar que en condiciones de estancamiento tienden a surgir —allí donde existen las relaciones de fuerza requeridas— acuerdos para limitar la competencia y Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200718
+pasar de la subganancia a la sobreganancia de estancamiento, brillantemente analiza -
+da por Hilferding (1973) y Bain (1968).
+La reapertura heterodoxa del concepto
+Como se vio, desde los años setenta hay un nuevo interés en las sobreganancias 
+como queda patente en la formulación de las nuevas teorías ortodoxas ya citadas. Sin embargo, el mayor desarrollo del tema se da en el contexto actual de aceleración de cambio tecnológico o revolución tecnológica y queda en manos de los críticos de la teoría neoclásica. Pero aun en el marco de este creciente interés, el tratamiento es frecuentemente indirecto, fragmentario y hay una notoria ambigüedad en algunas propuestas recientes. En esa resurrección conceptual se pueden distinguir tres gran -
+des corrientes:
+a)
+ Los estudios de base evolucionista-neoschumpeteriana sobre competencia glo -
+bal en industrias líderes , encabezados por la extraordinaria investigación sobre 
+liderazgo internacional en siete industrias de Mowery y Nelson (1999). La base 
+teórica de este y otros estudios sobre competencia global en sectores y subsecto -
+res (véase Chirstensen, 1994 y Ernst, y Kim, 2002. Mowery, 2004) está influida por la obra de Dosi et al. (1993), en la que se propone una integración del pensa -
+miento neoschumpeteriano con el evolucionista. La rentabilidad, bajo la noción de apropiabilidad, se reconoce como uno de los determinantes fundamentales 
+del cambio tecnológico. Sin embargo, este tratamiento no llega a constituir una teoría del excedente en el sentido clásico, sino una aproximación parcial centra -
+da en los efectos de la innovación en la rentabilidad de las empresas.
+b)
+ Los tratamientos sobre competitividad empresarial formulados por Porter . 
+En estos estudios el concepto de competitividad, entendida como la capacidad empresarial para capturar cuotas crecientes de mercado, oculta o desplaza la fuente de las sobreganancias que es el fundamento. Al carecer de una teoría de la rentabilidad, se apoyan en categorías contables con la de valor agregado. Ha pasado a ser un lugar común en la literatura empresarial señalar que el leiv motif  
+de la empresa radica en “añadir valor”, que en rigor debe interpretarse como contender por rentas económicas, en mercados ampliamente segmentados (véa -
+se Porter, 1991, 1998 y 2001, entre sus seguidores: Best, 2001 y Chirstensen, 1994, o tratamientos influidos por él como por ejemplo Ruiz y Dussel, 2004).
+c)
+ Los estudios sobre integración global de la producción y cadenas de valor  (Ge-
+reffi, 1995 y 1996; Ernst, 1997; Ernst y Kim, 2002) que, al adoptar como unidad rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200719
+de análisis las redes o encadenamientos empresariales, hacen una aportación 
+invaluable a la fundamentación teórico-analítica de las rentas o sobreganancias 
+globales. Su enfoque constituye una exposición más avanzada de la organización productiva de la nueva empresa capitalista, así como de las posibilidades que surgen de la integración global de la producción que permite conectar bajo un mando único capacidades productivas diferenciadas de territorios y naciones, fuente de la constitución de las rentas globales. Entre los autores que han con -
+tribuido al estudio de la integración global de la producción destaca Kaplinsky, quien aborda las rentas económicas globales como objeto teórico y los sitúa en el marco de las grandes transformaciones mundiales, buscando las implicaciones para los países en desarrollo (además de 2005, véase 1998 y 2000).
+De las sobreganancias internacionales  
+a las sobreganancias globales
+De lo señalado hasta aquí se desprende que el eje y fin último de la competencia capitalista es la apropiación de rentas económicas. La forma básica es la renta o sobreganancia nacional estudiada ampliamente hasta los años setenta. A su vez, la relación entre economía/mercado nacional y economía/mercado internacional da origen a las sobreganancias internacionales. Sin embargo, el pasaje a la integración global de la producción —es decir, la constitución de encadenamientos productivos que unen diferentes capacidades y recursos productivos nacionales— ha dado lugar a una transformación histórica en la constitución de las sobreganancias internacio -
+nales. En la actualidad se puede hablar de sobreganancias globales . En la forma 
+previa, es decir, en las sobreganancias internacionales, la relación se establece entre las diferentes órbitas nacionales que entran en competencia directa en el mercado mundial. Se abre una nueva relación cuando la integración global de la producción hace participar simultáneamente a diversas economías nacionales con capacidades diferenciadas, bajo la estructura de las cadenas globales. Como explica Gereffi  o Ernst, un determinado producto puede ser diseñado en un país, en tanto que la manufactura básica en otro, al igual que la prueba de producto, el ensamble y la distribución final. En este sentido, la globalización no hace desaparecer las dife -
+rencias nacionales en capacidades productivas y recursos demográficos y naturales, sino que las contrapone abriendo oportunidades inéditas de valorización capita -
+lista: a la par, el pasaje a la concurrencia global explica la constitución de precios globales para una cantidad creciente de bienes. Las empresas líderes tenderán, por lo tanto, a apoyarse en su nación para constituir sus capacidades fundamentales y Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200720
+complementarlas con el acceso a capacidades y recursos situados en otros países. 
+Las transformaciones organizativas que se requiere para ello han sido explicadas 
+brillantemente por Gereffi, Ernst, Kaplisnky y otros autores, destacando la interco-nexión entre esos cambios en la organización empresarial, el cambio tecnológico y la competencia global.
+El cuadro 1 presenta la tipología básica de las rentas económicas. Se distin -
+guen tres niveles para el estudio de estos ingresos. Primero el espacio  donde se 
+produce la producción/apropiación: nacional, internacional y global. La persis -
+tencia de rentas económicas nacionales en una etapa de integración global de la producción implica un mecanismo que impide que las fuerzas concurrenciales equiparen todos los precios internos a los internacionales, y ejerce su acción en los factores territoriales (control del territorio y la fertilidad del suelo) o interviene el Estado nacional al efectuar transferencias, con lo que se restringe la competencia externa. Las rentas económicas internacionales pueden considerarse como deri -
+vadas de la acción concurrencial del mercado internacional, al interrelacionar y contraponer a países con diferentes capacidades y recursos productivos. Como señaló Marx, el trabajo social en una nación puede ser más productivo tanto en lo externo como en interno, lo que le permite ubicarse en el mercado mundial por encima de otros competidores nacionales. Además de la superioridad en capacidad productiva, otras fuentes de renta internacional son la riqueza del suelo y la capa -
+cidad de aprendizaje (propia de los latecomers ). Las rentas globales constituyen 
+una evolución ulterior de las rentas internacionales, redefinidas por la acción de agentes y fuerzas globales cuya capacidad de organización y posesión de activos les permite desarrollar —en el contexto de la persistencia de diferencias en capa -
+cidades nacionales y recursos productivos— formas superiores de apropiación. Las cadenas globales de producción, como estructura base de las rentas globales, se constituyen precisamente porque la tecnología electrónico-digital brinda la po -
+sibilidad de integrar territorios nacionales heterogéneos que conducen a abatir los costos de producción en una amplia gama de actividades. La empresa líder o coordinadora de la cadena obtiene así una veta de rentabilidad extraordinaria que sólo se explica por el cambio estructural de la economía mundial. El acceso a amplios ejércitos de reserva laboral en países de bajo desarrollo para actividades subordinadas dentro de una cadena productiva representa el caso más elemental de la contribución nacional a las rentas globales. Naturalmente esta modalidad abar -
+ca los productos primarios que son objeto de una elevada demanda internacional (petróleo, minerales, etcétera).rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200721
+Cuadro 1
+A. Clasificación de rentas o sobreganancias extraordinarias
+ Espacio: 1. Nacionales (N) 2. Internacionales (I) 3. Globales (G)
+Definición
+Fuentes
+Tipos
+De nacionales a 
+internacionales
+De internacio -
+nales a globalesRentas producidas y realiza -
+das por empresas nacionales 
+o extranjeras dentro de los mercados internos naciona -
+les, a partir del control de una o varias fuentes nacionales.Se constituyen en función de la estructura nacional de precios.
+Tecnológica; territorial (fer -
+tilidad del suelo, redes de in -
+fraestructuras básica); trans -
+ferencia estatal; barreras a la 
+competencia internacional (control del mercado inter -
+no); financiera (disponibili -
+dad de crédito).
+N1: Renta tecnológica clási -
+ca (Marx, Schumpeter).N2: 
+Renta del suelo (Ricardo, Marx).N3: Rentas monopó-licas y oligopolicas clásicas (Bain, Labini).N4: Rentas de monopolios naturales de in -
+fraestructuras básicas (Mar -
+shall).N5: Rentas por apoyo estatal.Rentas obtenidas internacio -
+nalmente por las empresas nacionales a partir de trasla -
+do de las fuentes nacionales al mercado internacional. Implica la interrelación entre la estructura nacional de pre -
+cios/costos vs sus equivalen -
+tes internacionales.
+Diferenciales nación/interna -
+cional en productividades y 
+precios/costos; diferenciales a partir de condiciones natu -
+rales.Diferenciales a partir de condiciones estatales.
+I1: Rentas tecnológicas in -
+ternacionales (renta clásica 
+de líder tecnológico mundial el mercado internacional.I2: Renta territoriales (inter -
+nacional del suelo y control de redes de infraestructura).I3: Renta por transferencia/apoyo estatal.I4: Rentas de aprendizaje en industrias maduras propia de países de bajos costos laborales y pro -
+ductividades relativamente altas (bajos costos laborales unitarios).
+Economías de escala al ope -
+rar en el mercado internacio -
+nal (I3). Ventajas de costos 
+laborales unitarios (impulso por los avances en ciencia, educación y capacitación). Dumping. Apoyo estatal para entrar en mercados externos.Rentas obtenidas por una firma líder de cadenas productiva globales que integran capacidades nacionales dispersas.
+Propiedad/control de tecnologías 
+centrales y de frontera (
+t i c); capa -
+cidad global de coordinación pro-ductiva; logística global; control de canales globales de comercializa -
+ción. Superioridad por fundamento institucional nacional; universida -
+des, investigación y desarrollo, re -
+gulación nacional
+G1 Rentas tecnológicas relacio -
+nada con el liderazgo industrial y 
+apoyado en tecnologías de frontera (cadena dirigida por el productor).G2: Rentas de organización, coor -
+dinación de capacidades nacionales dispersas para producción y distri -
+bución).G2a: control de redes:G2b: capacidad logística, conexión de mercados economías de distribu -
+ción.G2c: marcas globales (cadena dirigida por el comprador)G3. Ren -
+tas de control territorial basados en control de recursos naturales e infra-estructura básica dentro de estructu -
+ra de cadena global o para insertarse en ella (tercer tipo de cadena).
+Upgrading  de 
+o e m a o b m. Implica 
+capacidad de innovación incre -
+mental de producto/ diferenciación 
+de producto. Logística y canales de distribución global o subglobal (triangulo productivo)Creación, do -
+minio o posicionamiento en cadenas globales a partir de G3. El papel del Estado es decisivo para utilizar los recursos naturales en auge mundial.B. Interacción y conversión entre tipos de rentas para latecomers
+Notas: Aquí se definen o e m y o b m como dos formas contractuales internacionales y no como tipo de 
+empresa. La primera implica (Original Equipment Manufacturing) la delegacion de la manufactura a 
+la empresa de un latecomer; la segunda (Original Brand Masnufacturing) implica el pasaje a marcas 
+propias y por ende acceso a rentas globales.Fuente: Elaboración propia.Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200722
+En cuanto a la fuente  se agrupan por espacio: en el ámbito nacional se tienen 
+primero las dos ampliamente reconocidas por la literatura (tecnológica y renta del 
+suelo), pero la renta del suelo se agrupa dentro de una categoría que se llamará terri-
+torial, al lado del control de las redes de la infraestructura nacional); otra fuente son las transferencias estatales, por restricción de la competencia externa y por disponi -
+bilidad de crédito (financiera). En el ámbito internacional se plantea el efecto de los diferenciales (o diferenciales) en capacidades productivas, recursos territoriales y en el apoyo estatal. En el terreno las fuentes son por superioridad tecnológica, capaci -
+dad de organización y control de la cadena y territorial (véase la explicación de esta última al final del apartado posterior). Al especificar el espacio o nivel y la fuente, se llega a la tipología propiamente dicha, que se subdivide en sus tres categorías.
+Los tres tipos y sus fuentes coexisten, hay transferencia  e interacción  entre ellas, 
+en un contexto de preponderancia creciente del espacio global (véase sección B del cuadro 1). La transferencia se expresa en que las rentas nacionales se pueden convertir en internacionales y éstas en globales (al integrar capacidades dispersas). La interrela -
+ción se expresa en el hecho de que el comando sobre cadenas de producción globales y, por ende, la extracción de rentas globales está asentado en determinadas capacidades empresariales y sectoriales, cuyo fundamento se da en un marco nacional más amplio: en la época de la globalización algunas funciones del Estado-nación adquieren una nueva centralidad. Esas funciones están relacionadas con las nuevas bases globales de funcionamiento de la economía y los patrones de especialización de cada país en las cadenas globales de producción. Sassen (1999 y 2002) analiza con mucha claridad este fenómeno, estableciendo (entre otros casos) cómo las firmas líderes tienden a establecer en algunas pocas ciudades de países desarrollados las funciones de cen -
+tralidad (administración, contabilidad, coordinación, financiamiento, investigación y desarrollo, entre otras), decisivas para establecer el control, gobierno o coordinación de una actividad fragmentada globalmente. Ello implica que la competencia global entre compañías tiene un fundamento en las capacidades y recursos nacionales (o locales), y que el liderazgo industrial, o sea, la capacidad para dominar un mercado, no puede comprenderse sin la interacción entre las empresas y las capacidades y estrategias na-cionales de desarrollo, tal como sostienen Mowery y Nelson en el estudio ya citado.
+En el plano de la transferencia es crítico para un latecomers  que el control te -
+rritorial —es decir, la posesión de una dotación superior de recursos naturales— le permita formar parte de una cadena de productos primarios con un mayor poder nacional de negociación. Se presenta un acaso análogo cuando el control de las redes de infraestructura nacionales posibilite a los oligopolios negociar con ventaja ante rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200723
+proveedores externos de tecnología y competir así con éxito en mercados externos, 
+con el beneficio de transferencias estatales (como el caso t e l m e x ).
+Países en desarrollo y sobreganancias:  
+una discusión a partir de la propuesta de Kaplinsky
+La dinámica de la globalización  
+y sus efectos en los países en desarrollo
+Los procesos antes analizados tienen consecuencias decisivas para los p e d que sólo 
+recientemente comienzan a ser estudiadas de manera integral; el libro de Kaplinsky 
+de 2005 es probablemente una de las contribuciones más completas en esa dirección. Su principal mérito consiste en centrar el análisis de la competencia global en las ren -
+tas económicas, sobre todo el papel de las estructuras productivas integradas (cadenas globales), para extraer de lo anterior una interpretación de las consecuencias para los países en desarrollo.
+Kaplinsky concibe teóricamente las rentas como una modalidad de excedente 
+económico y en esa medida las sitúa en el centro del desarrollo nacional. Su defini -
+ción de renta económica tiene un fundamento clásico, a partir de Ricardo (énfasis en la escasez), pero se orienta en el sentido de Schumpeter al situar el eje en la innova -
+ción, es decir, en capacidades productivas que no son fácilmente reproducibles por los competidores; los que tienen la posesión de esas capacidades intentarán además preservarlas por medio de barreras a la entrada (p. 62 y ss.).
+Su tratamiento de la globalización implica la distinción de dos etapas históricas. 
+El proceso que marca el pasaje a una segunda etapa es la primera repercusión del as -
+censo de China al mercado mundial. En la primera etapa, señala, se sientan las bases para que un creciente número de países en desarrollo se integre a la globalización; así se obtuvo la oportunidad de un crecimiento más rápido, lo que se tradujo en una significativa reducción de la pobreza absoluta.
+En la segunda etapa, añade el autor, se concreta una extraordinaria expansión de 
+la capacidad productiva global en manufactura acompañada de una concentración del poder de los compradores globales que controlan la mayoría de los productos intensivos en mano de obra. En el aumento de la capacidad productiva mundial es decisivo el papel de China que abate los costos de la manufactura y de ese modo cierra la oportunidad de que los países de bajos ingresos obtengan beneficios de la globalización. Un número creciente de productos se convierten en commodities  y, por 
+ende, no generan rentas económicas.Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200724
+En síntesis, de acuerdo con Kaplinsky, los procesos que han dominado esta se -
+gunda etapa son los siguientes: i) La participación de los p e d en la generación manu -
+facturera global ha estado fuertemente concentrada en las naciones de Asia Oriental 
+y en China; en cambio, el resto del mundo en desarrollo ha tenido un papel marginal; ii) Una parte considerable de la producción que se ha añadido a la oferta global —en buena medida originada en países de bajos ingresos— no constituye artículos finales, sino segmentos de esta actividad integrada; iii) Como participantes de la pro-ducción global integrada, los 
+p e d de inserción más reciente (excepto China e India) 
+han contribuido a la extensa reducción de los precios globales de manufacturas, pero frecuentemente a costa de la depreciación de su propia contribución al producto fi -
+nal; esto ultimo ha ido en detrimento del nivel de vida de trabajadores y del ingreso empresarial en esos países; iv) Las compañías líderes que ejercen el liderazgo de las cadenas globales de producción, en tanto poseen la tecnología central y el conoci -
+miento de los mercados y concentran las rentas económicas globales que protegen con altas barreras a la entrada.
+Kaplinsky analiza a detalle el proceso que se puede llamar downgrading , es decir, 
+el descenso en la cadena de valor del grueso de los productores de 
+p e d en industrias 
+globalizadas como confecciones y muebles, situación que se puede extender a otras manufacturas ligeras (como calzado, juguetes, electrónicos de consumo, etcétera). Señala que los compradores globales han elevado considerablemente sus índices de concentración en los últimos años, lo que ha afectado de manera negativa la capaci -
+dad de los productores nacionales de innovar y escalar en la cadena de valor.
+3
+La conclusión central del autor es que la economía mundial se encuentra en medio 
+de un profundo cambio estructural y aún es prematuro anticipar una evaluación defi -
+nitiva, pero existe evidencia de que no habrá espacio para todos los productores que participan en el sistema global. Algunos países no serán capaces de encontrar mer -
+cado para sus productos y si los encuentran será a costa de significativas reducciones de precios que empeoran las condiciones de vida de sus empresarios y trabajadores, 
+3 El autor hace una importante aportación al observar que dentro de la complejidad de la 
+relación empresarial establecida dentro de la cadena global el acceso a las rentas deriva no 
+sólo de la posesión de una tecnología superior, o de la capacidad de innovación dura  en el 
+sentido estricto, sino de una gama de capacidades que clasifica a la cadena como endógenas  
+(tecnológicas, por recursos humanos, de organización, de mercadeo, diseño y relacionales)y 
+exógenas  (recursos naturales, por la política gubernamental, por la infraestructura y fi -
+nancieras). La apropiación de rentas globales conjuga las fuentes endógenas y presupone las exógenas, pero entre las primeras sobresale la 
+relacional  en tanto expresa la capacidad de 
+la firma líder para gobernar al conjunto de las empresas subalternas como lo han señalado también Gereffi y Ernst.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200725
+sobre todo en África y gran parte de América Latina. Debido a lo anterior, resalta 
+el autor, subsiste la enorme incidencia de la pobreza y ha crecido continuamente 
+la desigualdad en la economía global. Esto último, agrega, debe obligar a muchas naciones a ser más selectivas en su respuesta a las oportunidades de la globalización, pero en especial cuestiona la viabilidad de este cambio histórico espacial, que se ve amenazado por sus propias fuerzas internas.
+La profundidad y amplitud del estudio de Kaplinsky deja muy bien formuladas 
+ciertas conclusiones plenamente rescatables en el marco de esta propuesta. A su vez, quedan varios puntos de debate que se enmarcan en la necesidad de replantear algunos de los ejes de su investigación. En primer término es innegable que este cambio históri -
+co ha dejado una secuela de perdedores: muchos países de menor desarrollo que fueron arrastrados a la globalización sin contar con las precondiciones, por ello a la larga han sufrido mayores costos y dislocaciones al quedar expuestos a fuerzas globales. A su vez, las naciones que ya habían realizado avances previos, como los de Asia Oriental, han tendido a consolidar sus logros, en tanto que otras de más reciente inserción como China e India han quedado del lado de los ganadores. En el balance anterior hay un punto que merece destacarse: en la suerte de cada país ha sido decisiva la respuesta es-tratégica con la que se ha enfrentado el desafío de la globalización, pero la respuesta estratégica
+4 se ha construido en gran parte sobre ventajas objetivas con las que contaban 
+los países y fueron ampliadas por la propia globalización (sobre todo mayor acceso al conocimiento tecnológico internacional, véase Ernst y Kim, 2002).
+Otro límite del análisis de Kaplinsky es que, pese a aproximarse al tema, no re -
+conoce explícitamente la apertura de una tercera etapa de la globalización centrada en la conversión de China y Asia Oriental-meridional en general en el nuevo centro dinámico de la economía mundial. Ese papel se perfiló desde fines de la década de los noventa, en lo que se llamó la segunda etapa, pero el pasaje a esta tercera se ha acele -
+rado a partir de la crisis de 2001. Obviamente las repercusiones para países de África y América Latina que poseen abundantes recursos naturales y capacidad industrial básica, en el segundo caso, son considerables.
+4 Por definición, el factor estratégico, entendido como capacidad publica y proyecto de desarrollo 
+nacional, es crucial en todo país tardío (véase Amsden, 2001, caps. 6-8). En apariencia, el caso 
+de India pone a prueba este postulado, sobre todo en referencia al offshoring  en servicios de 
+software . Empero, la literatura especializada pone de manifiesto la acumulación de capacidades 
+nacionales, así como la acción de factores inesperados (la demanda mundial de servicios tecno -
+lógicos), más la densidad de diáspora tecno-empresarial. Lo que queda patente en los estudios de D’Costa (2006) y Athreye (2005) es un creciente apoyo estatal, a medida que el proceso subía en complejidad tecnológica y organizativa, combinado con medidas liberales selectivas.Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200726
+A partir de ese marco podemos abordar las implicaciones para América Latina, 
+pero antes es preciso explicar un punto también ausente en el tratamiento efectuado por 
+Kaplinsky: cómo obtienen rentas económicas internacionales los países que se ubican detrás de la frontera tecnológica internacional y, por ende, carecen de la capacidad para innovar; en otras palabras, cómo obtener rentas económicas de los commodities.
+Cómo obtienen las economías dinámicas  
+de Asia rentas de aprendizaje
+En el análisis clásico, circunscrito por lo general a la economía nacional, las sobre -
+ganancias determinadas por la innovación no son permanentes y lo que Schumpeter llama difusión implica que son virtualmente nulificadas por la competencia; empero, 
+el ciclo de vida de esos productos aún continúa y no tarda en aparecer una nueva generación de innovaciones más o menos radicales de producto.
+5 La inclusión de las 
+firmas de los p e d redefine el proceso porque pueden conferirle una nueva modalidad 
+al alargamiento del ciclo de vida de los productos de la generación anterior y, si cum -
+plen determinadas condiciones, también extraer rentas internacionales de ellos.
+Corea del Sur y Taiwán han logrado el acceso a rentas económicas internacio -
+nales, sobre todo a partir de dos vías: a) inserción a cadenas globales y progresivo ascenso (upgrading) hasta dominar el arte de la manufactura en el ámbito mundial, y b) como productores independientes de manufacturas de rango intermedio o ma -
+duras (Amsden, 1989, 1984), que se pueden llamar intensivas en escala (según la clasificación propuesta originalmente por Pavitt, 1984). En el caso b) se toman ele -
+mentos de tres líneas teórico-analíticas: i) la teoría del ciclo de vida del producto en la versión de Vernon, ii) la teoría de las revoluciones tecnológicas (Freeman-Pérez, 1988, Pérez, 2004) y iii) las interpretaciones institucionalistas del milagro asiático que hacen hincapié en el aprendizaje tecnológico (Amsden, 1989; Hikino y Amsden, 1995; Wade, 1999; Hobday, 1995, etcétera).
+5 De acuerdo con la teoría del ciclo de vida tecnológico desarrollada por Abernathy y Utter -
+back (principalmente 1978), después de las grandes innovaciones de producto sigue un pe -
+riodo más estable de innovaciones de proceso acompañadas de innovaciones incrementales 
+de producto con efecto diferenciador, tanto nacional como internacionalmente. En esta prolongación del ciclo la producción corre a cargo de las empresas originales o seguidoras del país líder. El papel que juegan los empresas de 
+ped radica en asumir esa misma función, 
+es decir, introducir las innovaciones de proceso e incluso las incrementales de producto sobre la base de una ventaja intrínseca del atraso relativa: los menores costos de la fuerza laboral, dentro del marco de una sustancial capacidad operacional de las grandes empre -
+sas, que a su vez se inscribe en lo que llamamos capacidad organizacional situada a escala nacional.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200727
+De i) se toma la idea de que la maduración internacional de los productos y merca -
+dos provoca la salida de las empresas líderes o first movers (Chandler e Hikino, 1997: 
+Amsden y Chu, 2003), en tanto que la estandarización de procesos productivos posi -
+bilita el ingreso de compañías dinámicas de países tardíos, o sea, los second movers  
+(Amsden y Chu, 2003). De ii) se toma la noción de que en épocas de aceleración del 
+cambio tecnológico o revolución tecnológica tienden a aparecer dos efectos: a) despla -
+zamiento masivo de productos maduros por nuevos y b) aceleración del ciclo de vida de modo que los productos nuevos envejecen más rápidamente. Ambos efectos significan que las empresas líderes se desplazan hacia sectores de rentabilidad en ascenso dejando un espacio para firmas de países tardíos. La tercera línea de estudio (iii) indica que en Corea de Sur y Taiwán el Estado desarrollista impulsó la constitución de compañías nacionales que siguieron dos líneas especificas de acción dictadas por la modalidad de su inserción internacional (a cadenas o independiente).
+La aceleración del cambio tecnológico y el efecto de desplazamiento de pro -
+ductos que provoca son esenciales para explicar la fluidez en la generación de ren -
+tas de aprendizaje. Pérez (sobre todo 1992 y 2001) aborda esa problemática bajo el concepto de doble ventana de oportunidades , en el sentido de que la maduración-
+estandarización abate las barreras a la entrada en tales industrias, pero igualmente la instalación del nuevo paradigma implica condiciones más favorables de acceso para empresas recién llegadas (el concepto es de Hobday, 1995).
+Hobday explica este punto señalando que los tigres asiáticos , sobre todo Singa -
+pur (en cierto modo ejemplificando una tendencia general), no se desplazaron di -
+rectamente de las industrias electromecánicas a las industrias de frontera, sino que a partir de habilidades y conocimiento preelectrónicos avanzaron primero a ensamble y prueba de producto. Gradualmente con el aprendizaje por imitación progresaron a actividades que requerían mayores conocimientos de ingeniería. Las firmas recién llegadas, dentro del modelo asiático, agrega Hobday, empiezan en la etapa estan -
+darizada y madura del ciclo de producto, más que en la avanzada ( op. cit. pp. 137, 
+151-152 y 159), pero tienden a avanzar pasando de las industrias maduras a los sec -
+tores de retaguardia o bajos del nuevo patrón industrial.
+6
+6 El problema de las barreras a la entrada es primordial, pero lo es también la pulverización de 
+la rentabilidad que se verifica en una amplia gama de industrias en las que Kaplisnky centra su 
+atención. Consecuentemente los second movers , explica Amsden, tenderán a situarse en las indus -
+trias intermedias, es decir, aquellas que se encuentran debajo de las industrias de alta tecnología y arriba de las que experimentan procesos de competencia autodestructiva por basarse prepon -
+derantemente en bajos salarios de mano de obra no calificada. La tecnología que se utiliza enAlej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200728
+Otras fuentes para obtener  
+rentas de aprendizaje
+Los p e d que se encuentran más alejados de la frontera tecnológica cuentan con otra 
+oportunidad que escapa al análisis de Kaplisnky. La clasificación estándar de las 
+cadenas productivas globales no toma en cuenta los casos en los que la producción del bien o bienes finales requiere utilizar recursos naturales estratégicos (petróleo, minerales, potencial agrícola, redes de infraestructura en telecomunicaciones, ener -
+gía eléctrica o ductos, etcétera) situados en el 
+p e d que se llamará factor territorial. Tal 
+situación le brindaría a las empresas de esos países capacidad de negociación frente a los líderes de la cadena, que variaría conforme el peso del mismo (volumen y costo) en el mercado mundial y el grado de acceso de los productores a eslabones tecno -
+lógicamente avanzados de la cadena (tecnologías de aguas profundas en petróleo, biotecnología en agricultura, entre otros).
+Recuérdese que en el caso de las cadenas dirigidas por el comprador la ventaja 
+de la empresa líder, señala Gereffi, radica en capacidades organizativas (dominio de los circuitos de comercialización, coordinación de proveedores o la propiedad de una marca), en tanto que en las dirigidas por el productor es la propiedad de las tecnologías centrales. En cambio, en esta tercera modalidad de cadena global, al existir dependencia de la dotación natural de recursos o de redes territoriales de infraestructura básica, el poder estaría más equitativamente distribuido entre las fir -
+mas líderes y las empresas domésticas. Respecto a la agricultura, resaltan situacio-nes como la de las semillas mejoradas genéticamente, o de proyectos a largo plazo como el impulsado por el gobierno brasileño para el desarrollo del etanol. En am -
+bos casos, se plantea la diferencia con las cadenas típicas de productor estudiadas por Gereffi. En el caso de las semillas mejoradas, la gobernancia o dirección de la cadena continúa fuertemente vinculada con el líder productivo global que controla un insumo tecnológico clave para el proceso productivo (Sztulwark, 2005). Pero la diferencia con esa modalidad de cadena es a) que el líder de la cadena tiene limita -
+da capacidad para reemplazar a la o las empresas nacionales (públicas o privadas) que controlan el recurso natural o la infraestructura nacional; y b) que las grandes compañías nacionales, con el apoyo de los Estados nacionales, tienen capacidad 
+ las industrias intermedias es costosa pero se encuentra disponible en el mercado mundial 
+(Amsden, 1995). Amsden y Chu llaman a esos productos maduros de alta tecnología, sin 
+dar una definición detallada (véase 2003, cap. 1). Se infiere que son productos de reciente maduración, que como consecuencia de la aceleración de ciclo tecnológico han iniciado su ingreso a los mercados maduros.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200729
+potencial (aunque relativa al tipo y grado de barreras a la entrada que exista en cada 
+caso) para tener acceso a los nichos de alta tecnología de la cadena, gracias a que 
+en todas ellas hay este tipo de sector.7
+En términos más generales, la aparición de una tecnología genérica (centrada en 
+la computadora electrónico-digital) e incorporada en medios de producción y siste -
+mas puede contribuir a la apropiación de rentas de aprendizaje en algunos p e d. La 
+hipótesis que aquí se perfila es que en el nuevo contexto histórico (o tercera fase) se abren oportunidades inéditas para los 
+p e d, especialmente para los de América Latina 
+que poseen una base más amplia de recursos naturales. Habría apropiación de rentas de aprendizaje si a partir del recurso estratégico se constituyeran eslabonamientos hacia actividades de mayor valor agregado que incorporen insumos de conocimiento. Siempre que los países latinoamericanos han disfrutado de esa oportunidad ha que -
+dado planteada, aunque sea tenuemente, esta posibilidad, pero la improvisación o la incapacidad política para avanzar hacia reformas más profundas, incluso en el caso de proyectos de base popular, ha impedido dar ese gran paso hacia la upgrading. Ha 
+faltado lo que se llama capacidad organizacional para llevar a cabo complejas estra -
+tegias de coordinación en el ámbito nacional. Se define, siguiendo a Stiglitz, como capacidad organizacional al conjunto de recursos socioeconómicos, institucionales y políticos susceptibles de ser empleados coordinadamente por los agentes nacio -
+nales para cambiar el funcionamiento de la sociedad, ascender a las capacidades de aprendizaje y, por ende, resolver las fallas de coordinación que afectan el progreso económico, permitiendo al mismo tiempo la necesaria participación del grueso de la sociedad en el trabajo colectivo y sus frutos. Se aborda a continuación la relación entre rentas económicas y capacidad organizacional.
+Las repercusiones para América Latina
+Los países de la región se encuentran en situación comparativamente desfavorable en la apropiación de rentas económicas internacionales de aprendizaje . A raíz de 
+la reconversión productiva enmarcada en la reforma neoliberal de la década de los noventa, se verificaron varios procesos que debilitaron el núcleo endógeno en Amé -
+rica Latina y se reflejan en la capacidad de apropiación de rentas internacionales de aprendizaje:
+7 En el caso de la renta del suelo de los países en desarrollo, este tipo de aprendizaje en sec -
+tores de tecnología de punta constituye una forma de lo que Marx llamara renta del suelo 
+tipo ii, para referirse a la derivada del elevamiento de la capacidad productiva a partir de la 
+innovación.Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200730
+a) La mayor parte de las grandes empresas nacionales se replegaron a la producción 
+de commodities  industriales que utilizan una elevada proporción de recursos na -
+turales (véase Benavente et al., 1996).
+b) Aumentó la participación de las filiales de las firmas transnacionales en el valor 
+agregado nacional, a la par que se acrecentó la importancia de la inversión ex -
+tranjera como proporción del p i b, a tal grado que América Latina y el Caribe se 
+convirtieron en la región en desarrollo con más alta participación de la inversión 
+extranjera, especialmente en Chile, Brasil, Argentina y México, en general el tri -
+ple en comparación con Corea del Sur (véase World Bank, 2006).
+Sin embargo, en el marco del proceso anterior se ha constituido o preservado un 
+pequeño grupo de grandes compañías nacionales que participan en rentas econó -
+micas internacionales, combinando fuentes basadas en el aprendizaje, por recursos 
+naturales, transferencias estatales y restricciones a la competencia/importaciones.
+Tanto en México como en Brasil, y en menor medida en Argentina y Chile, se en -
+cuentran gigantes nacionales que se destacan del resto de las firmas locales al operar como corporaciones modernas con alto grado de diversificación o especialización productiva y orientación exportadora. Las grandes empresas latinoamericanas con capacidad exportadora se han visto favorecidas por dos procesos: uno de más largo plazo es la tendencia de las compañías de los países desarrollados  o de las economías 
+dinámicas de Asia a abandonar sectores de alto grado de maduración, limitada dife -
+renciación de producto y demanda estable. Más recientemente y en relación con lo que aquí se ha llamado la tercera modalidad de cadena, el aumento de la demanda china de manufacturas básicas y productos primarios han favorecido considerable -
+mente los prospectos en el mercado internacional de muchas empresas en América Latina. La nueva coyuntura mundial abre la posibilidad de que estas grandes compa -
+ñías nacionales (muchas de ellas estatales) puedan intensificar los esfuerzos de inno -
+vación y seguir una trayectoria similar a la de los second movers asiáticos, tomando 
+como apoyo el petróleo, los biocombustibles, la soja, etcétera, pero orientándose más decididamente hacia el aprendizaje. En el proceso de escalamiento son decisivas las capacidades empresariales, pero se requiere el desarrollo de una economía de redes para la vinculación con universidades, laboratorios públicos, oferentes especializa -
+dos, entre ellos pequeñas empresas, proveedores de servicios, de tecnología extran -
+jera, consultores, centros de capacitación laboral, cámaras empresariales y organiza -
+ciones empresariales, entre otros. Todo ello nos lleva al problema de cómo construir o completar esas redes o como coordinar sus actividades.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200731
+Desde la perspectiva de la nación en su conjunto aún existen en América Latina 
+barreras formidables al aprendizaje y la innovación que se encuentran ampliamen -
+te embebidas en la estructura socioeconómica, institucional y política, cuya acción 
+explica el retardo en la integración al nuevo paradigma, expresado en lo inmediato como bajo crecimiento de las economías de la región y los patrones de desigualdad social que han persistido históricamente.
+La relación entre desigualdad social y desarrollo económico ha sido objeto de 
+un gran interés en los enfoques de frontera de la teoría del desarrollo.
+8 Hay en 
+esencia tres aspectos de esa relación que son relevantes para América Latina: a) la desigualdad es una condición que se reproduce históricamente a partir de un punto originario (frecuentemente el dominio colonial) de modo que se transmite del pasado al presente; b) la desigualdad produce la exclusión del progreso econó-mico de una parte sustancial de la población, sobre todo con las restricciones del acceso al crédito o la instauración de una economía de bajos salarios y c) sin una participación amplia de la población quedan seriamente limitadas las posibilidades de desarrollo nacional.
+Este último punto merece, por su importancia, un comentario adicional. Los 
+estudios de frontera que han sido ampliamente citados aquí sugieren que del mis -
+mo modo que el segundo desarrollo tardío depende de manera preponderante de la imitación-asimilación de tecnología extranjera, requiere también amplios canales de participación y movilización social para hacer posible la superación del atraso acumulado. A un primer nivel, la educación, la libertad política, el acceso al crédito y la libre información pueden ampliar la participación social, pero en otros casos los mecanismos de exclusión están institucionalizados , es decir, forman parte de las 
+pautas profundas del comportamiento social y se expresan en reglas  tanto formales 
+como informales del juego, de modo que se asimilan en el ejercicio del poder polí -
+tico. En última instancia lo anterior se refleja en la estructura institucional y política que frena o limita la innovación y el aprendizaje, de modo que tienden a predomi-nar o fortalecerse las llamadas actividades buscadoras de rentas. Como dicen Hoff y Stiglitz (2001), el problema involucra no tanto la falta de incentivos o escasez de capital, sino una falla en el funcionamiento conjunto de la sociedad, que conduce a un equilibrio ineficiente o trampa del atraso. De acuerdo con Hoff y Stiglitz, en tales condiciones, para transformar el funcionamiento de la sociedad y por ende 
+8 La visión del desarrollo como un proceso de cambio organizacional se apoya en la integración 
+de tres programas de investigación interrelacionados: la economía de la información, teoría 
+de los problemas de coordinación y la economía institucional, véase Hoff y Stiglitz (2001).Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200732
+superar el equilibrio ineficiente, se requiere un choque endógeno o exógeno, que 
+dé paso a una correlación política favorable al aprendizaje.9
+Conclusiones
+La inserción de los países en desarrollo en la economía mundial no puede compren -
+derse simplemente como un proceso de acumulación de factores de producción (capi -
+tal, trabajo e, incluso, conocimiento, según las teorías más actuales). Por el contrario, 
+requiere un análisis de los cambios estructurales de la economía mundial y de las capacidades organizacionales de esas naciones para aprovechar las oportunidades y las limitaciones que corresponden a cada etapa histórica. Este trabajo partió, en con -
+secuencia, del análisis de cómo la integración global de la producción y la globaliza -
+ción de la competencia modificaron las condiciones de generación y apropiación de rentas económicas, que constituyen la base para una inserción internacional exitosa. Y apuntó a estudiar las repercusiones de estos cambios para los países en desarrollo, con especial referencia para América Latina.
+El segundo paso fue situar históricamente el concepto de rentas económicas o 
+sobreganancias, ubicarlo en el marco de la teoría clásica del excedente e integrarlo con los aportes heterodoxos más recientes sobre cambio tecnológico y organización de la producción. De este modo, las rentas económicas se distinguieron según su espacio de producción y apropiación: nacional, internacional o global; y el análisis de cada una de acuerdo con sus fuentes y tipos y las formas en que estas modalidades interactúan. Desde el punto de vista histórico, el elemento central que se considerará es que las rentas internacionales, resultado de contraponer en el mercado mundial las diferencias productivas nacionales, tienen una evolución ulterior cuando adquieren un carácter propiamente global, a partir de la integración de la producción bajo es -
+tructuras organizativas de alcance global.
+Desde el punto de vista de Kaplinsky, el impacto de estas transformaciones sobre 
+los países en desarrollo no es muy alentador, en tanto la dispersión espacial de la manufactura es acompañada de un proceso de commoditización  que implica poco 
+espacio para la captura de rentas, proceso paralelo a la concentración de los compra -
+dores globales y de las actividades de diseño, en empresas que tienen la capacidad de erigir barreras a la entrada en las actividades de mayor valor agregado. Al revisar 
+9 En el caso de las economías dinámicas de Asia parece que hubo un choque exógeno prove -
+niente de la amenaza a una insurrección comunista, lo que a su vez favoreció una respuesta 
+autoritaria e incluso represiva, concordante con el clima de la guerra fría , buscando una 
+solución basada en la industrialización acelerada.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200733
+la estrategia de los países dinámicos de Asia Oriental, se matiza la conclusión de 
+Kaplinsky, estableciendo la posibilidad de obtener rentas de aprendizaje a partir de 
+combinar, en un determinado momento del ciclo de vida de una tecnología, el desa -
+rrollo de competencias productivas con ventajas de costos. La existencia de cadenas productivas que utilizan un recurso natural estratégico (agrícola, minero o petrolero) se presenta para los países latinoamericanos como una oportunidad de ejercer un mayor poder de negociación y, de este modo, obtener rentas de aprendizaje.
+Sin embargo, el aprovechamiento de estas oportunidades implica un complejo 
+proceso de coordinación social que permita avanzar en una estrategia que potencie el aprendizaje colectivo y la innovación. El eje de la cuestión, por lo tanto, tiene una naturaleza eminentemente política: cómo romper los mecanismos de exclusión que tendieron a institucionalizarse históricamente en el funcionamiento de nuestros países.
+Abernathy, W. y J. M. Utterback, “Patterns of 
+Innovation in Technology”, Technology Re -
+view, vol. 7, núm. 80, 1978.
+Abramovitz, M., “Staying Behind, Stumbling 
+Back, Sneaking up, Soaring Ahead: Late 
+Industrialization in Historical Perspective” en , P. O’Brien (ed.) Industralization. Cri -
+tical Perspective on the World Economy , 
+Nueva York, vol. II, Routledge, 1998.
+Amsden, Alice, The Rise of the Rest: Challen -
+ges to the West from Late-Industrialization Economics , Oxford, Oxford University 
+Press, 2001.
+________, Asia’s Next Giant: South Korea and 
+Late Industrialisation, Nueva York, Oxford University Press, 1989.
+________. y Wan Chu, Beyond Late Develop -
+ment: Taiwán’s Upgrading Policies , Cam -
+bridge , MIT Press, 2003.
+Athreye. Suma, “The Indian Software Indus -
+try”, en Ashish Arora y A. Gambardella (eds.), From Underdogs to Tigers: The 
+Rise and Growth of the Software Industry in Brazil, China, India, Ireland, and Israel, Oxford, Oxford University Press, 2005. 
+Bain, J. S., Industrial Organization , Nueva 
+York, John Wiley, 1968.
+Best, M., The New competitive Advantage. 
+The Renewal of American Industry , Nueva 
+York, Oxford, 2001.Chamberlin, The Theory of Monopolistic Com -
+petition , Cambridge, Harvard Business 
+Press, 1933.
+Chandler Alfred Jr. y T. Hikino, The large 
+Industrial Enterprise and the Dynamics of the Mpdern Economic Growth , en A. 
+Chandler, F. Amatori y T. Hikino (eds.), Big Business and the Wealth of Nations , 
+Cambridge, Cambridge University Press, 1997.
+Chirstensen, C., “Explaining the Attacker’s Ad -
+vantage: Technological Paradigms, Organi -
+zational Dynamics and the Value Network”, Industrial and Corporate Change,1994.
+Dabat, Alejandro. “Globalización, capitalismo 
+actual y nueva configuración espacial del mundo”, en J. Basave, et al (coords,), Glo-
+balización y alternativas incluyentes para el siglo XXI , México, Facultad de Econo -
+mia-
+c r i m -iiec-d g a pa  (u n a m ), u a m-Azca -
+potzalco, Miguel Ángel Porrúa, 2002
+__________, Capitalismo mundial y capitalis-
+mos nacionales, México, f c e, 1994.
+__________, El mundo y las naciones , México, 
+c r i m -u n a m , México. 1993.
+D’Costa, Anthony, Export, University-Industry 
+Linkages, and Innovation Challenges In Bengalore, India , Washington, World Bank 
+Policy Research Working Paper, 3887, abril de 2006.
+BibliografíaAlej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200734
+Dosi, Giovanni, Keith Pavitt y Luc Soete, La 
+economía del cambio técnico y el comercio 
+internacional , México, c o n a c y t -s e c o f i , 
+1993.
+Ernst, Dieter, “Partners for the China Circle? 
+The Asian Production Networks of Japa -
+nese Electronics Firms”, Danish Research 
+Unit for Industrial Dynamics , marzo, 1997.
+_______, “From Partial to Systemic Globaliza -
+tion: International Production Networks in the Electronics Industry”, Berkeley Round 
+Table on International Economics,  Wor -
+king Paper, núm. 98, 1997.
+_______ y L. Kim, “Global Porduction Net -
+works, Knowledge Diffusion and Local Capability Formation”, Research Policy , 
+vol. 31, 2002.
+Fajnzylber, Fernando, La industrialización 
+trunca de América Latina , México, Nueva 
+Imagen, 1983.
+Freeman, Chris y Carlota Pérez, “Structural 
+Crises of Adjustment: Business Cycles and Investment Behaviour”, en G. Dosi, R. Nelson, G. Silverberg, y L. Soete (eds.), Technical Change and Economic Theory , 
+Londres, Pinter Publishers, 1988.
+Foss, N., Toward a Competence Theory of Firm , 
+Londres, Routledge, 1996.
+Gereffi, Gary, “Global Commodity Chains: 
+New Forms of Coordination and Control Among Nations and Firms in International Industries”, Competition & Change, vol. 1, 
+núm.4, 1996.
+___________, “Global Production Systems 
+and Third World Development”, en Barba-ra Stallings (ed.), Global Change, Regional 
+Response: The New Internacional Context of Development , Nueva York, Cambridge 
+University Press, 1995.
+Grossman G. y E. Helpman,. Trade, Innovation 
+and Growth, American Economic Review, Paper and Proceedings , Londres, MacMi -
+llan, 1990.
+Hikino, T y A. Amsden, “La industrialización 
+tardía en perspectiva histórica”, Desarrollo 
+Económico, vol. 35, núm. 137, 1995.
+Hilferding, R., El capital financiero , México, 
+Ediciones El caballito, 1973.
+Hymer, S., The international opertatons of na -
+tional firmns, Cambridge, 
+m i t Press, 1976.
+Hirsch, Seev, “The Product Cycle Model of In -
+ternational Trade. A Multi-Country Cross-Section Analysis”, Oxford Bulletin of Eco -
+nomics and Statistics , vol. 37, núm. 4, pp. 
+305-317, noviembre de 1975.__________, “The United States Electronic 
+Industry in International Trade”, National 
+Institute Economic Review , vol. 34, 1965, 
+pp. 92-107.
+Hobday, Michael, “East versus Southeast Asian 
+Innovation Systems: Comparing OME- and TNC–Led Growth in Electronics”, en Lin -
+su Kim y Richard Nelson (eds.) Technolo -
+gy, Learning, and Innovation. Experiences of Newly Industrializing Economies , Cam -
+bridge, Cambridge University Press, 2000.
+____________, Innovation in East Asia. The 
+Challenge to Japan , Edward Elgar, Alder -
+shot, 1995.
+Hoff, K. y J. Stiglitz, “La teoría económica mo -
+derna y el desarrollo”, en G. Meier y J. Sti -
+glitz (eds.), Frontiers of development econo -
+mics. The future perspective , Oxford, World 
+Bank y Oxford University Press, 2001.
+Humphrey, J. y H. Schmitz, “Governance and 
+Upgrading: Linking Industrial Cluster and Global Value Chain Research”, IDS Wor -
+king Paper 120,
+ Brighton, University of 
+Sussex, 2000.
+Johnson, Chalmers, MITI and the Japanese 
+Moracle. The Growth of Industrial Policy, 1925-1975 , Stanford, Stanford University 
+Press, 1982.
+Kaldor, Nicolas, “What is Wrong with the Eco -
+nomic Theory”, Quarterly Journal of Eco -
+nomics, vol. 89, 1975.
+Kaplinsky, Raphael, Globalization, Povertuy and 
+Inequality, Cambridge, Polity Press, 2005.
+__________, “Globalisation and Unequali -
+sation; What Can Be Learned from Value Chain Analysis?”, Journal of Development 
+Studies , vol. 27, núm. 2, Cambridge, di -
+ciembre de 2000.
+___________, “Globalisation, Industrialisation 
+and the Pursuit of the NTH Rent. IDS”, Discussion Paper , núm. 365, Institute of 
+Development Studies, Sussex, 1998.
+Krugman. Paul, “What is New about New Eco-
+nomic Geography?”, Oxford Review of 
+Economic Policy, vol. 12, núm. 2, pp. 1-17, Oxford, 1998.
+_________, “Increasing Return and Economic 
+Geography”, Journal of Political Economy , 
+vol. 99, núm. 3, 1991.
+_________ y Anthony Venables, The Spatial 
+Economy. Cities, Regions and International Trade, Cambridge, The 
+m i t Press, 1999.
+Krugman, P. y M. Obstfeld, Economía interna-
+cional , Madrid, Peoria y Political, McGraw 
+Hill, 1995.rent AS econóMic AS en el MArco de lA globAlizA ción
+Vol. 38, núm. 151, octubre-diciembre / 200735
+Labini, Sylos, Oligopolio y progreso técnico , 
+Madrid, Oikos, 1966.
+Marx, Carlos, El Capital, vols. I y III, México, 
+f c e, 1946.
+Mowery, David, Sectoral System of Innovation. 
+Concepts, Issues and Analysis of Six Major 
+Sector in Europe , Cambridge, Cambridge 
+University Press, 2004.
+__________ y R. Nelson (eds.), Sources of 
+Industrial Leadership. Studies of Seven In-dustries , Cambridge, Cambridge Universi -
+ty Press, 1999.
+__________, “The Computer Software Indus -
+try”, en D. Mowery y R. Nelson (eds.), Sources of Industrial Leadership, Studies of Seven Industries , Cambridge: Cambrid -
+ge University Press, 1999.
+Ohkawa, K. y H. Rosovsky, Japanese Eco -
+nomic Growth: Trend Acceleration in the Twentieth Century , Stanford, Stanford Uni -
+versity Press, 1973.
+o n u d i , Industrial Development Report 2004: 
+Industrialization, Environment and the Mi -
+llennium Development Goals in Sub-Saha -
+ran Africa. The New Frontier in the Fight Against Poverty, Viena, 
+u n i d o , 2004.
+Pavitt, Keith, “Sectoral Patterns of Technical 
+Change: Towards a Taxonomy and a The -
+pry”, Research Policy , vol. 13, núm. 1, 
+1984.
+Penrose. E., The Theory of the Growth of the 
+Firm, Nueva York, Wiley, 1972.
+Pérez, Carlota, Revoluciones tecnológicas y ca -
+pital financiero. La dinámica de las grandes burbujas financieras y las épocas de bonan -
+za, México, Siglo XXI Editores, 2004.
+__________, “Cambio tecnológico y oportu -
+nidades de desarrollo como blanco móvil”, Revista de la CEPAL , núm. 75, diciembre 
+de 2001.
+___________, “Cambio técnico, reestructura -
+ción competitiva y reforma institucional en los países en desarrollo”, El Trimestre Eco-
+nómico , vol. LIX (1), núm. 233, México, 
+enero-marzo, 1992.
+Porter, Michael, La ventaja competitiva de las 
+naciones, Buenos Aires, Ed. Vergara, 1991.
+__________, Ser competitivo , Valencia, Deusto 
+Ediciones, 1998.
+__________, “Regions and the New Econo -
+mics of Competition,” en A. J. Scott (ed.), Global City-Regions, Oxford, Oxford Uni-versity Press, 2001.
+Rivera Ríos, Miguel A., “México en la econo -
+mía global: reinserción, aprendizaje y co -ordinación”, en Problemas del Desarrollo , 
+iiec-u n a m , vol. 32, núm. 127, octubre-di -
+ciembre de 2001.
+__________, y A. Toledo, “Reevaluación de 
+la crisis asiática: espacio, ciclo y patrón de desarrollo regional”, Comercio Exterior , 
+México, noviembre de 2001.
+__________, México en la economía global. 
+Tecnología, espacio e instituciones , Méxi -
+co, 
+u n a m /u c l a /ed. Jus, 2000.
+Robinson, Joan, La economía de la competen -
+cia imperfecta , Barcelona, Martínez Roca, 
+1973.
+__________, “The State and Globalization”, en 
+R. Hall y T. Biersteket (eds.), The Emergen -
+ce of Private Authority in Global Gover -
+nance , Cambridge, Cambridge University 
+Press, 2002.
+Ruiz, Clemente y E. Dussel. “Territorialidad, 
+industrialización y competitividad local en el mundo global”, en Ruiz, C. y E. Dussel, Dinámica regional y competitividad indus -
+trial, México, Editorial Jus, 1999.
+Sassen, S., The Global City: New York, Lon -
+don, Tokyo , Princeton, Princeton University 
+Press, 1991/1999.
+Schmitz, Hubert.. “Collective Efficiency and 
+Increasing Returns”, Cambridge Journal 
+of Economics, vol. 23, pp. 465-483, 1999.
+___________, “Global Competition and Lo -
+cal Cooperation: Success and failure in the Sinos Valley, Brasil”, World Development , 
+vol. 27, núm. 9, 1999a.
+Schumpeter, J., Business Cycles. A theoretical, 
+Historical and Statistical Analysis of the Capitalist Process , Nueva York, Porcupine 
+Press, 1964.
+___________, C apitalismo, socialismo y de -
+mocracia, Madrid, Aguilar, 1968.
+Stiglitz, Joseph E., “El rumbo de las reformas 
+económicas. Hacia una nueva agenda para América Latina”, Revista de la 
+cepal , núm. 
+80. 2003.
+___________, “Some Lessons from the East 
+Asian Miracle”, The World Bank Re -
+search Observer , vol. 11, núm. 2, agosto 
+de 1996.
+Sztulwark, Sebastián, “Especialización Pro -
+ductiva y Subdesarrollo en el Paradigma informacional. Una Aproximación a Partir del Caso de las semillas Transgénicas y su Difusión en la Argentina”, presentado en el Congreso 
+a lt e c  2005, Innovación tecno -
+lógica, cooperación y desarrollo, Salvador, Bahía, Brasil, octubre de 2005.Alej Andro d AbA t, Miguel A . riverA r. y SebAS tián Sztulw Ark
+Vol. 38, núm. 151, octubre-diciembre / 200736
+Thirwall, A. P., Balance of Payments Theory 
+and the United Kingdom Experience, Lon-
+dres, Macmillan, 1980.
+u n c ta d , Trade and Development Report, Nue-
+va York, u n c ta d , 2006.
+Vernon, Raymond, “The Product-Cycle Hypo -
+thesis in a New International Environ-
+ment”, Oxford Bulletin of Economics and 
+Statistics, vol. 41, pp. 255-267, 1975.Wade, Robert.. El mercado dirigido. La teoría 
+económica y la función del gobierno en la industrialización del este de Asia, México, 
+f c e, 1999. 
+World Bank, World Development Indicators , 
+Washington, World Bank, 2006

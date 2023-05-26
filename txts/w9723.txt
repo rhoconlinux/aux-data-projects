@@ -1,0 +1,1311 @@
+NBER WORKING PAPER SERIES
+VERTICAL PRODUCTION NETWORKS
+IN MULTINATIONAL FIRMS
+Gordon H. Hanson
+Raymond J. Mataloni, Jr.
+Matthew J. Slaughter
+Working Paper  9723
+http://www.nber.org/papers/w9723
+NATIONAL BUREAU OF ECONOMIC RESEARCH
+1050 Massachusetts Avenue
+Cambridge, MA 02138
+May 2003
+For assistance with data we thank Bruce Blonigen, Fritz  Foley, Jon Haveman, and James Rauch. For helpful
+comments we thank David Belli, Lael Brainard, Fritz Fo ley, Ann Harrison, Jim Hines, Ned Howenstine, Tom
+Hubbard, Jorg Mayer, Peter Merrill , Richard Sansing, Doug Staiger, Adrian Tschoegl, Obie Whichard,
+William Zeile and conference and seminar participan ts at the American Economics Association, the
+Brookings Institution and Internationa l Tax Policy Forum, Erasmus University, the Federal Reserve Board,
+the London School of Economics, the National Bureau of  Economic Research, Stanford University, the U.S.
+Bureau of Economic Analysis, University of Chicago Graduate School of Business, the Wharton School, and
+Yale University. For financial s upport Hanson and Slaughter gratefu lly acknowledge the National Science
+Foundation. Views expressed in this paper are those of the authors and do not necessarily reflect those of the
+Bureau of Economic Analysis. The statistical analysis  of firm-level data on U.S. multinational companies
+reported in this study was conducted at the International Investment Division, U.S. Bureau of EconomicAnalysis, under arrangements that maintained legal c onfidentiality requirements.  The views expressed herein
+are those of the authors and not necessarily tho se of the National Bureau of Economic Research.
+©2003 by Gordon H. Hanson, Raymond J. Mataloni, and Matthew J. Slaughter.  All rights reserved. Short
+sections of text not to exceed two paragraphs, may be  quoted without explicit permission provided that full
+credit including © notice, is given to the source.Vertical Production Networks in Multinational Firms
+Gordon H. Hanson, Raymond J. Mataloni, and Matthew J. SlaughterNBER Working Paper No. 9723May 2003JEL No. F2, F1, L1
+ABSTRACT
+In recent decades, growth of overall world trade ha s been driven in large part by the rapid growth
+of trade in intermediate inputs. Much of this input trade involves multinational firms locating inputprocessing in their foreign affiliates, thereby cr eating global vertical produ ction networks. In this
+paper, we use firm-level data on U.S. multinationals to examine trade in intermediate inputs forfurther processing between parent firms and their foreign affiliates. We estimate affiliate demandfor imported inputs as a function of  host-country and industry trade co sts, factor prices, and other
+variables. Among our main findings are that dema nd for imported inputs is higher when affiliates
+face lower trade costs, lower wages for less-skilled labor (both in absolute terms and relative towages for more-skilled labor), and lower corporate income tax rates. These results contrast withmany findings in previous research.
+Gordon H. HansonRaymond J. Mataloni, Jr.
+IR/PS U.S. Department of Commerce 
+University of California, San Diego Bureau of Economic Analysis 9500 Gilman Drive Mail Stop: BE-50 La Jolla, CA 92093-0519 1441 L Street, NW and NBER Washington, DC 20230
+gohanson@ucsd.edu    raymond.mataloni@bea.gov  
+ Matthew J. Slaughter
+Tuck School of BusinessDartmouth College100 Tuck HallHanover, NH 03755and NBERmatthew.slaughter@dartmouth.edu  
+1.  Introduction  
+ History has  seen m ultiple waves of “globa lization.” On m any measures, recent decades 
+constitute another such wave.  All waves are not the sam e, howev er.  Two novel fe atures of the 
+curren t process of globalization are increas ed trade in inte rmediate inpu ts and inc reased flows of 
+foreign direct investm ent (FDI). 
+ Interm ediate inputs p lay an im portant role in th e recent g rowth  of world trade.  Yeats (2001) 
+finds that trade in inputs has grown m uch faster than trade in final goods, and he estim ates that 
+interm ediates now account for 30% of  world trade in m anufactures.1  Humm els, Ishii, and Yi 
+(2001) identify vertical specialization, which th ey define as production arrangem ents in which 
+firms make final goods via m ultiple stages located in multiple countries,  as an im portant asp ect 
+of overall input trade.2  They calculate that from  1970 to 1990, the increase in exports associated 
+with vertical specialization accounted for one-thi rd of world export growth.  During the early 
+20th century, in contrast, inputs played only a small role in U.S. trade (Feenstra, 1998). 
+ As for FDI , the rising  share of multinat ional enterprises in overall productio n helps  
+distinguish the current phase of  globalization from  previous episodes (Bordo, Eichengreen, and 
+Irwin, 1999).  Multinatio nals now me diate a larg e fraction of world trade.  In the United States , 
+they account for over half of total exports (Slaug hter, 2000).  W ithin m anufacturing, the m ajority 
+of these exports are of  interm ediates.  In 1999 , 93% of exports by U.S. parent firm s to their 
+foreign m anufacturing affiliates were input s for further pro cessing (U.S. BEA, 2002). 
+ Parent-to-affiliate input trade is one elem ent of wh at we shall call vertical p roduction  
+networks  in multinationa ls.  The ter m “vertica l” capture s two key f eatures of  these networks:  (i) 
+within these  firms the parent and e ach affiliate performs a narrow r ather th an bro ad range of  
+                                                 
+1 See also Campa and Goldb erg (1 997). 
+ 1    
+production activ ities and  (ii) th e parent and its a ffiliates are linked by intra-firm  flows of inputs 
+and outputs.  In the jargon of trade theory, ver tical production networks ar e a for m of “vertical 
+FDI” throug h which m ultination als spread a cross different location s the different ac tivitie s tha t 
+they perform, such as R&D, i nput production, and input processing. 
+ To fix ideas on vertical production netw orks, consider the well-known example of 
+autom obile production in North American Free Tr ade Agreem ent (NAFTA) countries.  Canadian 
+and Mexican auto plants have extensive intra-firm  links with their U.S. counterparts, m ediated 
+by large flows of inputs across bord ers.  It is estim ated that every day $250 m illion in autos and  
+auto parts crosses the Am bassador Bridge that  connects Detroit, Michigan with W indsor, 
+Ontario.  When the U.S. governm ent closed this bridge and other entry points after the terrorist 
+attacks of S eptem ber 11, 2001, several NAFTA auto  plants had to shut down within 48 hours 
+because of input shortag es (Counc il on Foreign Relation s, 2002). 
+ The extent of vertical production networks , however, varies acr oss both countries and 
+industries.  In Brazil, which is protected by common external tariffs under the Common Market 
+of the Southern Cone ( Mercosu r), multinationa l auto m anufacturer s tend to se t up integ rated 
+production facilities that engage in  relatively little in ternational trade with their parent firm s or 
+with other affiliates of the sam e parent (Hanson,  2001).  In m any countries, other in dustries, such 
+as chem icals and non-m etallic m inerals, al so exhibit high degrees of integration. 
+ What accounts for this variation?   Theories we  discuss below offer several explanations for 
+vertical production networks, incl uding cross-country and/or cross- industry differences in trade 
+costs, factor prices, and the technological separa bility of production.  While there is anecdotal 
+evidence to support these theori es, little work goes beyond docum enting broad facts to provide a 
+                                                                                                                                                             
+2 This phenomenon has been given various na mes, including de-localization , disinteg ration of production , fragmentation , globa l 
+production  sharing, for eign ou tsourcing, an d slicing up th e value chain .  See Feen stra and  Hanson (2002) for a discussion.  
+ 2    
+theore tically informed, m icro-leve l empirical an alysis  of the im portance of these explanations.  
+In this p aper we provide such an ana lysis using f irm-level data on U.S. multin ation als. 
+ These data com e from  legally m andated conf idential surveys conducted by the U.S. Bureau 
+of Econom ic Analysis ( BEA) of  all U.S. m ultinationals.  Fo r majority-owned f oreign af filiates  in 
+manufacturing in 1994, we have a direct m easure of input flows associated with vertical 
+production networks:  imports from U.S. parent firm s (and other U.S. entities) of interm ediate  
+inputs for further processing.3  We use a standard cost-m inimization fram ework to derive the 
+demand for  imported inputs by foreign affiliates, and we then estimate the sens itivity of this  
+demand to host-country/industry trad e costs, factor prices, taxes,  and other variables suggested 
+by theory.  Our estim ation com bines data from  the BEA surveys with d ata from  outside sou rces 
+on host-country policies and charac teristics.  Having com prehensiv e data on the foreign activities 
+of U.S. multina tiona ls allows us to  address s everal im portant e stimation issu es, such as th e 
+absence of data on transaction prices be tween parent firm s and their affiliates. 
+ Our em pirical analysis yields a num ber of resu lts on the determ inants of vertical production 
+networks in  multinatio nal firm s.  One is th at imports of interm ediate inputs are s trongly 
+negativ ely correlated with trade co sts facing aff iliates.  Our preferred estim ates, which appear 
+robust to a range of estim ation choices, im ply an  elasticity well over unity :  a 1% fall in trade 
+costs lead s to a 2%-4 % increase in the quan tity of im ported in termediate inputs for further  
+processing.  This responsiveness of  vertical production ne tworks to trade costs appears consistent 
+with recen t theoretical work (e.g., Yi, 2003) in which s mall chang es in tariffs produce larg e 
+changes in input trade.  Previous empirical work on m ultinationals (e. g., Carr, Markusen, and  
+                                                 
+3 We exam ine one com ponent o f verti cal produ ction networks:  the processing b y foreign af filiates of int ermediate input s 
+imported from their U.S. par ents.  Unfo rtunately , the BEA data do not track pr oduc tion networks involving ar m’s-length inter -
+firm transactions .  We do not ob serve proce ssing trade between U.S. parent s and foreign entities that they  do not own.  Thus, o ur 
+data ar e not well suited  to consid er questions of o ptimal  firm boun daries.  
+ 3    
+Maskus, 2001), finds that the scale of fore ign-affiliate operations is greater th e higher are host-
+country tarif fs and transportation costs.  These resu lts have been interpreted to m ean that higher 
+trade co sts encourage F DI.  W hen a m ultinatio nal intends to sell good s in a particular foreign  
+market, higher trade costs m ay indeed encourag e locating production in that m arket.  But our 
+results sugg est th at when m ultinatio nals serve various foreign m arkets via vertical production 
+networks, higher trade costs m ay deter FDI instead. 
+ A second finding is that vertical pro duction ne tworks are sensitiv e to labor costs.  Imported-
+input dem and is decreasing in host-country wages for less-skilled workers and increasing in host-
+country wages for m ore-skilled work ers.  Here again, our results contrast with  previous em pirical 
+literature (e.g., Brainard, 1997), whic h tends to find that, if anything, U.S. firm s prefer to locate  
+in high-wag e countries.   W e find that foreign  affiliates d o more processing of imports in 
+countries with relatively cheap less-skilled labor. 
+ A third finding is that vertical production networks also depend on other host-country 
+policies and characteristics.  Imported-input dem and is higher in host countries with export-
+processing zones, and is decreasi ng in host-country m arket size a nd corporate tax rates.  W hile 
+many studies docum ent how taxes affect aggreg ate FDI (Hines, 2001), th ere is little work on 
+how taxes or other hos t-countries polic ies affect th e com position of FDI. 
+ Our paper has four additional sections.  In sect ion 2 we discu ss related  research.  In section 3 
+we presen t our em pirical fram ework.  In section 4 we discuss the data and present summ ary 
+statistics.  In section 5 we report our estim ation results.  A nd in section 6 we conclude. 
+ 
+2.  Related Research 
+ Our work is relevant to several bodies of  literature on trade in interm ediate inputs and 
+multinationa l ente rprises.  The f irst is rese arch on the im pact of  declinin g trade  barriers.  Man y 
+ 4    
+studies conjecture that falling tr ade costs contribute to vertical  production netw orks.  In an 
+important recent paper, Yi (2003)  argues that standard m odels of trade in final goods cannot 
+account for how the m odest observed declines in trade ba rriers could have produced the dram atic 
+observed growth in wor ld trade.  Yi shows theo retically how trade in inputs allows declining 
+trade barriers to trigge r magnified decreases in production cost s and thus dram atic increases in 
+total trade flows.  W e exam ine (and find support for) this hypothesis by es timating the sensitivity 
+of de mand for im ported interm ediate inputs to trade costs. 
+ The second body of literature to wh ich our pap er relates is  empirical work on theories of 
+multinationa l firms.  Theory tend s to view m ultination als as the  result of  eithe r horizonta l 
+expansion (in which firm s save on trade costs associated with exporting by setting up foreign 
+facilities whose range of producti on activities m irrors th e operations they perform  at hom e) or 
+vertical expansion (in w hich firm s fragm ent diffe rent production stages ac ross different countries 
+to arbitr age inte rnational di fferences in factor prices).4  Casual evidence s uggests that horizontal 
+FDI is the dom inant strategy of U.S. m ultinat ionals.  In 1998, OECD countries accounted for 
+76.6% of sales by affiliates of U.S. firm s (Hanson, et  al, 200 1), givin g the impression  that m arket 
+size (and not wage levels ) is th e host-country feature U.S. m ultinationa ls care m ost about. 
+ Several rec ent stud ies te st theo ries of FDI rigorously by using aggreg ate data on th e tota l 
+sales of U.S. foreign affiliates by country (or by country and industry). 5  Most studies find that 
+affiliate sales are high er in larger cou ntries and  in countries  with h igher tariffs and transport costs  
+on U.S. goods, but not in countries  with larger  skill differences relative to the United States. 
+These resu lts are in terpreted as evid ence in fa vor of horizontal FDI a nd against vertical FDI.  
+                                                 
+4 On the former, see Markusen ( 2002) and Mark usen and Venab les (2000).  On the latter, see Helpman (1984), Helpman and 
+Krugman (1985), and  Yeap le (2001).  Ekholm, Forslid, and  Markusen (2003 ) model “export platform” FDI, in which most  
+affiliate ou tput is exported  out of  the hos t countr y, an affiliate activit y that shares b oth horizontal and vertical f eatures. 
+ 5    
+ In our work, we do not treat ho rizon tal and vertical FDI as  mutually exclusive options.  The 
+same U.S. multinationa l might choo se to op erate in Fran ce an integ rated plant to p roduce f or the 
+domestic market and m ight also choose to operate  in China a specialized  factory to assem ble 
+components m anufactured by the U.S. parent.   Th e Fren ch affiliate woul d be the resu lt of 
+horizon tal FDI, the Chin ese af filiate vertical FDI.   Having f irm-level data  allows us to exam ine 
+the factors that determ ine where different affilia tes fall in a continuum  with pure horizontal FDI 
+at one extrem e and pure vertical FDI at the othe r extrem e.  This goes beyond previous research 
+by address ing the factors  that sh ape the composition of production inside affiliates. 
+ Existing work m ost closely related to our s includes Feinberg a nd K eane (2001), who 
+exam ine the determ inants of  bilate ral trade betw een U.S. parents and their Canadian af filiate s 
+over the period 1983-19 92.  They find that affiliate total imports from  U.S.  parents have little 
+association with Canadian tariffs, though in the re verse direction they find that parent im ports  
+from Canadian af filiates negativ ely v ary with Ca nadian tar iffs.  They als o find that import f lows 
+have no correlation with Canadian  or U.S. wages.  Our work differs from  theirs by focusing on 
+trade in in termediate inp uts, ra ther th an tota l trade, and by an alyzing af filiate s world wide, rath er 
+than just in Canada.  Their finding of no wage  impacts on parent-affiliate trad e, for exam ple, 
+might si mply reflect sm all Canadian-U.S. wage di fferences.  In support of this idea, Hanson, 
+Mataloni, and Slaughter (2001) an d Borga and Zeile (2002) find that  foreign affiliates of U.S. 
+multinationals engage in relatively more intra-firm trade in lo w-wage countries.6 
+ Other bodies of literatu re to which  our work  relates inclu des stud ies on the labor-m arket 
+consequences of foreign outsourcing (see the survey in Feenstra and Hanson, 2002), em pirical 
+                                                                                                                                                             
+5 See Brain ard (1997); Markusen and Maskus (1999); Blonig en, Davies, and  Head (2002) ; and  Helpman, Melitz, and Yeap le 
+(2003).  Yeaple (2001) finds t he im pact of  host-countr y education on affili ate sal es to be weaker for less-skill-intensiv e 
+industries, suggesting th at multination als in these industries pr efer less-skill-abund ant coun tries. 
+ 6    
+studies on the m agnitude of spillovers associated  with FDI (e.g., Haskel, Pereira, and Slaughter, 
+2001), and recent theoretical wo rk on how trade costs shape ownership and  outsourcin g 
+decis ions in multinational firm s (Grossm an and Helpm an, 2002a,b). 
+ 
+3.  An Empirical Model 
+ In this s ection, we develop an em pirical fram ework for how U.S. m ultinationals organize th e 
+operations o f their f oreign affiliates.  Consisten t with our d ata, we f ocus on af filiate operations a t 
+a given point in tim e (see note 7).  We assum e that U.S. parent firm s have previously chosen in 
+which countries  to locate affilia tes.  The rem aining decision  is over which productio n activities  
+affiliates sh ould perf orm.  For simplic ity, cons ider two pro duction s tages:  inpu t manuf acturing  
+and input processing.  Input m anufac turing often involves produc ing sophisticated componentry, 
+and so is likely to be relatively skill and capital intensive.  Input processing often is lim ited to 
+assem bly, and so is likely to be re latively labo r intensiv e. 
+ Consider tw o alternative strategies for FDI.  A vertical production network  would have 
+foreign affiliates im port inputs from their U.S. p arents, p rocess thes e inputs into fin al products,  
+and then ship these processed inpu ts on to destination m arkets.  By locating labor-intensive input 
+processing abroad and capital-intensive input pr oduction in the United States, this strategy could 
+allow the multinationa l to take ad vantage of  inte rnational dif ferences in f actor prices.  But 
+shipping inputs between countries results in high transport costs.   An alternative strategy would 
+have foreign  affiliates b oth produce and pro cess input s.  In this case, the firm  replicates ab road 
+the production activities  of the U.S. parent.  This strategy minim izes transport costs, since there 
+is no need  for affiliates to im port in puts, but it also pr events the m ultinationa l from taking  full 
+                                                                                                                                                             
+6 For related evidence, see Kumar (1994) and B arba Navar etti, Haaland , and V enables (2002).  Again using ag gregated data, 
+Shatz (2000)  and Markusen and Maskus (2001) stud y the exporti ng behav ior of  U.S. m ultination als. 
+ 
+ 7    
+advantage of factor-price differe nces across countries.  In r eality, firm s may choos e a strategy 
+between th e two extr emes jus t desc ribed, with th is choice depending on trad e costs,  labor costs, 
+and on other host-country and industry characteristics. 
+ 
+3.1  Empirical Specification 
+ Consider a foreign affiliate of a U.S. parent firm.  Let the cost f unctio n for the affiliate be 
+C(w, Y).  Here, Y repr esents af filiate to tal outp ut and w is a vector of fact or prices facing the 
+affiliate, in cluding wage rates for labor used in input produ ction, wage rates for lab or used in 
+input processing, the rental price of capital, th e price of m anufacturing inputs im ported from  the 
+parent, and the price of services im ported from  the parent. 
+ There are two item s to note about this cost structure.  The firs t is its static nature.  This 
+follows f rom our data being a cros s-sec tion an d not a panel of  affiliate s.7  The second is that we 
+assum e the af filiate  cost f unction is separab le from that of  the U.S. par ent.  Th is allows us to  
+exam ine activity choices of affilia tes in isolatio n, and is ap propr iate so  long as inpu t production 
+and input processing are technolog ically sep arable activities and affiliate s face output prices set 
+on the world m arket.  In the es timation, we allo w for the possibility that within a m ulti-affiliate 
+firm, the sa me affiliate s of a giv en U.S. pare nt use  sim ilar produ ction techno logy and f ace 
+common prices for inputs or serv ices im ported from  the parent. 
+ To derive an estim ating equation, we need to se lect a functional form  for costs.  A convenient 
+choice is the translog form , which Diewert (1974) introduced and Kohli (1978, 1991) used 
+initially in the inte rnatio nal-trade literature.  In o ur case, th is function can be written as 
+                                                 
+7 Data on input tr ade between aff iliates and their U.S. parents do exist for a few othe r BEA “benchmark” years (e.g., 1989).  We 
+have not add ed these years to our sam ple becau se for earli er years we lack co rresponding non-BEA data on k ey regression  
+variab les.  Adding additi onal years would prob ably not greatly  enhance the es timation .  Over shor t to medium time horizons, the 
+prim ary variation in key  variab les includi ng wages, tariffs, and tax rates is across countries and not time.  Having ad ditional  years  
+of data would allow us to contr ol for affi liate fixed eff ects, but  this would co me at the po tential cost of losi ng m uch of the  
+ 8    
+         
+Ylnwln Yln Ylnwlnwln wln Cln
+h
+hyH
+1h2
+yy21
+yjH
+1hH
+1jh
+hj21H
+1hh
+h 0
+φ+ β+β+γ +α+α=
+∑∑∑ ∑
+=== =   (1) 
+where wh denotes the prices of  the optim ally chosen variable inputs h=1,…,H. 
+ The usefulness of the translog function becom es eviden t when we com pute first derivative s, 
+∂lnC/∂lnwh = (∂C/∂wh)(wh/C).  By Shepard’s L emma, ∂C/∂wh equals the dem and for input h.  It 
+follows that ( ∂C/∂wh)(wh/C), the ela sticity of  total cost with respect to price h, equals the share of 
+factor h in total co sts, which we denote by the cost-share sh.  Differentiating equation (1) with 
+respec t to ln wh yields the following expression, 
+     ,        (2) Yln wln shyH
+1jj
+hj hhφ+γ+α=∑
+=
+for h=1,…,H.8  The expression in (2) re lates the dem and for input h, measured as its share in 
+total costs, to prices of variab le inputs and the level of output. 
+ These cos t shares are th e bas is for o ur empirical work.  W e estim ate the cost-share equatio n 
+for the key input of i mported interm ediates for further processing, and we denote the share of 
+imported interm ediate in puts in tota l costs by sm.9  We interp ret af filiates with higher  values of 
+sm to be a ffiliates that are m ore specialized in the activity of processing parent-produced inputs.  
+                                                                                                                                                             
+systematic variation in our regr essors.  Even with just a singl e year of data, we are able to contr ol for parent-b y-industr y fixed 
+effects.  This,  as we discuss, allows us to a ddress wha t appear to be the more important  estim ation issues—e.g., measuring pric es. 
+8 In the  even t there are cons tant returns  to scale, φhy=0.  W e fin d evid ence cons istent with affiliate technolog y being constant 
+returns.  That aff iliates exhibi t constant returns in no way implies that parents  do as  well  (given  the importance o f R&D and o ther 
+fixed costs in  parent op erations, we expect their technolog y to exhibit increasing  returns).  
+9 Given data limitations , we cann ot estimate cost shares for other inputs.  BEA data only  report aggregate emplo yment of capital 
+and labor for an affiliate.  When an aff iliate, say , hires labor we do not know whether it is to produce inputs, pro cess inputs , or 
+both.  B y estim ating a sing le cost-share  equation, we canno t impose cross-equation parameter restric tions im plied b y the 
+symmetry of cross-price de rivatives and b y the fact that the cost shares sum to on e. 
+ 9    
+Accordingly , we in terpret our estimates of the sm equation to inform  about the determ inants of 
+vertical production networ ks in m ultinational firm s.10 
+ Given our d efinition  of sm, an estim ating equation for affili ate a  in ind ustry i be longing to 
+U.S. parent p and locate d in host-country c is, 
+ 
+m
+aipc aipc myhq
+ipc mom
+ipc mm aipc mku
+c mus
+c ms ipm
+aipcYln pln pln rln wln wln s ε+ φ+ γ+ γ+ γ+ γ+ γ+α=
+        (3) 
+ 
+where is a parent- and industry-specific constant term ;  is the price o f skilled lab or in 
+country c;  is the price o f unskilled labor in c; ripαs
+cw
+u
+cw aipc is the af filiate ’s ren tal price of  capital; p 
+(p) is the price of interm ediate inputs (headqu arter services) im porte d from  parent p in 
+industry i and country c; Ym
+ipc
+hq
+ipc
+aipc is af filiate outpu t; and  is a disturbance term . m
+aipcε
+ After estim ating equa tion (3) it is  straigh tforward to calculate the c ross- and own-price  
+elasticities of factor dem and.  The own-price elasticity of demand for factor m, i mported 
+interm ediate inputs, is given by, 
+   mm m
+mm
+mms)1s(sPED−+γ=   (4) 
+where mmγis a param eter to be es timated and  is calculated  at the m ean for the reg ression  
+sample.  The cross-price elasticity of de mand between inputs m and h is given by, ms
+   mhm
+mh
+mhsssPED+γ=   (5) 
+                                                 
+10 Strictly  speakin g, our in terpr etation of sm require s the assum ption that affiliates all sell th e sam e output in terms of t he loc ation 
+on the  valu e-add ed chain.  Other wise, diff erences in cos t shares could r eflect differenc es in affiliate location along the  chain of 
+production , independent of the range of ac tivities affiliates perform.  The BEA da ta contain no such information on output stag es, 
+as is th e case for  man y similar  micro-le vel data sets.  See Adelman  (1955) for  a discussion of th ese measurement issues. 
+ 10    
+An advantage of the translog fram ework is that  it does not im pose restri ctions on the pair-wise 
+elasticities o f substitutio n between inputs (as do Cobb-Douglas or CES). 
+ 
+3.2  Estimation Issues 
+ Several im portan t estimation issues  merit atte ntion.  One is that we do not have data on p 
+or , the transaction prices that affiliates pay for inputs and se rvices they im port from  their 
+parents.   This lim itation is hard ly surprising.   There is little p rice d ata for trade flows anywhere,  
+let alone for individual busine sses operating in hundreds of count ries and industries.  W e can 
+address this problem  by exploiting the structure of the BEA data; sp ecifically, the fact that m ost 
+foreign affiliates share a U.S. parent  with at leas t one other affiliate. m
+ipc
+hq
+ipcp
+ Suppose that pcan be exp ressed  in log term s as the sum  of two parts:  the f.o.b. price in the 
+United States for that im port, and a host-c ountry wedge between that U .S. price and that is 
+due to  trade costs.  For exam ple, a U.S. paren t that manufactures electrical applian ces m ay obtain 
+tungsten in the United States for all its ligh t-bulb affiliates abroad , but different affiliates m ay 
+pay differen t prices  based on the trade cos ts they face.  In  our analys is, we m odel this price 
+wedge as th e sum  of import tarif fs and transpo rt costs, a llowing us to write as, m
+ipc
+m
+ipcp
+m
+ipcp
+         (6) )f 1ln( pln plnic icm
+ipm
+ipc+τ++=
+where  is the f.o.b. price of the input in the United States, τm
+ipp ic is the ad valorem  tarif f rate tha t 
+country c levies on im ports  in industry i, and f ic is the ad valorem  freight rate on imports from 
+the United S tates in coun try c f or industry i. 
+ We have data on trade costs but not on .  W e do, however, observ e the activities of 
+multiple affiliates th at operate in th e sam e industry and that s hare th e sam e parent.  If the paren t m
+ipp
+ 11    
+charges  its affiliates  in the sam e industry the sam e f.o.b. price for inputs, then trad e costs will be 
+the only source of variation in acros s affiliates in the sam e industry belo nging to the same 
+parent.   We can th en measure  in two parts:  (a) a full set of parent-by-industry dumm y 
+variables, , which captures industry-and- parent specific technology, αm
+ipcp
+m
+ipcp
+m
+ip
+p
+ipmm ip ip pln~γ+α=α ip, 
+and the unobservable f.o.b. price, ; and (b) host-country trade co sts, which we m easure using 
+data on host-country and i ndustry tariffs, non-tariff barri ers, and freight rates.11 m
+ip
+~α Allowing for parent-by-industry fi xed effects, rather than just parent effects, allow s for the 
+fact that m any m ultinationals ar e multi-product firm s whose affilia tes s pan diverse industries .  
+Thus, a parent firm ’s light-bu lb affiliates can  face different im ported-input prices from  its 
+refrigerator affiliates.  T hese paren t-by-industry c ontrols also  address differences in th e extent of 
+vertical pro duction networks due to technolog ical prim itives or fir m business practices (e.g.,  
+networks may be less feasible in food i ndustries with highly perishable inputs). 
+ By the sam e logic, we also control for unobservable headquar ter-service prices, .  The  
+parent-by-industry controls, hq
+ipcp
+, capture any unobser ved components of service prices that 
+parents charge to all affiliates  in the sam e industry; m easures  of trade costs capture country- 
+and/or indu stry-specific com ponents.  Affiliate s may import from parents a wid e range of 
+headquarter services, such as use of patents, copyrights, and trademarks , analysis of m arket 
+conditions, or advice about m anagem ent strategy.  Paren ts may receive paym ent for these 
+services through either fees or repatriated earnings.  The pr ice parents charge m ay vary across 
+affiliates du e to tran sport costs ( e.g., more-rem ote affiliates m ay be m ore co stly to s ervice), in a  
+manner si milar to im ported m anufacturing inputs.  This price m ay also vary acro ss affiliates du e 
+                                                 
+11 In host coun tries, multinationa ls are  som etimes accused of  attempting to  influ ence trade po licy to their  advantage.  Given this 
+ 12    
+to host-country corporate incom e taxes (e.g., hi gher tax rates m ay make repatriated earnings less 
+attractive), and so we include th is variable as a regressor. 
+ An im portant aspect of  measuring both pand  is transfer pricing.  It is commonly 
+asser ted tha t multinatio nals pric e intra-f irm transactions s uch that f irm-wide pre-tax prof its 
+accrue to affiliates  in lo w-tax ju risdictions.12  We have no direct data on transfer pric ing, but our 
+treatment of and  summarized in (6) should control fo r at least som e of any unobservable 
+transfer-pricing m otives.  The parent-by-industry controls capture differences in the average 
+propensity to transfer price across U .S. parents, which m ay result from  variation in their global 
+foreign-tax- credit sta tus with the I nterna l Revenue Service.  And the inclusion of corporate 
+incom e tax rates con trols for transf er-pricing motivations that vary across host-countries. m
+ipchq
+ipcp
+m
+ipcphq
+ipcp
+ A second estim ation issue is that w e do not ob serve prices for any interm ediate inputs that  
+affiliates  may purchase locally.   In p rinciple,  the price for lo cal inputs  should be an  additional 
+regres sor in  equation (3 ).  In p ractice, the se prices m ay be well capture d by our just-discussed 
+measures for  and .  If local input prices  are set on the w orld m arket, and so equal to 
+world input prices plus trade costs, then including as regr essors parent-by-industry dummy 
+variab les an d trade costs  contro ls for their pres ence. m
+ipcphq
+ipcp
+ A third estim ation issue involves the regressa nd.  In our data, th e dependent variable 
+takes  a va lue of zero  for many af filiates.  This  may be due to th e techn ologica l infeasibility 
+of separatin g input p roduction and  process ing, which would resu lt in an  affiliate strategy of 
+integ rating b oth activitie s.  One appr oach to th is problem  would be to incl ude in (3) m easures of 
+the technological separability of production as re gressors and then estim ate (3) as a Tobit.  m
+aipcs
+                                                                                                                                                             
+possibilit y, in the estimation we allow for  the pos sible endogen eity of host-co untry industr y tariffs. 
+ 13    
+Below, we experim ent with one  possible industry-level proxy.  The parent-by-industry dummy 
+variables could also pr oxy for these m easures, but the pres ence of a large num ber of unobserved 
+fixed effects com plicates  use of the Tobit.  W ith few observations per indicator variable category 
+(i.e., sm all num bers of affiliates  of the sam e pare nt firm  and in th e sam e industry), there is th e 
+risk that Tobit estim ates of param eter coefficients woul d be inconsistent  (Wooldridge, 2002). 
+ Instead, we address zero observations in the de pendent variable in two ways.  First, we drop 
+from  the sample affiliates in industries in wh ich im ports of inputs for further pro cessing are 
+rare.13  The excluded industries—e.g., food processi ng, pulp and paper, newspapers, soap and 
+cleansers—appear to be prim arily ones in which either there is a singl e stage of production or 
+technology or transport costs m ake it prohibitivel y expensive to geographically separate input  
+production and input processing.  Second, we check  the consistency of our OLS estim ates of (3)  
+by using a Tobit with a m ore-aggr egate set of indicator v ariable categories.  Fewer parent-
+industry combinations increase the observations per category and thus improve consistency. 
+ A fourth estim ation issu e is how to m easure wages.  In equation (3) wages are assum ed to 
+vary only across countries.  This would be the case  if affiliates are p rice-takers in labor m arkets 
+and if labo r markets are national in scope.  In practice, wage s may vary across other dim ensions 
+as well.  For instance, wages m ay vary by indu stry, consistent with evidence on inter-industry 
+wage dif ferentia ls, and  particular m ultinationa ls m ay offer wage pr emia to attra ct more able 
+workers.  In the em pirical analysis, we use as a baseline wages at the country level and 
+experim ent with m easures at the ind ustry or af filiate leve l. 
+ A final estim ation issue is th at there m ay be country-level policies and characteristics that 
+influence h ow foreign af filiates  organize their  activ ities.   To contro l for this  possibility, we 
+                                                                                                                                                             
+12 See Sansing (1999) for an over view of U.S. tax code reg arding multination al transfer pricing and for a theor etical an alysis of 
+transfer-pricing  rules.  For empirical evid ence on  transfer  pricing , see Clausing  (200 1) and Grub ert and Mutti (1991). 
+ 14    
+include a s addition al regressor s measures of  host-coun try investm ent and exchange -rate policie s 
+and of the quality of its financial,  legal, and political institutions. 
+ 
+3.3  Summary of Estimation Strategy 
+ To summarize our estim ation strategy, our goal  is to  exp lain the v ariation in  imported  
+interm ediate inputs acro ss foreign affiliates that ar e in th e sam e industry and that share the sam e 
+U.S. parent.  In controlling for parent-by-industry fixed effects, we identify the responsiveness of 
+processing imported inputs to trad e costs, wages, tax rates, a nd other factors by exploiting the 
+cross-country variation in these variable s.  Our baseline estimating equation is: 
+ 
+m
+aipc ic aipc my c mtic ic mm aipc mku
+c mus
+c ms ipm
+aipc
+X Yln )t1ln()f 1ln( rln wln wln~s
+ε+β+ φ+−γ++τ+γ+γ+γ+γ+α=
+ (7) 
+where, am ong the new variab les relative to (3), τic is the host-country industry ad valorem  tariff 
+rate; fic is the host-country industry ad valorem  freight ra te; tc is the host-coun try co rporate tax 
+rate; and X ic are m easures of other host-country and/ or industry policies a nd ch aracteristics.  
+Coefficient estim ates from  (7) w ill thus provide insight about the determ inants of vertical 
+production n etworks in multinational firm s. 
+ 
+4.  Data Description and Summary Statistics 
+4.1  Data Sources 
+ The prim ary data  for this project are  for the op erations of  U.S. m ultinationals, bo th of  their  
+U.S.-based parents  and  their f oreign affiliates,  as co llected by the  BEA in lega lly m andated 
+confidentia l surveys.  An  appendix describes in detail th ese and related non-BEA data. 
+                                                                                                                                                             
+13 The cutoff  we apply  is an industr y mean of  imported inputs for  further pro cessing as a share o f total sales of gr eater  than  5%. 
+ 15    
+ We use BEA data from its 1994 “benchm ark” su rvey, which covers the entire population of  
+U.S. m ultinationa ls in that yea r.  Less data  are collected for minority-owned af filiates, so we use  
+the popu lation of m ajority-owned af filiates in m anufacturing , of which there were 6, 955 in 1994  
+(out of 8,014 total m anufacturing affiliates link ed to 1,456 U.S. parent enterp rises).  This group 
+of m ajority-owned affiliates sp anned 54 m anufacturing ind ustries and 105 host co untries; the 
+related grou p of parents has a m edian of four affiliates (with a maximum of 146).  Each affiliate 
+is classified in a single industr y of prim ary business based on the distribution of its sales acros s 
+industries.  Controlling for parent-industry fixed effects require  us to exclude from  the sam ple 
+any affiliates that are the sole affiliate of a parent/industry. 
+ For our regression analysis in e quation (7), the dependent variable sis the shar e in tota l 
+affiliate cos ts of imports f or further proce ssing  from the United Sta tes (e ither from the U.S. 
+parent or f rom another U.S. entity ).14  Total econom ic costs are proxied by total accounting 
+revenues  plus inven tory changes.   We use two  affiliate-lev el regressors:  the capital r ental rate 
+and output.  Rental rates are defined in the appendix.  Tota l output is m easured as BEA gross 
+output (i.e., value added). m
+aipc
+ Turning to other regressors, we do not obs erve the tru e marginal prices f or labo r  and 
+facing each affiliate.  W e approxim ate m arginal prices us ing wage unit values (com pensation 
+divided by employm ent) constructed from  the Unite d Nations’ Industrial Statistics Database.  As 
+discussed in Section 3.2, for robustne ss we also try other wage m easures. u
+cws
+cw 
+ Our prim ary trade-cost m easures are tariffs , non-tariff barri ers (NTB s), and trans porta tion 
+costs; all are bilateral for the ho st country vis a vis the United St ates and all vary by country and 
+                                                 
+14 The BEA track s imported inputs from both fro m U.S. parents and from non- parent U.S. entities.  Approximately  90-95% of 
+imports from the United States by foreign aff iliates of U.S. m ultinationals ar e from  parent firm s.  Even where affilia te im ports 
+ 16    
+industry.  Tariffs and NTBs com e from the United Nations’ TRAINS (Trade Analysis and 
+Inform ation System ) database; tran sportation costs were generated from data f iles in Feenstra  
+(1996).  Tariffs and transport costs are ad valorem  measures; NTB presence or absence is a 
+catego rical measure.  Adjacency to the United St ates is an ad dition al proxy for trade barriers.15 
+ The rem aining regres sors captu re addition al host-coun try or ind ustry policies and 
+characteristics.  From  the Univers ity of Mi chigan W orld Tax Databa se, we have statutory 
+corporate in come tax rates that m easure m aximu m margina l tax rates facing these  businesse s.  
+To m easure m arket size in the host-country,  we use Hanson and Xiang’s (2002) m easure of 
+market potential:  national GDP plus a distance-weighted sum  of GDP in neighboring countries.  
+We include an indicator variable for English as  the prim ary language.  We also include several 
+policy-related regressors :  an indicator for the presence of  export-processing zones (EPZs) and 
+the value-added tax rate, both fr om PricewaterhouseCoopers; an indicator for whether the host 
+country fixes the value of its currency to the U.S. dollar, from Sha mbaugh (2002); and m easures 
+of “econom ic freedom ” and of “FDI openness, ” both from  the Heritage Foundation and  Wall  
+Street Journal .  Finally,  we include m aterials purchases  as a share of shipm ents in the United  
+States for the affiliate’s industry.  This share may reflect the techno logical feasibility of an 
+industry to o rganize its constitu ent activ ities into global p roduction networks. 
+ For the sam ple used to estim ate our  initia l spec ifications of  equation (7 ), Table 1 reports 
+summary statistics for our regressand and severa l regressors.  Relative to the full population of 
+6,955 m ajority-owned affiliates in manufacturing, our baseline sam ple is sm aller due to m issing 
+host-country data.  This baseline sample spans 39 industries (and is linked with 632 U.S. parents, 
+                                                                                                                                                             
+come from  an e ntity other than the pa rent, the parent may stil l have arrang ed th e transa ction .  As we discuss la ter, est imation 
+results from usin g just imports fr om parents are nearly identical to thos e we repo rt. 
+15 In unrepor ted results, we included dis tance from  the Unit ed States to the hos t-coun try as a reg ressor.  Afte r con trolling for 
+trans portat ion costs and ad jacency to the United  States, distance was insignifi cant in most specifications. 
+ 17    
+leading to 7 77 parent-in dustry effects) acro ss 42  host countries.  For th e average affiliate in ou r 
+sample, 11% of its total costs are accounted f or by im ports of intermediate inputs for further 
+processing.  Average host-country/ industry im port tar iff and freight rates are each abo ut 5% (and  
+these two variables have a sam ple correlation of 0.22).  The m ean less-skilled wage is just over 
+half the valu e of the average m ore-skilled wage. 
+ 
+4.2  Preliminary Evidence  
+ Before showing regression results, Table 2 first shows patterns of  vertical production 
+networks by broad industry and country groups in our data.  Each  cell of this table reports the 
+mean share of i mported inputs for further processing as a share of total revenues. 
+ Input processing is m ost prom inent in regions  that have low trade costs and/or low labor 
+costs vis a vis the United States.  Mexico is the most obvious exam ple.  It is a low-wage country, 
+and in 1994  it benefited  not just from  adjacency to the United States bu t from  the start of lower 
+trade b arriers in the NAFTA.  Canada is anoth er exam ple.  W hile a hig h-wage cou ntry, it has  
+even lower trade costs than Mexico.  Canada’s  major production centers are located quite near 
+industrial regions of the United States, and th e Canadian-A merican Free Trade Agreem ent was  
+signed in 1989.  Input pr ocessing  is also relatively com mon in East As ia.  W hile dista nt from the 
+United States, the region has m oderate labor costs and open m arkets, at least in certain industries 
+such as electronics.  Consistent with theory, poor candidates for input pr ocessing include regions 
+with high labor costs and m oderate to high trad e costs (OECD Europe, OECD Asia) and regions 
+with relatively closed markets (Other Latin Am erica, with the Mercosur countries of Argentina 
+and Brazil; Other Asia, with India,  Africa, and the Middle East). 
+ Apart from regional patterns,  certain industries appear to  be good candidates f or input 
+process ing.  These include m achinery, transpo rtation equ ipment, and el ectronics, of which the  
+ 18    
+largest sub-industry is com puters.  Several com mon features of these industries m ay make the m 
+amenable to global outsourcing.  One is that production tends to involve distinct stages—design, 
+component production, final assem bly—that are phys ically separable.  Firm s need not perform  
+these tasks in the sam e location, and  so can locate different stages in differe nt countries.  Another 
+feature is th at the se pro duction s tages exhib it different f actor intensitie s, with des ign activ ities 
+and com ponent production being m ore skill-intens ive and  assembly activities being more labor-
+intensive.  To the extent that factor costs va ry across countries, firm s may have an incentive to 
+locate labor-intensive activiti es in labor-abundant countries.16 
+ In Section 1 , we pointed out that the BEA does not tra ck links in m ultination als’ vertica l 
+production networks other than affiliate im ports of inputs for further processing from  U.S.  
+entities.  In particular, BEA data do not m easur e affiliate exports of processed inp uts to other 
+affiliates o r to their U.S. parent.  In stead, the BEA reports only total affiliate exports.  But if 
+affiliates are exporting  mainly processed in termediates,  then our exam ination of affiliate 
+imported inputs m ay be augm ented by studying affiliate exp orts as well.  
+ Table 3 offers som e initial ev idence on the e xport p atterns of U. S. foreign affiliates.   
+Constructed  analogous to Table 2, each cell of th is tab le rep orts affiliate exports to the United 
+States as a share of total reve nues.  The pattern of export inte nsity across regions and industries 
+is very sim ilar to the pattern of imported-input intensity in the prev ious table.  Export intensity is  
+higher in co untries with low trade co sts and /or low wages relative to th e United Sta tes.  For our  
+sample of affiliates, the corre lation b etween af filiate im ports of  interm ediate inpu ts from the U.S. 
+as a share of  revenue an d affiliate ex ports to the U.S. as a share of  reven ue is 0.59.  Again, Table 
+3 measures total affiliate exports, not just affiliate exports of pr ocessed interm ediate inputs, and  
+                                                 
+16 Note that Table 2 broadly  accor ds with th e introductor y examples in Section 1 of ve rtical production networks.  For example,  
+Canadian and Mexican affiliates in tran sportation products have nearly  half of their total sales accounted  for imported  
+ 19    
+so m ay be a noisy  measure of trade flows w ithin U.S. multinationals’ v ertical productio n 
+networks.  Still, the st rong patterns of si milarity between Tabl es 2 and 3 suggest that affiliates 
+that are m ore oriented towards processing im ported inpu ts are also more orien ted towards  
+production for export, as we would expect for a ffiliates that w ere part of such networks. 
+ In the regression analysis, to which we turn next, we aim  to uncover which factors drive the 
+cross- affiliate varia tion just docum ented.  The m icro-da ta per mit us to control f or variation in th e 
+extent to which each p arent chooses to  operate v ertical p roduction networks. 
+ 
+5.  Estimation Results 
+5.1  Main Results for Imported-In put Demand 
+ Table 4  reports ou r bas eline OLS estim ates of  equation (7).  The de pendent variable is 
+imports for further processing as a share of affiliate revenu es.  Colum n 1 excludes additional 
+controls, colum n 2 adds in a la rge n umber of such controls, a nd colum n 3 shows our preferred 
+specif ication with a n arrow set of  contro ls ch osen from  the precisely  estim ated variab les in 
+colum n 2.  All specifica tions include 777 parent-by- industry dumm y variables. 
+ There are th ree notab le results in Table 4.  First is the ro le of trade costs , which in this tab le 
+are defined as in equation (7) a s the sum  of both ad valorem  tariffs and freight rates.  Im ported 
+interm ediate inputs as a share of affiliate revenu es are stron gly ne gatively correlated  with trade 
+costs.  Reca ll from Section 3.2 tha t trade costs  are a po tentially im portant determ inant of  the 
+price of im ported in termediate inputs  that affiliate s face.  Our estim ates suggest that affiliates do  
+in fact respo nd to trad e-cost-induced  changes in imported-in put prices.  The coefficient estim ate 
+from  our preferred specif ication in  colum n 3 of Table 4 im plies (f rom equation  (4)) that the own-
+price elasticity of de mand for i mported inputs is -3 .28 (standard error of 0. 71):  a 1% fall in input 
+                                                                                                                                                             
+intermediate inp uts—in con trast with a share of b arely 3% fo r transportation  affiliates in  other Latin  American  countries. 
+ 20    
+prices  due to a reductio n in trade costs leads to a 3.3% in creas e in the quantity of i mported 
+interm ediate inputs dem anded by an affiliate.17 
+ This sensitivity of input de mand to trade cost s appears consistent with  Yi’s (2003) model in 
+which sm all changes in tariffs produce large change s in production costs a nd thus input trade.  
+Again, Yi hypothesizes that actu al tariff declines can explain act ual trade growth only if their 
+effects are amplified by trade in interm ediate inputs.  Our resu lts accord with this theory. 
+ This ev idence also differs from previous em pirical work  on m ultinationa ls (e.g., Car r, et al, 
+2001), which finds that foreign-a ffiliate sales are higher the highe r are host-country tariffs and 
+transportation costs.  O ur evid ence suggests a m ore-nuanced st ory, in which at least one 
+important af filiate activity—process ing im ported interm ediates—is inh ibited, not en couraged, by 
+higher trade barriers.  The net im pact of  trad e bar riers on tota l FDI  is like ly to vary a cross 
+affiliates with the scope and size of their d ifferent productive activ ities. 
+ A second notable find ing in Table 4 is th e sensitiv ity of input pro cessing to labo r costs.   
+Imported-input dem and is decr easing in host-country w ages for less-skilled w orkers and 
+incre asing in host-coun try wages f or more-skilled worker s, with all coef ficients precis ely 
+estim ated.  The estim ates from colum n 3 of Ta ble 4 im ply (from equation (5)) that the cross-
+price wage elasticities of de mand for im ported i nputs are –0.32 (standard error of 0.09) for less-
+skilled labor and 0.36 (standard e rror of 0.09) for m ore-skilled la bor.  A 1% f all in less-sk illed 
+(more-skilled) wages leads to about  a 1/3% increase (d ecrease) in im ported interm ediate inputs. 
+ This responsiveness of input  processing to w ages is at odds  with much of the earlier 
+empirical w ork on m ultinationals  that uses agg regate data (e.g., Brain ard, 1997; M arkusen and  
+Maskus, 1999; Blonigen et al, 2002).  Consistent w ith models of vertical FDI, we find tha t 
+foreign affiliates do m ore processing of i mports the lower are  low-skilled wages rela tive to high-
+                                                 
+17 Standard  errors  for el asticities are calculated using the  Delta method. 
+ 21    
+skilled wages.  This accords with our intuition th at im ports for further processing and less-sk illed 
+labor are complem ents.  That we  find stronger evidence of vertical FDI than previous literature 
+may be due to our use of m icro-level data on forei gn affiliates.  Previou s work, in contrast, uses 
+data that ag gregates not just ac ross the ac tivities of a given  affiliate but also  acro ss all af filiate s 
+in a given industry and country.  Our data sugg est multinationals vary in the range of activities 
+they perform and therefore m ay display both vert ical and ho rizon tal production ch aracteris tics. 
+ The third notable result of Table 4 is the im portant role played by ot her host-country policies 
+and charac teristics.  In o ur pref erred colum n (3), im ported-in put dem and is sign ificantly (a t the 
+10% level) higher in countri es with lower corpo rate tax ra tes.  Th is role f or tax rates is consisten t 
+with evidence (e.g., Hanson, 2001) that m any govern ments give tax breaks to foreign fir ms that 
+engage in export processi ng within their borders—an activity th at involves vertically specialized 
+affiliates that im port large am ounts of inputs.  Many studies have exam ined how taxes affect 
+aggregate F DI (Hines, 2 001), but no t on how  they affect the com position of FDI.18 
+ Dem and for im ported interm ediate inputs  is higher for affiliates  in Canada o r Mexico, 
+consistent w ith these co untries enjoying lower trade cos ts with U.S. f irms due to a com bination 
+of geographic proxim ity and preferential m arket access.  Input dem and is also significan tly 
+higher in h ost coun tries with EPZ s.  EPZs ty pically offer a range of incentives to prom ote 
+exports, including tax holidays, expedited transi t of goods through custom s, and tariff breaks on  
+imported equipm ent, which m ay induce firm s to concentrate input p rocess ing in  affiliates.19  
+Affiliate reliance on im ported intermediate inpu ts is lower in countries  situated in regions with  
+                                                 
+18 In Section 3.2 we discussed con cerns about transfer pricing.  If transfer pric ing were dominating  the variation in our data, th en 
+we would expect to see the opposite correla tion between host-countr y tax rat es and im ported-in put intensit y.  If multinationals  
+were simply  shifting profits to low-tax count ries via input trad e, then affiliates in these low-tax locations would be charged a 
+below-market pr ice for inputs.  Holding a ffiliate output constant , this practice w ould gener ate lo w values for ou r dependen t 
+variab le in low-tax locations, the opposite correlation from that actually  revealed in  our pr eferr ed specifications. 
+ 22    
+large r market poten tial.  This is  consistent  with horizontal theo ries of  FDI, in which 
+multinationa ls located in  markets with la rger local dem and ar e more orie nted toward s integra ted 
+production (perhaps for local consum ers) and le ss oriented towards operating via vertical 
+production networks.  Affiliate reliance on imported inputs is h igher in host cou ntries with  
+higher levels of economic freedom .  One interpre tation is that poor governance of the econom y is 
+especially dam aging to firm s engaged in hi gh levels of input im porting and exporting. 
+ The rem aining reg ressors in  Table 4 hav e generally ins ignifican t coefficient estim ates.  
+Though insignificant, the estim ates for NTBs are pu zzling:  imported interm ediates as a share of 
+affiliate reve nues are po sitively co rrelated with NTBs .  To the extent tha t NTBs are tr ade bar riers 
+that raise im port prices, the oppos ite correlation m ight be expect ed.  Data problem s may matter 
+here.  NTBs  do not m easure whether quantitative restrictions on trade bind, but rather whether 
+governm ents have the option of im posing them . 
+ 
+5.2  Additional Results and Robust ness Checks for Imported-Input Demand 
+ Table 5 applies alternative estim ators to our pr eferred sp ecification in Table 4.  Colu mn (1)  
+uses Tobit rather than OLS.  In or der to obt ain consisten t coefficient estim ates (W ooldridge, 
+2002), we needed to reduce the number of fixed e ffects in the specification from a full set of 
+parent-industry controls to a set of two-digit indust ry controls.  Most coefficient estim ates retain  
+the sam e sign and pattern of significance—e.g.,  on trade co sts and wag es.  The co efficient on  
+capital is still pos itive but has bec ome signifi cantly so.  This accords with the  presum ed 
+complementarity between input pro cessing and less-skill ed labor discussed a bove, as there is 
+substantia l evidence in labor econo mics that ca pital and les s-skilled lab or are pr ice substitute s.  
+                                                                                                                                                             
+19 A standard feature of EPZs is tariff br eaks on inputs imported from abroad (for input s used to p roduce expor ts).  One might 
+expect, th en, th at tar iffs would have no impact on imported i nputs in countries with EPZs.  In unreported regressions we 
+interacted the EPZ variable with trade costs to capture this effect but found the interactions to  be insignificant. 
+ 23    
+The coefficient estim ate for output changes both  sign and significance.  As discussed in Section  
+2, there are concerns about the s ensitiv ity of T obit es timates to the included fix ed effects.  
+Nevertheless, the broad patterns appear  match th ose of the OLS estim ates. 
+ The second colum n of Table 5 re-estim ates our  preferred specification where we replace our 
+parent-industry dumm y variab les with a full set of country dumm y variables.  The cost of these 
+country controls is the need to exclude all regres sors that vary by country only.  The  benefit is 
+that this checks whether estim ates for the key trade-cost regr essor are driven by unobserved, 
+country-specific factors.  The coeffi cient on trad e costs is som ewhat sm aller in absolute value 
+that in o ther specif ications but rem ains sta tistically sign ificant.   The  implied own-pr ice elasticity 
+from  this co untry fixed-effects estim ate is -2.82 (standard error of 0.97). 
+ The third co lumn of Table 5 us es an  instrum ental variab les (IV) es timator.  It is com monly 
+asser ted tha t multination als have a large say in  trade -policy  formulation  in host cou ntries (e.g., 
+Blonigen and Figlio, 1998)—especially sm all devel oping countries.  If this  were the case, then 
+our negative correlation between trade costs a nd im ported-input shares might reflect not the  
+response of firm s to exogenously given trade cost s but rather the politic al-econom y outcom e of 
+firms with vertical p roduction networks lobby ing successfully for low  tariffs.  To address this  
+possibility we re-es timate our p referred sp ecifica tion instru menting f or trade costs  with tariffs 
+from  1989, five years before our sample.  Thes e earlier-period tariffs ar e valid instrum ents if 
+they are co rrelated with current trade costs y et are uncorrelated with the disturbance term .  
+Intuitively, we find it plausib le that affiliate operations in 1994 have weak political-economy 
+links with 1989 tariffs.  Our IV estim ates are qualitatively unchanged f rom the OLS estim ates, 
+with the co efficient on trade cost s rem aining significantly negative.20 
+                                                 
+20 An ex ante  argument for disco unting th e endo geneity  concern may be that actual estim ation  sample does not  contain  (due to 
+data l imitations discussed in Sec tion 4.1) many very small coun tries where pol itical influ ence of  multination als is likel y to b e 
+ 24    
+ Beyond wha t is reported in Table 4 and 5, we conducted a large num ber of other robustness 
+checks.  One set of checks involved alternative m easures of key regressors and our regressand.  
+We constructed industry tariffs a nd transportation costs using sim ple arithm etic rather than trade-
+weighted av erages.  W e replaced statuto ry corp orate tax rates with effective av erage corporate 
+tax rates, reported in G rubert ( 2001) as constructed by the IRS Sta tistics of Incom e Division 
+from tax r eturns of  U.S. m ultinatio nals.  W e measured wages us ing af filiate  data on av erage 
+annual salaries for production (less-skilled) and non-production (m ore-sk illed) worker s (either 
+for a given affiliate or for other affiliates in the sam e industry and c ountry).  And we also 
+measured our regressand using i nputs im ported from  U.S. parent s only, excluding imports from 
+unaffiliated U.S. third parties (se e also note 14) .  Our estim ation re sults were qualitatively 
+unchanged by these and other m easurem ent choices. 
+ A second set of robustness check s involved sample restrictions .  One was to exclude from 
+our sam ple all af filiates in Mex ico or Canada, to ensure that our findings were not driven by 
+intra-NAFTA trade patterns.  A second was to exclude affiliates  facing very  high host-
+country/industry tariffs.  One m ight worry that the negative co rrelation between trade costs and 
+imported-in put intensity  reflects tax evasion :  in the face of high tariffs, firms might under-report 
+the value of i mported inputs to lower tax liabili ties.  For China-Hong Kong trade, Fism an and 
+Wei (2001) find evidence of under-invoicing, but only at high tariff rates (i .e., above 35%).  We  
+tried elim inating all observations of tariffs above  various cut-offs, down t o 20%.  Our estim ation 
+results were also qualitatively unchange d by these and other sam pling choices. 
+                                                                                                                                                             
+strongest.  The instruments used  were three measures of 1989  industr y-coun try tariffs, each of wh ich used a different weightin g 
+scheme for aggregating th e raw tariff  data (s ee Da ta Appen dix for d etails).  Th e correl ation betwe en trade  costs and  our 
+instruments is quite high :  a regression of trad e costs on the in struments obtained an R-squar ed of 0.60.  We also note that 
+instrumenting fo r trade costs may addres s measurem ent-error b ias.  Our anal ysis as form alized in  equat ion (7) as sumes that an  
+affiliate classified in industr y X based on th e composition of its sales im ports in puts in that sam e industr y X.  In  princip le, this 
+assumption need  not be true:  an industr y-X aff iliate may  import inputs from an other i ndustr y Y.  In p ractice, th e BEA has no  
+ 25    
+ 
+5.3  Export Behavior and the Determinan ts of Vertical Production Netw orks 
+ Consisten t with theor ies of vertical FDI, we  saw in Section 4.2 that af filiates with greate r 
+reliance on imported interm ediate in puts also tend to be m ore expor t-intensive.  Given this, we 
+can gain add itional insight on vertical production  networks b y exam ining export in tensity.  In the 
+presence of vertical production networks, we would expect affiliate im ports of inputs and 
+affiliate exp orts to resp ond sim ilarly to trad e cost s, factor prices, and ot her variab les.  To see 
+whether this  is the case, we replace the reg ressan d s in equatio n (7) with th e shar e of affiliate 
+exports to the United S tates in a ffiliate revenues.  Tabl e 6 reports these final estim ation results.  
+The five specifications are our baseline and pref erred OLS specifications from  Table 4, and the 
+Tobit, country fixed-effect, and IV specifications from  Table 5. m
+aipc
+ Com paring colum ns 1 a nd 2 of Table 6 with co lumns 1 and 3 of Table 4, we see that every 
+coefficient estim ate except that on capital costs retains the sa me sign and of ten the sam e pattern 
+of statis tical sign ifican ce.  Like imported-inp ut intensity,  affiliate U .S.-export intensity is 
+negatively correlated with host-c ountry trade co sts, less-sk illed wages, and corporate taxes (in 
+colum n 2), and positively correlated with hi gh-skilled wages and th e exis tence of EPZs. 
+Com paring colum ns 3, 4, and 5 of Table 6 with colum ns 1, 2, and 3 of Table 5, we again see  
+similar sign  patte rns an d mostly sim ilar patte rns of statistical s ignificance.  In particular, trade  
+costs are statistically sign ificant for two of these three alternative sp ecifications. 
+ These resu lts suggest th at where affiliates are more specialized in pro cessing inpu ts imported  
+from  the United S tates, they also export a higher fraction of their output to the U nited S tates.  
+Lower trad e costs, lower wages f or les s-skilled labor, and lower corpor ate tax rates are all  
+                                                                                                                                                             
+inform ation on t he industr y com position of im ported inputs for fu rther processing.  Note that be cause equation (7) conditions o ur 
+analysis on affiliate output , we do not f ace measurement e rror du e to us ing nom inal rather than  effective rates of protection. 
+ 26    
+associated with stronger export orientation, just as they are associated with stronger im port 
+intens ity.  W hile the d ata do not p ermit us to s ay explicitly  that th e exp orts af filiate s send to th e 
+United States are processed inputs imported from the United States, the results are consisten t 
+with this interpre tation a nd with the genera l conclusion that vertical pr oduction networks shape 
+trade p atterns between U.S. parents a nd their f oreign af filiates . 
+ 
+6.  Conclusion 
+ Distinguishing features of th e most recent w ave of globaliz ation have been the rise of  
+multinational firm s and of trade in  interm ediate inputs.  In this  paper, we have ex amined the 
+forces behind both these new developm ents by an alyzing im ports of inputs for further processing 
+from  U.S. multinational parents by their affiliates in foreign countries.  These shipm ents of 
+interm ediate inputs prov ide a direct m easure of vertical pro duction networks in multin ation als.  
+Theory suggests that affiliate input processing depends on influences s uch as trade costs and  
+factor prices.  Our results  support this prediction. 
+ Among our  main findings are that affiliate de mand for i mported inp uts is higher is host 
+countries w ith lower trade costs, lower wages for less-skilled labor (in absolu te term s and 
+relative to wages f or more skilled  labor ), and  lower corp orate income tax rat es.  De mand fo r 
+inputs is also affected by other host-country pol icies and characteristics,  including the presence 
+of export-processing zo nes and the size of the h ost-coun try m arket.   Exports by affiliates exh ibit 
+similar patterns of correlation with trad e costs, w ages, and other variables. 
+ Our finding of a high elasticity  for trade costs  is consis tent with Yi (20 03), who shows how 
+trade in inp uts allows s mall changes in tarif fs to produce large changes in trade flows.  Our 
+findings con trast with  much ear lier e mpirica l work on m ultinationa ls, wh ich tended to f ind tha t 
+the scale of activ ities by  foreign a ffiliates of U.S. parent firms is larger in  countries w ith high er 
+ 27    
+wages and higher tr ade c osts vis a vis the United  States.  Our results sugg est that m ultinationals 
+tailor their foreign operations  to lo cal m arket conditions.  They appear to  focus affiliates  on 
+processing imported inputs in count ries where wages and trade costs are lower and m arkets are  
+smaller; and they appear to focus affiliates on production for local consum ers in countries where  
+wages and trade costs are hi gher and m arkets are larger. 
+ Our results also indicate that other host-coun try policies shape verti cal production networks, 
+sometimes in unexpected ways.  Lower tax rates on corpo rate in come are associated with greater 
+affiliate inp ut process ing.  W hile both theory  and em pirical work have shown that lowe r 
+corporate taxes in a country are generally associ ated with greater FDI inflows, there has been 
+little work o n whether ta xes af fect how m ultinationals organ ize their f oreign operation s.   
+ One final point is to re-empha size w hat our analysis does and does not reveal about vertical 
+production networks in  multination al firm s.  W e have focused on the decision s of these firms 
+conditional on having a particular netw ork of foreign affiliates.  It would  be interes ting to extend  
+this focus to  the intertemporal decision of  estab lishing and/or closing foreign affiliates , but that i s 
+beyond the scope of this paper.  It would also  be interesting to st udy vertical production 
+networks in inte r-firm arm’s-length transac tions.  As we discussed, by construction the BEA data 
+do not tra ck such a ctivities.  Bu t to the ex tent that thes e inter -firm dimensions of networks  
+respond to the sam e incentives we have identif ied, our findings m ay apply m ore broadly. 
+ 28    
+Data Appendix 
+ 
+BEA Data 
+ 
+The BEA data com e from  legally m andated confidential surveys it conducts.  A U.S.  
+multinationa l consis ts of one U.S. parent plus on e or m ore foreign af filiates.  A parent is a U.S. 
+legal entity,  such as a corporation, that genera lly contro ls a business en terpr ise loca ted in the  
+United Sta tes and tha t has at leas t one foreign a ffiliate.  A f oreign af filiate is a f oreign business 
+enterprise (incorporated or  unincorp orated ) in which the re is U.S. direct investm ent; that is, it is a  
+foreign business enterp rise in whic h the U.S. parent has at leas t a 10-percent equity stake.21  
+Firm s responding to BEA surveys are instructed to denom inate revenues and costs in U.S. dollars 
+that are, for the m ost part, valued in the prices  and exchan ge rates of the year cov ered by th e 
+data. 
+ 
+Industry of Affiliate :  Each af filiate is classif ied in a s ingle industry of  primary business based  on 
+the distribution of sales across i ndustries that it is required to report.  For our 1994 data, the BEA 
+uses an internal industry defini tion, the BEA Interna tional Surveys Industry (ISI) codes, which 
+are closely related to the 1987 3-digit U.S. Sta ndard Industrial Classification (SIC) codes.  A 
+foreign af filiate gen erally repr esents the conso lidation of  the U.S. direct inve stor’s busines s 
+operations in a host country in a single three-digit industry.22 
+ 
+Imported Intermediate Input s for Further Processing :  Our m easure of i mported inputs for 
+further processing capture im ports both from  pare nt and non-parent U.S. en tities.  Approxim ately 
+90-95% of  these im ports are f rom parent f irms.  Even where af filiate imports com e from an 
+entity other than the par ent, the par ent may still h ave arr anged the tran saction.  W ith this in m ind, 
+the m easure of  affiliate im ports we use is a ll U.S. im ports, includ ing im ports f rom parent and  
+non-parent entities.  Estim ation results using just  imports from  parents are nearly identical to 
+those we report.  For affiliates belonging to sm all U.S. parents, the BEA i mputes im ports for 
+further processing us ing data on to tal affiliate imports.  Our resu lts ar e robust to alternative 
+imputation m ethods and to dropping  affiliates with im puted data from  the sam ple. 
+ 
+Wages :  Ma nufacturing af filiates  are required by  the BEA to  repor t wag e bills and e mploym ent 
+separately f or non-production and production worker s, a breakdown that tends to separate m ore-
+skilled from less-sk illed workers.  For each a ffiliate we construct wage unit valu es for non-
+production and production workers .  In unrep orted results, we use these own-affiliate wage 
+measures and also cons truct “ou tside” wage m easures defin ed for each affiliate a s the averag e 
+wage paid by all other af filiates in the sam e country and in dustry.  These outside wages m ay 
+address th e potential pro blem of endogeneity in af filiate -level wages, in that variation  in af filiate 
+wages m ay reflect variation both in true prices fo r given labor quality and in labor qua lity its elf. 
+ 
+                                                 
+21 In this p aper, we use th e term affiliate or fore ign affil iate to refer to th is class of enterpr ises.  Not e that in the BE A dat a each 
+affiliate is a business enterpri se–differen t from other micro  data  sets on  establishments, e.g ., the U.S. Longitud inal Resear ch 
+Database .  Enterprises m ay oper ate any num ber of estab lishm ents, inform ation that the B EA does no t track. 
+22 The only  exception to this rule is that  foreign affiliates in  the sa me host countr y, but in d ifferent three-dig it industries, may be 
+consolidat ed if t hey are integr al parts of the same business oper ation. 
+ 29    
+Rental Price of Capital :  The renta l rate of  capita l is def ined as an a ffiliate' s return to capital 
+(value added less em ployee com pensation) over its fixed capital stock (net  property, plant, and 
+equipm ent) averaged over the 1985-1994 period (o r, for affi liates established after 1985, fro m 
+the affiliate’s birth to 1 994).   Rental rates fo r a single year are highly  volatile, an d averaging 
+over tim e helps sm ooth this series .  In unreported regressions, e ndogeneity concerns lead us to 
+try as an alternative m easure th e rental retu rn to capital calculated for other affiliates in the sam e 
+country and industry.  R esults for this m easur e are very sim ilar to those that we report. 
+ 
+Non-BEA Data 
+ 
+Wages :  Using data from the UNIDO Industry Data base for 1994, we m easure the unskilled 
+wage as the average an nual salary per worker in  that country’s apparel sector, which in m ost 
+countries is the lowest-wage m anufacturing indus try.  We m easure the skilled wage as the 
+average annual salary per worker  in a country’s chem ical, electronics, and electrical m achinery 
+industries, w hich in m ost countries are the hi ghest-wage, m ost skill-intensive industries. 
+ 
+Trade Barriers :  Tar iffs are f rom the United  Nations’ TRAINS (Trade  Analysis  and Information  
+System ) CD-ROM.  The original source data  are classified by c ountry and by 6-digit 
+Harm onized System product codes.23  Aggregation of the data from  a 4-digit SIC basis to an ISI 
+basis was obtained by weighting th e disaggregated data by the value of U. S. exports to th e 
+country.  Data on NTBs also com e from TRAINS.  The original source data for these were at the 
+4-digit SIC level, which we then concorded to  BEA industries as just described.  This  
+inform ation is categorical, indicating presen ce or absence of NTBs tracked by TRAINS. 
+ 
+The tran sportation-cost data we re generated from  data files in Feenstra (1996 ). For each  
+observation we constructed transpor tation cos ts as charges fo r insuran ce and freight as a share of 
+the custom s value of im ports.  The original source data are classified on  a 4-digit 1987 SIC basis; 
+they were aggregated to  an IS I bas is by weigh ting the disaggregated data by the value of total 
+U.S. exports to the host country.  (We use export s and not im ports to we ight 4-digit transport 
+costs since the freight rates we require are those th at apply to inputs that the U.S. parent exports 
+to its affiliates in a given country.  Results usin g U.S. i mports as weigh ts to constru ct tran sport 
+costs a re very similar to those tha t we report. ) 
+ 
+Other Varia bles:  From  PriceW aterhouseCoopers, we use an  indicator for the presence of export-
+processing zones (EPZ s) that ca ptures a range of hos t-country export incen tives.  Using data 
+from  Shambaugh (2002), we also construct an i ndicator for whether the host country fixes the 
+value of its curren cy to the U.S. dollar.  Recen t research (e.g. , Frankel an d Rose, 200 2) finds th at 
+bilateral trade is stim ulated by cu rrency unions ; we generalize from  this evid ence to exam ine 
+whether host-country exchange-rate policy m atters along the m ore-general fixed-versus-float 
+margin.  A final policy regressor is a collec tion of “econom ic freedom ” measures collected by 
+the Heritage Foundation and The Wall Street Journal .  We average country index scores for 
+respect for property rights, exte nt of government regulation, and prevalence of black-m arket 
+activ ities, with highe r scores ind icating less econ omic freedom. 
+                                                 
+23 These data, plus  a translation  of them to a 1987  4-digit U .S. SIC b asis were  obtain ed from Jon Hav eman. 
+ 30    
+Refer ences 
+Adel man, M orris A.  1955.  “Concept and Statistic al Measurement of Vertical  Integration,” in Business 
+Concentratio n and Price Policy .  Princeton:  Princeton University  Press and NB ER. 
+ 
+Barba Navaretti, Giorgio, Jan I. Haaland, and Anthon y Venables.  2002.  “Multin ational Corporations and  
+Global Prod uction Networks:  The I mplications for Trade Policy .”  CEPR Report prepared for th e 
+European Commis sion Directorate G eneral for Trade. 
+ 
+Blonigen, Bruce A., and David N. Fig lio.  1998.  “Voting for Prot ection:  Does Direct Foreig n Investm ent 
+Influence Legislator Behavior?”  Americ an Economic Review , 88(4), Septem ber, pp. 1 002-1014. 
+ 
+Blonigen, Bruce A., Ronald B. Davies, and Keith Head.  2002.  “Estimatin g the Knowledge Capital 
+Model of the Multinational  Enterprise:  Comment.”  NBER Working Paper No. 8929. 
+ 
+Bordo, Mich ael, Barry  Eichengreen, and Douglas I rwin. 1999 . “Is Globalization Toda y Really Different 
+from Globalization a Hundred Years Ago?” in  Dani Rodrik and Susan Collins (eds.) Brookings Trad e 
+Forum 1999 , pp. 1-50. 
+ 
+Borga, Maria and William Zeile.  2 002.  "F oreign Outsourci ng and the Intrafirm  Trade of U.S. 
+Multinational  Com panies."  Mimeo, U.S. Bureau of E conom ic An alysis. 
+ 
+Brainard, Lael.  1997.  “ An Em pirical Assessment  of the Proxi mity-Concent ration Tradeoff between  
+Multinational  Sales and Trade.”  Ameri can Economic Review 87:  520-54 4. 
+ 
+Cam pa, Jose, and Linda Goldberg. 19 97. “The Evolvin g External Orientation of Manufacturing:  a Profile 
+of Four Co untries.”  Federal Reserve Bank of New York Economic Policy Review , July, pp . 53–81 . 
+ 
+Carr, David L., Jam es R. Markusen, and Keith E.  Maskus. 200 1. “Estim ating the Knowledge-Capital 
+Model of the Multinational  Enterprise.”  American Economic Review , 91, p p. 693-708. 
+ 
+Clausing, Kim berly A.  2001.  “The Im pact of Transf er Pricing on Intrafirm Trade.”  In Jam es R. Hines 
+(ed.) Internat ional T axation and Multinational Activity . Chicago:  University  of Chicago Press. 
+ 
+Council on F oreign Relations.  20 02.  America—Sti ll Unprepared, Still i n Danger .  New York:  Counc il 
+on Foreig n Relations. 
+ 
+Diewert, W. Erwin. 1974. “Applications of Duality Theor y,” in M. Intriligator and D. Kendrick (eds.) 
+Frontiers of Quantitative Economics  Volum e II, Amsterdam : North-Holland, p p. 106- 171. 
+ 
+Ekholm , Karolina, Rikard  Forslid, and  James R. Mar kusen.  20 03.  “Exp ort-Platform  Foreign Direct 
+Investm ent.”  National Bureau of Ec onomic Research  Workin g Pap er No. 9517 . 
+ 
+Feenstra, Robert C. 1996. “U.S. Im ports:  Data  and Concordances.” N ational Bureau of Econom ic 
+Research Working Paper # 5515 , plus data CD-ROM ( http://www.nber.org ). 
+ 
+Feenstra, Robert C. 1 998. “The Integra tion of Trade  and t he Disintegration of Prod uction.”   Journ al of 
+Economic Perspectives , Vol.12 ( 4), Fall , pp. 31-50. 
+ 
+ 31    
+Feenstra, Robert C., and Gordon H. Hanson.  2002.   “Global Production Shari ng and Rising Inequalit y:  
+A Surve y of Trade and Wages.” In Ja mes Harri gan, ed., Handbo ok of  Internation al Trade , Basil  
+Blackwell, fo rthcom ing. 
+ 
+Feinberg, Susan E., and Michael P. Keane.  2001.   “U.S.-Canada Trade Liberalizatio n and MNC 
+Production  Location.”  Review of Economics and St atistics , 83(1) , Februar y, pp. 118-132. 
+ 
+Fism an, Ray mond, and Shang-Jin Wei.  200 1.  “Tax Rates and Tax Evasion:   Evidence from  ‘Missing 
+Imports’  in C hina.  National Bureau of  Econom ic Resear ch Worki ng Paper No. 8551. 
+ 
+Frankel, Jeffrey , and Andr ew Ro se. 2002. “An Estimate of the Effect of Co mmon Currencies on Trade 
+and Incom e.” Quarterly Jo urnal of Eco nomics, 117, p p. 437-466. 
+ 
+Grossman, Gene and Elhanan Help man.  2002a.  “Outsourcing in  a Global Econom y.”  National Bureau 
+of Econom ic Research Working Paper No. 872 8. 
+ 
+Grossman, Gene and Elhanan Help man.  2002 b.  “Managerial Incentives and the International 
+Organization of Producti on.”  National Bureau of Econom ic Research Working  Paper No. 940 3. 
+ 
+Grubert, Harry.  2001.  “T ax Planning by Com panies and Tax Com petition by  Governm ents:  Is There 
+Evidence of Changes in B ehavior? ”  In Ja mes R. Hines, Jr. (ed.) International T axation and Multinational  
+Activity , Chic ago:  University of Chicago Press, forthco ming. 
+ 
+Grubert, Harry, and J. Mutti. 1991. “Taxes, Tariffs,  and Transfer Pricing in Multinational  Corporation 
+Decision Making.”  Review of Economi cs and Stat istics  17, pp.  285-293. 
+ 
+Hanson, Gordon H.   2001.  “Sh ould Foreign Co untries Prom ote Foreign D irect Investment?”  G-2 4 
+Discussion Paper Series, No. 9. 
+ 
+Hanson, Gordon H., Raym ond J. Matal oni, Jr., and Matthew J. Slaughter .  2001.  “Expan sion Strategies 
+of U.S. Multi national Firms,” in D. Rodrik and S. Col lins (eds.) Brookings Trad e Forum , pp. 245-2 94. 
+ 
+Hanson, Gordon H. and Chong Xiang.  2002.  “The Home-Mark et Effect and Bilateral Trade Patterns.”  
+NBER Working Paper No. 9076 . 
+ 
+Haskel, Jonathan E., Soni a Pereira, and Matthew J. Slaughter.  2002 .  “Does Inward Foreign Direct 
+Investm ent Boost the Prod uctivit y of Domes tic Firms?” NBER Working  Paper  No.872 4. 
+ 
+Help man, Elhanan. 1984.  “A Sim ple Theor y of Trade with Mu ltinational Corporations.”   Journal of 
+Political Economy , 92, pp. 451-4 71. 
+ 
+Help man, Elhanan, and Paul R. Krug man. 1985 . Market Structure and Foreign Trade .  Cambridge, MA:   
+MIT Press. 
+ 
+Help man, Elhanan, Marc Melitz, and Stephen R. Yeaple.  2003.  “Exports  versus FDI.”  National Bureau 
+of Econom ic Research Working Paper No. 943 9. 
+ 
+Hines, Jam es R. (ed.).  2001.  Internati onal Taxati on and Multinational Activity .  Chicago: University  of 
+Chicago Press. 
+ 
+ 32    
+Hummels, David, Jun Ishii,  and Kei-Mu Yi.  2001.  “The  Nature and Growth of Vertical Specialization in  
+World Trade.”  Journal of Internationa l Economics , Vol. 54, pp. 75-96. 
+ 
+Kohli, Ulrich  R. 19 78. “A Gross National Produc t Function  and the Derived Demand for Imports and  
+Suppl y of Ex ports.” Cana dian Jo urnal of Economics,  11, pp. 167- 82. 
+ 
+Kohli, Ulrich R. 1991 . Technology, Duality and F oreign Trade, London:   Harvester Whetsheaf. 
+ 
+Kumar, Nagesh. 1994.  “Determ inants of Exp ort Orientation of Forei gn Prod uction b y U.S.  
+Multinational s:  An Inter-Countr y Anal ysis.”  Journal of International Business Studies  (1), pp. 141-156. 
+ 
+Markusen, James R. 2002.  Multination al Firms and the Theory of Internationa l Trade .  Cambridge, MA:   
+MIT Press. 
+ 
+Markusen, James R. and Keith Masku s.  1999.  “D iscriminating am ong Alternative Theories of the 
+Multinational  Enterprise.”  National Bureau of Economic Research  Working Paper No. 7164. 
+ 
+Markusen, Jam es R. and Keith Maskus.  2001.  “Multinati onal Firm s:  Reconciling Theor y and 
+Evidence.”  In Magnus Bl omstro m and Linda Gold berg (eds.) Topics in Inte rnationa l Economics:  A 
+Festschrift in Honor of Robert E. Lipsey .  Chicago:  University  of Chicago Press, pp. 71-95. 
+ 
+Markusen, James R., and  Anthon y Venables. 2000. “T he Theor y of Endo wment, Intra-Industr y and  
+Multinational  Trade.”  Journal of Intern ationa l Econ omics , 52, pp . 209- 234. 
+ 
+Sansing, Richard. 19 99.  “Relationship-Specific Investments and the Transfer Pricing Paradox.”  Review 
+of Accountin g Studies , 4, pp. 119-134. 
+ 
+Sham baugh, Jay C.  2 002. “The Effects of Fixe d Exc hange Rates on Mo netary  Policy.”  Mi meo. 
+ 
+Shatz, Howard J.  2000.   “U.S. Multinational E xports From  Dev eloping Countries.”  Chapter 3 in The 
+Location of U.S. Multinati onal Affili ates.  Harvard University  Ph.D. Dissert ation. 
+ 
+Slaughter, Matthew J.  2000. “Produc tion Transfer Within Mul tinational Enterprises and  Am erican 
+Wages,” Journal of I nterna tional Eco nomics, 50, April, pp. 449-472. 
+ 
+U.S. Bureau of Econom ic Analy sis. 20 02.  U.S. Direct Investment Abroad: Preliminary Resu lts From the 
+1999 Benchmark Survey . Washington, DC: U.S. Government Printing Office. 
+ 
+Wooldridge, Jeffrey  M.  2002.  Econometric Analysis of Cross Section and  Panel Data .  Cam bridge:   
+MIT Press. 
+ 
+Yeaple, Step hen R.  2001.  “The Deter minants of U.S. Outward Foreign Direct Invest ment:  Market 
+Acce ss versu s Comparativ e Advantage.”  Mi meo, University  of Penns ylvania. 
+ 
+Yeats, Alexander J. 200 1. “Just How Big is Global Production  Sharing?” in  Sven W. Arnd t and Henry k 
+Kierzkowski (eds.), Fragmentation:  New Production  Patterns in the W orld Economy , Oxford:  Oxford  
+University  Press. 
+ 
+Yi, Kei-Mu. 2003 . “Can Vertical Sp ecialization Explain the Growth of World Trade?” Journal o f 
+Political Economy , 111( 1), pp. 52-10 2. 
+ 33    
+ 
+Table 1:  Summary Statistics 
+Variable Mean (s.d.) 
+Imported-Input Share 0.110 
+ (0.176) 
+More-Skilled W ages 28.631 
+($, Thousands) (17.089) 
+Less-Skilled W ages 14.811 
+($, Thousands) (7.897) 
+Tariff Rate 0.054 
+(ad valorem) (0.051) 
+Transportation Costs 0.045 
+(ad valorem) (0.038) 
+Trade Costs 0.099 
+(ad valorem) (0.071) 
+Corporate T ax Rate 0.344 
+ (0.056) 
+Adjacent to United States 0.176 
+ (0.380) 
+English Speaking 0.317 
+ (0.465) 
+No. Observations 4,102 
+ 
+Notes :  Ea ch ce ll reports  the variable mean and , in par enthes es, its standard de viation .  Thes e statistics are for  the 
+sample  used in the  baseline estimates reporte d in Ta ble 4; the  year of the se data is 1994.   See text for de tails on varia ble 
+definitions and  construction . 
+ 
+Source :  Authors ’ calculations  using data from th e U.S. Bur eau of Economic An alysis and oth er sou rces. 
+ 34    
+ 
+ 
+Table 2:  Affiliate Im ported Intermediate Inputs, by Industry and Region, 1994 
+                      
+Region           CanadaMexico Other OECD OECD East Other Africa Middle World
+Industry     Lat.Am .Europe Asia Asia Asia   East   
+           
+Chemicals
+            
+          
+           
+           
+           
+          
+           
+          
+          
+           
+           
+           18.92 12.35 9.44 4.90 9.87 15.51 8.57 -- -- 7.62
+Metals 19.23 23.13 -- -- 7.88 13.79 -- 15.51 4.14 8.24
+Machinery
+ 37.19 44.24 9.95 8.20 7.42 8.62 6.06 4.79 10.98 10.98
+Electronics
+ 20.16 40.82 21.14 9.83 17.89 26.98 1.49 13.34 4.39 17.44
+Transportation  
+ 50.36 45.67 3.36 2.33 5.11 6.21 -- -- -- 21.39 
+Other Mfg
+ 18.15 13.29 -- -- 11.82 7.27 -- 2.33 8.89 8.89
+Total 38.66 36.70 8.45 5.64 10.41 15.24 4.46 11.79 4.48 13.59
+ 
+Notes :  This table shows means by two-digit ind ustry and geogr aphic region of the shar e of imp orted inputs for further processin g in total revenu es for foreign  
+affiliates of U.S.  multinat ional  enterprises.   Means  are we ighted  by affil iate total revenue.   The “Other Europ e” region is exc luded fr om the tab le due to disclosur e 
+restrictions (ther e are few aff iliates per industr y in the r egion).  The same appl ies to entr ies th at read, “--.”  Th e sample i s 4,285 majority -owned fo reign aff iliates 
+of U.S. m ultinationals th at belong to a parent that has as least two foreign affi liates.  The year is 1994. 
+ 
+Source :  Authors ’ calculations using data from th e U.S. Bu reau of Economic An alysis. 
+ 35    
+ 
+ 
+Table 3:  Affiliate Exports to the Un ited States, by Industry and Region, 1994 
+                
+Region Canada       Mexico Othe r OECD OECD East World
+Industry     Lat.Am .Europe Asia Asia   
+        
+Chemicals
+         
+       
+        
+        
+        
+       
+        
+       
+        
+       
+        
+        
+        18.96 2.05 2.71 3.64 2.76 0.77 4.82
+Metals 40.86 11.76 5.71 3.44 2.73 6.19 10.29
+Machinery
+ -- 29.32 17.60 7.63 -- 52.72 20.19
+Electronics
+ 24.04 53.76 -- 6.14 5.52 26.55 16.16
+Transportation
+ 61.40 54.80 2.33 4.10 1.73 6.80 26.45
+Other Mfg
+ 26.96 13.64 5.24 4.01 3.02 4.36 6.95
+Total 47.91 40.84 6.18 4.90 6.62 32.85 16.05
+ 
+Notes :  This table shows means b y two-digit indu stry and geogr aphic region of the share of exports to the United States  
+in tot al revenues for fore ign aff iliates of  U.S. multination al enterprises.   Me ans are w eighted by affiliate total sales.   
+Four regions ar e excluded  from the table du e to disclosure r estrictions ( there are few affiliates  per industr y in the 
+region):  Other Europe, Oth er Asia, Africa, an d the Middle Ea st.  The s ame applies  to entr ies that read , “--.”  The  
+sample is 4,285 majority -owned foreign affiliates of U.S. mu ltinationals that belo ng to a parent that has as least two 
+foreign affiliates .  The y ear is 1994. 
+ 
+Source :  Authors ’ calculations using data from th e U.S. Bu reau of Economic An alysis. 
+ 36    
+ 
+Table 4:  Baseline Estim ation Results  for Im ported Interm ediate Inputs 
+Regressor (1) (2) (3) 
+More-Skilled Wages 0.007 0.027 0.028 
+ (0.011) (0.010)** (0.010)** 
+Less-Skilled Wages -0.046 -0.046 -0.045 
+ (0.010)** (0.011)** (0.009)** 
+Capital Rental Rate 0.003 0.001 0.001 
+ (0.006) (0.005) (0.005) 
+(1 + Trade Costs) -0.640 -0.333 -0.262 
+ (0.080)** (0.089)** (0.078)** 
+(1 – Corporate Tax Rate) 0.009 0.028 0.044 
+ (0.031) (0.029) (0.028) 
+Output -0.008 -0.007 -0.007 
+ (0.004)* (0.004) (0.004) 
+Adjacent to United States  0.126 0.126 
+  (0.014)** (0.013)** 
+Export-Processing Zone  0.043 0.048 
+  (0.015)** (0.015)** 
+Non-Tariff Barriers  0.020 0.021 
+  (0.012) (0.012) 
+Host-Market Size  -0.043 -0.045 
+  (0.010)** (0.008)** 
+Econom ic Freedom   -0.037 -0.040 
+  (0.009)** (0.006)** 
+ 
+Notes :  See continuation  of th is table on  next page. 
+ 
+ 37    
+Table 4:  Bas eline Estima tion Results (Continued) 
+Regressor (1) (2) (3) 
+English Speaking  -0.006  
+  (0.009)  
+(1 – Value-Added Tax Rate)  0.029  
+  (0.046)  
+Fixed Exchange Rate w/ U.S.  0.021  
+  (0.015)  
+FDI Openness  -0.001  
+  (0.006)  
+U.S. Materials Share of Sales  0.075  
+  (0.051)  
+Controls Parent-Industry Parent-Industry Parent-Industry 
+No. Observations 4,102 4,102 4,102 
+Adjusted R-Squared 0.40 0.48 0.48 
+ 
+Notes :  Each co lumn of this  table estimates a specification of equation (7) us ing the regr essors of that colum n.  The 
+dependen t variable is imported intermedia te inputs for furthe r pro cessing from  the United S tates as a share of  affiliate 
+total rev enues (p lus inventor y changes).  Cell en tries are OL S param eter es timates (and s tandard errors that allow for 
+both arbitrar y forms of  heteroskedasticity  and cor relations in  disturbances within p arent-industr y groups).  * indicates 
+that a p arameter estimate is  different from  zero at the 5% s ignifi cance lev el; ** at the 1% leve l.  Al l specifications also 
+includ e 777 parent-b y-industr y dummy  variables.  All regressors  in column (1), as well as  Host-Market Size, (1- Value-
+Added Tax Rate), and U.S. Mate rials Share of S ales, are in log arithms.  See text for equation (7) an d details on variable  
+definitions and  construction . 
+ 
+ 
+ 38    
+Table 5:  Estimation Results , Alternative Estimators 
+Regressor (1) (2) (3) 
+More-Skilled Wages 0.068  0.033 
+ (0.013)**  (0.009)** 
+Less-Skilled W ages -0.097  -0.050 
+ (0.013)**  (0.009)** 
+Capital Rental Rate 0.010 0.001 0.002 
+ (0.005)* (0.005) (0.004) 
+(1 + Trade Costs) -0.359 -0.211 -0.360 
+ (0.089)** (0.107)* (0.182)* 
+(1 – Corporate Tax Rate) 0.032  0.076 
+ (0.051)  (0.036)* 
+Output 0.008 -0.007 -0.007 
+ (0.003)** (0.004) (0.002)** 
+Adjacent to United States 0.133  0.123 
+ (0.012)**  (0.014)** 
+Export-Processing Zone 0.089  0.049 
+ (0.015)**  (0.014)** 
+Non-Tariff Barriers 0.020 0.025 0.023 
+ (0.011) (0.014) (0.008)** 
+Host-Market Size -0.086  -0.044 
+ (0.010)**  (0.007)** 
+Econom ic Freedom  -0.079  -0.038 
+ (0.008)**  (0.007)** 
+Estim ator Tobit OLS IV 
+Controls Industry Country Parent-Industry 
+No. of Obse rvations 4,102 4,102 3,977 
+Adjusted R-Squared  0.49  
+ 
+Notes :  Ea ch col umn of this  table es timates our preferred s pecification of equatio n (7) usi ng the estimator and con trols 
+indic ated.  The dependen t variable is im ported  intermediate inputs for further p rocessing from the United States as a 
+share of affiliate total revenu es (plus invento ry changes).  Cell entries are p arameter estimates (and standard  errors  that 
+allow for both arbitrar y forms of heterosked asticity  and corr elations in disturbances within  parent-industr y groups).  *  
+indic ates tha t a param eter estim ate is di fferent f rom zero at the 5% s ignifican ce level; ** at th e 1% level.  See text for 
+equation (7)  and details on v ariable definitions and construction . 
+ 
+ 39   
+  
+40  Table 6:  Estimation Results , Export-Intensity Regressand 
+Regressor (1) (2) (3) (4) (5) 
+More-Skilled Wages 0.003 0.014 0.038  0.015 
+ (0.010) (0.010) (0.019)*  (0.010) 
+Less-Skilled Wages -0.042 -0.020 -0.087  -0.023 
+ (0.010)** (0.009)* (0.020)**  (0.011)* 
+Capital Rental Rate -0.019 -0.020 -0.056 -0.021 -0.021 
+ (0.005)** (0.005)** (0.008)** (0.005)** (0.004)** 
+(1 + Trade Costs) -0.583 -0.222 -0.719 -0.222 -0.307 
+ (0.113)** (0.123) (0.140)** (0.152) (0.116)** 
+(1 – Corporate Tax Rate) -0.006 0.093 0.201  0.092 
+ (0.035) (0.034)** (0.075)**  (0.042)** 
+Output -0.003 -0.001 0.047 -0.001 -0.001 
+ (0.005) (0.004) (0.004)** (0.005) (0.003) 
+Adjacent to United States  0.143 0.217  0.138 
+  (0.015)** (0.017)**  (0.012)** 
+Export-Processing Zone  0.057 0.139  0.059 
+  (0.023)* (0.023)**  (0.014)** 
+Non-Tariff Barriers  0.016 0.011 0.021 0.013 
+  (0.018) (0.018) (0.021) (0.010) 
+Host-Market Size  -0.015 0.004  -0.016 
+  (0.008) (0.016)  (0.008)* 
+Economic Freedom  -0.011 -0.045  -0.009 
+  (0.007) (0.013)**  (0.007) 
+Estimator OLS OLS Tobit OLS IV 
+Controls Parent-Ind. Parent-Ind . Industry Country Parent-Ind. 
+No. of Observations 4,102 4,102 4,102 4,085 4,102 
+Adjusted R-Squared 0.48 0.54  0.55  
+ 
+Notes :  Each column of this table estimates a specification of equation (7) replacing equation (7)’s regressand with the share of 
+affiliate sales accounted for by exports to the United States.  Each spec ification uses the estimator and controls indicated.  Cell 
+entries are parameter estimates (and standard errors that allow for both arbitrary forms of heteroskedasticity and correlations  in 
+disturbances within parent-industry groups).  * indicates that a parameter estimate is different from zero at the 5% significan ce 
+level; ** at the 1% level.  See text for equation (7) and details on variable definitions and construction. 

@@ -1,0 +1,2062 @@
+This article was downloaded by: [USM University of Southern Mississippi]
+On: 12 September 2014, At: 17:23
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer
+House, 37-41 Mortimer Street, London W1T 3JH, UK
+Regional Studies
+Publication details, including instructions for authors and subscription information:
+http://www.tandfonline.com/loi/cres20
+Regional Development and the Competitive Dynamics
+of Global Production Networks: An East Asian
+Perspective
+Henry Wai-chung Yeung a
+a Department of Geography , National University of Singapore , 1 Arts Link, 117570,
+Singapore
+Published online: 15 Apr 2009.
+To cite this article:  Henry Wai-chung Yeung (2009) Regional Development and the Competitive Dynamics of Global
+Production Networks: An East Asian Perspective, Regional Studies, 43:3, 325-351, DOI: 10.1080/00343400902777059
+To link to this article:  http://dx.doi.org/10.1080/00343400902777059
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained
+in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no
+representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of
+the Content. Any opinions and views expressed in this publication are the opinions and views of the authors,
+and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied
+upon and should be independently verified with primary sources of information. Taylor and Francis shall
+not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other
+liabilities whatsoever or howsoever caused arising directly or indirectly in connection with, in relation to or
+arising out of the use of the Content.
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic
+reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any
+form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http://
+www.tandfonline.com/page/terms-and-conditionsRegional Development and the Competitive
+Dynamics of Global Production Networks: An East
+Asian Perspective
+HENRY WAI-CHUNG YEUNG
+Department of Geography, National University of Singapore, 1 Arts Link, 117570 Singapore. Email: HenryYeung@nus.edu.sg
+(Received August 2007: in revised form November 2008)
+YEUNG H. W .-C. Regional development and the competitive dynamics of global production networks: an East Asian perspective,
+Regional Studies . The debate on the nature and dynamics of regional development in both academic and policy circles has now
+moved on from the earlier focus on endogenous regional assets to analysing the complex relationship between globalization andregional change. This position paper attempts to engage with this debate through the experience of regional development inEast Asia. The paper shows that regional development cannot be understood independently of the changing dynamics of globalproduction networks. While the existing literature on East Asia tends to focus on the state as the key driver of economic develop-ment at the national and regional levels, it is argued that the developmental state is a necessary but not sufﬁcient condition forregional development to take place. Instead, one needs to study the complex strategic coupling of those economic actors, particularly
+large business ﬁrms, operating in speciﬁc regions in Asia with their lead ﬁrm counterparts orchestrating production networks on a
+global basis. T o illustrate these strategic coupling processes and their impact on divergent regional development trajectories, the
+author draws upon his own primary data and other papers to be published in this special issue of Regional Studies . The paper
+concludes with some major implications for theorizing regional development and strategic regional policy options.
+Regional development Global production networks Strategic coupling Trans-regional processes Asia Business
+ﬁrms States
+YEUNG H. W .-C. L’ame ´nagement du territoire et la dynamique compe ´titive des re ´seaux de production mondiaux: du point de vue
+de l’Asie de l’Est, Regional Studies .L ed e ´bat sur les caracte ´ristiques et la dynamique de l’ame ´nagment du territoire dans les milieux
+acade´mique et politique ne met plus l’accent mis sur les atouts re ´gionaux endoge `nes mais pluto ˆt sur l’analyse du rapport complexe
+entre la mondialisation et l’e ´volution re ´gionale. Cet article cherche a `s’engager dans ce de ´bat a`partir de l’expe ´rience de l’ame ´nage-
+ment du territoire en Asie de l’Est. Cet article montre que l’ame ´nagement du territoire ne peut pas s’expliquer inde ´pendamment
+de la dynamique changeante des re ´seaux de production mondiaux. Alors que la documentation actuelle sur l’Asie de l’Est a ten-
+dance a `porter sur l’e ´tat comme la principale force motrice sur les plans national et re ´gional, on afﬁrme que l’e ´tat du de ´veloppement
+constitue une condition ne ´cessaire mais insufﬁsante de l’ame ´nagement du territoire. Pluto ˆt, on e ´tudie l’ accouplement strate ´gique com-
+plexe de ces agents e ´conomiques, notamment les grandes entreprises qui ope `rent dans des re ´gions spe ´ciﬁques en Asie pendant que
+leurs entreprises phares homologues organisent des re ´seaux de production mondiaux. Pour illustrer ces processus d’accouplement
+strate´gique et leur impact sur diverses trajectoires d’ame ´nagement du territoire, on puise dans les donne ´es de base de l’auteur et dans
+d’autres articles a `paraıˆtre dans ce nume ´ro spe ´cial de Regional Studies . Pour conclure, l’article discute d’importantes implications
+quant a `la the´orisation de l’ame ´nagement du territoire et aux options strate ´giques pour la politique re ´gionale.
+Ame´nagement du territoire Re ´seaux de production mondiaux Accouplement strate ´gique Processus transfrontaliers
+Asie Entreprises EtatsRegional Studies , V ol. 43.3, pp. 325–351, April 2009
+0034-3404 print/1360-0591 online/09/030325-27 #2009 Regional Studies Association DOI: 10.1080/00343400902777059
+http://www.regional-studies-assoc.ac.uk
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+YEUNG H. W .-C. Regionalentwicklung und die Wettbewerbsdynamik globaler Produktionsnetze: eine ostasiatische Perspektive,
+Regional Studies . Die akademische und politische Debatte u ¨ber die Art und Dynamik der Regionalentwicklung konzentriert sich
+heute weniger auf endogenes regionales Kapital; stattdessen wird zunehmend die komplexe Beziehung zwischen Globalisierungund regionaler Vera ¨nderung analysiert. In diesem Positionsaufsatz versuche ich, mit den Erfahrungen der Regionalentwicklung in
+Ostasien zu dieser Debatte beizutragen. Aus dem Aufsatz geht hervor, dass sich die Regionalentwicklung nicht unabha ¨ngig von
+der wandelnden Dynamik globaler Produktionsnetze verstehen la ¨sst. Die vorhandene Literatur in Ostasien konzentriert sich in der
+Regel auf den Staat als wichtigsten Motor der Wirtschaftsentwicklung auf nationaler und regionaler Ebene; ich hingegenargumentiere, dass ein die Entwicklung fo ¨rdernder Staat zwar eine notwendige, jedoch keine ausreichende Vorbedingung fu ¨r
+Regionalentwicklung darstellt. Stattdessen ist es no ¨tig, die komplexe strategische Kopplung dieser wirtschaftlichen Akteure zu
+untersuchen – insbesondere die von Großunternehmen, die in bestimmten Regionen Asiens ta ¨tig sind und deren Leitﬁrmen
+Produktionsnetze auf weltweiter Ebene steuern. Um diese strategischen Kopplungsprozesse und ihre Auswirkung auf divergenteregionale Entwicklungsverla ¨ufe zu illustrieren, werte ich meine eigenen Prima ¨rdaten sowie weitere Aufsa ¨tze aus, die in dieser
+Sonderausgabe von Regional Studies vero¨ffentlicht werden. Zum Abschluss des Beitrags werden verschiedene wichtige Auswirkun-
+gen auf die Theoretisierung der Optionen fu ¨r die Regionalentwicklung und strategische Regionalpolitik dargestellt.
+Regionalentwicklung Globale Produktionsnetze Strategische Kopplung Transregionale Prozesse Asien Unternehmen
+Staaten
+Y
+EUNG H. W .-C. Desarrollo regional y las dina ´micas competitivas de las redes de produccio ´n global: una perspectiva esteasia ´tica,
+Regional Studies . El debate acade ´mico y polı ´tico sobre la naturaleza y las dina ´micas del desarrollo regional ya no se centra como
+antes en el capital regional de tipo endo ´geno sino que tiene como objetivo analizar la relacio ´n compleja entre la globalizacio ´n
+y el cambio regional. En este informe pretendo contribuir a este debate a trave ´s de la experiencia del desarrollo regional en el
+este de Asia. En el artı ´culo demuestro que el desarrollo regional no puede ser entendido independientemente de las dina ´micas
+cambiantes de las redes de produccio ´n global. Si bien la literatura existente sobre el este de Asia tiende a centrarse en el estado
+como el principal motor del desarrollo econo ´mico a niveles nacionales y regionales, sostengo que el estado de desarrollo es
+una condicio ´n necesaria pero no suﬁciente para que ocurra el desarrollo regional. Ma ´s bien necesitamos estudiar la compleja con-
+exio´n estrate ´gicade estos protagonistas econo ´micos, especialmente para grandes empresas comerciales que funcionan en regiones
+especı ´ﬁcas en Asia y cuyos socios lı ´deres organizan las redes de produccio ´n en todo el mundo. A ﬁn de ilustrar estos procesos
+de conexio ´n estrate ´gica y sus repercusiones en trayectorias divergentes de desarrollo regional, me beneﬁcio de mis propios
+datos primarios y otros documentos que se publicara ´n en este nu ´mero especial de Regional Studies . Este ensayo concluye con
+algunas implicaciones principales para teorizar las opciones del desarrollo regional y de la polı ´tica regional estrate ´gica.
+Desarrollo regional Redes de produccio ´n global Conexio ´n estrate ´gica Procesos trans-regionales Asia Empresas
+comerciales Estados
+JEL classiﬁcations: L22, O18
+INTRODUCTION
+For a long time, sources of regional development have
+been a thorny conceptual and empirical issue in
+regional studies and regional economics. As recognizedby P
+IKEet al. (2006, 2007) and P IKE(2007a), the
+history of regional studies is full of incessant attempts
+to identify the right balance between internal /indigen-
+ous/endogenous factors and external /exogenous forces
+that shape the nature, forms, and trajectories of regional
+economic growth. With hindsight, the analytical pen-dulum often tends to swing in favour of forces internal
+to speciﬁc regions. This endogenous focus is not
+surprising because regions in advanced industrializedcountries used to be internally homogenous with a
+uniﬁed regional interest and blessed with historically
+speciﬁc growth institutions. The rise of the globaleconomy, however, has transformed the competitive
+relationships between regions and countries. More
+speciﬁcally, globalization has accentuated the import-ance of dynamic forces of growth beyond the territorial
+conﬁnes of individual regions. Indeed, this importance
+of extra-regional processes of growth was notedas early as H
+IRSCHMAN ’s (1958) monumental work in
+which Hirschman underscored the ﬂows of ideas,people, and resources across and between regions.
+Some two decades later, D
+ICKEN (1976) and M ASSEY
+(1979, 1984) explicitly pioneered the idea of understand-
+ing regional development in relation to extra-regional
+processes. T o D ICKEN (1976), these processes were
+signiﬁcantly linked to the extent of corporate controlexercised extra-regionally by a nascent form of
+transnational corporations – the multi-plant business
+enterprise (or now commonly understood as ‘multi-domestic’ operations). M
+ASSEY (1979, 1984), on the
+other hand, was primarily concerned with the dynamic
+relationship between inter-regional social relationsof production and successive waves of (foreign)
+investment – what Massey termed ‘spatial divisions of
+labour’. T o Massey:
+‘The economy’ of any given local area will thus be a
+complex result of the combination of its succession ofroles within the series of wider, national and international,spatial divisions of labour.
+(M
+ASSEY , 1979, p. 235)326 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+Clearly, both major contributions to regional studies
+pointed to the role of extra-regional processes in
+shaping the trajectories and dynamics of regionaldevelopment.
+This important lesson, however, seems to have been
+downplayed in the ‘new regionalism’ literature that hasdominated regional studies since the mid-1980s (S
+COTT
+and S TORPER , 2003; H OWELLS , 2005; L AGENDIJK ,
+2006; H ARRISON , 2007). Drawing upon the paradig-
+matic examples of Silicon Valley in California, the
+Third Italy, and Baden-Wu ¨rttemberg in Germany,
+proponents of this new literature have placed a greatdeal of analytical and empirical emphasis on localized
+agglomerations and institutional structures as both
+necessary and sufﬁcient conditions to account forregional growth and development. Because of this
+excessive attention to local endogenous conditions,
+the literature offers a short shrift to the processes andmechanisms connecting different regions in the global
+economy. Meanwhile, the rise of new endogenous
+growth theories in regional economics and geographi-cal economics at around the same time has further legit-
+imized an analytical focus on internal sources of regional
+growth, particularly those associated with human capital,technological change, and increasing returns to scale
+(R
+OMER , 1986, 1994; K RUGMAN , 1995; F UJITA et al.,
+1999; F UJITA and K RUGMAN , 2004; C OMBES et al. ,
+2008). Though this latter literature has received a fair
+degree of critique in economic geography and regional
+studies for its excessive focus on the endogeneity ofregional dynamics (M
+ARTIN and S UNLEY , 1996, 1998,
+2006), it should be noted that it does not entirely
+write off the crucial role of extra-regional ﬂows andexchanges of people, goods, and knowledge.
+Grounded in the above changing intellectual con-
+texts, this position paper attempts to revisit the role oftrans-regional processes – a combination of intra-, inter-,
+and extra-regional mechanisms – in shaping regional
+development trajectories and it introduces the sub-sequent nine papers in this special issue of Regional
+Studies . This task is an important one as the debate on
+the nature and dynamics of regional development inboth academic and policy circles has now moved on
+from the earlier focus on endogenous regional assets
+such as localized networks of association and trust to
+analysing the complex relationship between economic
+globalization and regional change (C
+OEet al. , 2004,
+2008a; Y EUNG , 2005a; H ARRISON , 2007; P IKE,
+2007b). In doing so, the author hopes to make three
+interrelated contributions. Firstly, to avoid anotherunhelpful swing in the analytical approach to regional
+development, this paper seeks to focus on the key coup-
+ling mechanisms connecting both actors and forcesinternal to regions and extra-regional ﬂows spearheaded
+by global production networks. Accommodating both
+sets of factors for territorial development, the conceptofstrategic coupling as a key trans-regional process is
+developed further to account for regional developmentin an era of globalization. This approach can potentially
+bridge what M
+ORGAN (2007, p. 1248) described as the
+‘debilitating binary division between territorial andrelational geography’ in regional studies (see also
+M
+ACLEOD and J ONES , 2007).
+Secondly, while this paper is conceptually grounded
+in the recently articulated global production networks
+(GPN) perspective (H ENDERSON et al. , 2002; C OE
+et al., 2004, 2008b; H ESSand Y EUNG , 2006), a focus
+is made on the perspective’s more ﬂexible analytical
+structure that allows for a wider range of regional devel-
+opment responses and outcomes in a global era. Devel-oping the differentiated agency of actors and networks
+across different spatial scales, this perspective enables
+one to understand the diverse regional developmentpossibilities along the dependency–autonomy conti-
+nuum (see also H
+ANSEN , 2008; J ONES , 2008; and the
+papers by Kelly, Lee, Yang, and Yang et al. in this
+issue). It goes beyond the spatial tendency in the new
+regionalism literature to focus exclusively on self-
+contained regional assets, particularly in the WesternEuropean context.
+Thirdly, this paper extends further the relational view
+of regional development (A
+LLEN et al. , 1997; A LLEN
+and C OCHRANE , 2007; M ASSEY , 2007) and connects
+with the wider movement towards a ‘relational turn’
+in economic geography (A MIN, 1998, 2004; B ATHELT
+and G LU¨CKLER , 2003; B OGGS and R ANTISI , 2003;
+YEUNG , 2005a, 2008a, 2009a; B ATHELT , 2006;
+ETTLINGER , 2008; J ESSOP et al. , 2008; cf. S UNLEY ,
+2008). In this paper, regions are deﬁned as relatively
+enduring sub-national territorial ensembles with their
+own administrative jurisdiction embedded withincertain shared historical and socio-cultural formations.
+Regions are not closed or bounded systems though,
+as these ensembles are increasingly permeable in aglobalizing era and subject to different forms of
+political struggles ‘to deﬁne them in essentialist terms’
+(H
+UDSON , 2006, p. 160). Actors in /out regions actively
+construct all kinds of discursive and material relations
+stretched well beyond their territorial boundaries. In
+this sense, the present authors concurs with H UDSON ’s
+(2005, p. 620) relational view that regions should be
+‘seen as constituted from spatialized social relations,
+stretched out over space and materialized in various
+forms, and representational narratives about them’ (see
+also A LLEN and C OCHRANE , 2007; and the papers by
+Aoyama, Lee, and Lepawsky in this issue).
+T o engage with the above debate on trans-regional
+processes in an era of globalization, this paper is empiri-cally grounded in the experience of regional develop-
+ment in East Asia. The East Asian experience shows
+that regional development cannot be understoodindependently of the changing dynamics of GPNs.
+1
+While the existing literature on East Asia tends tofocus on the developmental state as the key driver ofeconomic development (A
+MSDEN , 1989, 2001;
+WADE, 1990; W EISS, 1998, 2003; W OO-CUMINGS ,Regional Development and the Competitive Dynamics of Global Production Networks 327
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+1999; cf. S TIGLITZ and Y USUF , 2001; B OYD and N GO,
+2005; D ONER et al., 2005), it is argued here that this
+developmental role of the national state is only a necess-ary but not sufﬁcient condition for regional develop-
+ment to take place. There is a need to study the
+complex strategic coupling of those economic actors,particularly business ﬁrms, operating in speciﬁc
+regions with their lead ﬁrm counterparts orchestrating
+trans-regional production networks on a global basis.The analytical emphasis on both ﬁrms and institutions
+and their embedded GPNs is intentional in order to
+avoid the excessive emphasis on endogenous regionalassets in the new regionalism literature and state inter-
+ventions in the East Asian development literature.
+2In
+many ways, the ﬁrm remains as an important andactive strategic player in shaping the regional landscape
+of global capitalism (see also M
+ARKUSEN , 1994, 2004;
+TAYLOR and A SHEIM , 2001; D ICKEN and M ALMBERG ,
+2001; Y EUNG , 2005b; and E TTLINGER , 2008). As
+MCKENDRICK et al. (2000, p. 254) noted, ‘ﬁrms play
+the lead role in the construction of clusters and regionalproduction systems – in effect, constituting economic
+space’. This proposed revision of the Asian developmen-
+tal state literature is necessary and timely (see also D
+ONER
+et al., 2005; and Y EUNG , 2009b). The literature has con-
+sistently downplayed the active role of leading Asian
+ﬁrms in regional development. Reﬂecting on the‘market versus state debate’ in understanding regional
+development in Asia, H
+OBDAY (2001) observed that:
+because of the dominance of this debate, there are few
+studies which derive ‘bottom-up’ policy conclusionsfrom ﬁrm-level studies. The activities and strategies ofﬁrms in engaging with international production networkscannot be properly accounted for within theories of thedevelopmental state, as latecomer ﬁrm behaviour tends
+to be treated (usually implicitly) as an automatic response
+to policy and economic circumstances, rather than as ashaping inﬂuence in its own right.
+(p. 25)
+From the early 1990s onwards, particularly since the
+1997 /1998 Asian economic crisis, the role of the devel-
+opmental state has been much less ‘developmental’ and
+much more ‘regulatory’ (see also S TIGLITZ and Y USUF ,
+2001; and G LASSMAN , 2007). This is evident in the
+changing role of the state in three Asian newly industri-
+alized economies of South Korea (restructuring and reg-
+ulating the chaebols ), Taiwan (regulating cross-Straits
+activities of Taiwanese ﬁrms), and Singapore (market
+liberalization, policy deregulation, and the privatization
+of government-linked companies).3
+In making the above arguments, three important
+caveats need to be stated initially. Firstly , the point
+about the strategic coupling of local actors (ﬁrms andinstitutions) with lead ﬁrms in GPNs should not be con-
+strued as a functionalist argument (see also H
+ENDERSON
+et al., 2002; and C OEet al., 2004, n. 1). This coupling
+process is not automatic and always successful; it needsto be unpacked and analysed because it changes over
+time and in different geographical contexts.4Moreover,
+access to the enabling mechanisms and technologies forthis coupling may be highly uneven geographically. For
+example, while airfreight services account for around
+40% of world trade by value (B
+OWEN and L EINBACH ,
+2006, p. 148; see also L EINBACH and B OWEN , 2004),
+access to supply chain management and third-party
+logistics services vary dramatically between ﬁrms indifferent regions (H
+EAVER , 2004).
+Secondly , as well illustrated in the papers by Aoyama
+and Lee in this issue, the East Asian experience in regionaldevelopment should be understood in its historical and
+geographical contexts, primarily because of the simul-
+taneous presence of three key ingredients – local ﬁrms(public or private), developmental state institutions
+(often at the national level), and lead ﬁrms and GPNs
+(Y
+USUF et al., 2004). In comparison, these three ingredi-
+ents occurred during different historical moments of
+regional development in North America and W estern
+Europe. When American investment ventured intoW estern Europe, particularly the UK, after the Second
+W orld W ar, developmental state institutions were
+mostly absent and these American ﬁrms were establishedas multi-domestic clones rather than complex GPNs
+(D
+ICKEN , 1976; W ATTS , 1981). Since the mid-1980s,
+regional devolution in North America and Europeancountries has intensiﬁed, though the developmental out-
+comes are rather mixed (R
+ODRI ´GUEZ -POSEand G ILL,
+2004; H UDSON , 2006; M ACLEOD and J ONES , 2007).
+In East Asia, regional development trajectories are
+much more variegated, ranging from Japan’s active
+pursuit of regional equality policies during post-wardevelopment to the strong focus in South Korea and
+Taiwan on building up national institutional capacity
+between the 1970s and the 1990s and the more recentexperimentation of China with regional devolution
+since the late 1980s (for example, Z
+HANG and W U,
+2006). These variegated regional outcomes in EastAsia call for a more robust analytical framework
+capable of accounting for different regional trajectories.
+Thirdly, this paper is not concerned with the rescal-
+ing of governance debate in geography and regional
+studies that views regional devolution as an outcome
+of rescaling of political governance in nation-states
+and macro-regions (G
+OODWIN and P AINTER , 1996;
+SWYNGEDOUW , 2000; B RENNER et al. , 2003; J ONES
+et al. , 2005; M ACLEOD and J ONES , 2007; cf. M ANS-
+FIELD , 2005; see also the papers by Lee, Lepawsky,
+and Lin in this issue). In this debate, the analyticalfocus is particularly concerned with the politics and
+policy instruments of such rescaling processes, less so
+with how regions become more articulated into theglobal economy through GPNs (cf. C
+OEet al., 2004).
+The present paper is organized into four sections.
+The next section theorizes the strategic coupling pro-cesses between actors in regions and lead ﬁrms in
+GPNs. This conceptual development draws upon328 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+recent theoretical advances in studies of GPNs in econ-
+omic geography and regional studies (D ICKEN et al. ,
+2001; H ENDERSON et al. , 2002; C OEet al. , 2004,
+2008a; Y EUNG , 2005a, 2008a; H ESS and Y EUNG ,
+2006). Having theorized and identiﬁed these strategic
+coupling processes, this paper proceeds to illustratehow these processes shed light on the different trajec-
+tories of regional development in East Asia in the
+third section. Based on some primary data from theauthor’s recent study of ﬁrms in leading Asian newly
+industrialized economies,
+5this analysis shows that the
+strategic coupling of these Asian ﬁrms with leadﬁrms in GPNs matters signiﬁcantly in accounting for
+diverse trajectories of regional development. The ﬁnal
+section offers some concluding remarks and majorimplications for theory and policy.
+STRATEGIC COUPLING: REGIONAL
+DEVELOPMENT IN THE CONTEXT
+OF GLOBALIZATION
+The above contextualization of the different literature
+strands in regional studies shows that the focus on theimportance of extra-regional processes in shaping
+regional development outcome is in itself nothing par-
+ticularly new (cf. D
+ICKEN , 1976; M ASSEY , 1979; and,
+more recently , P HELPS and F ULLER , 2000). The
+novelty of the GPN approach, however, rests with its
+emphasis on the strategic coupling process betweenlocal actors in particular regions and global lead ﬁrms
+in GPNs. This actor-speciﬁc approach differs signiﬁ-
+cantly from the earlier work that focused on the externaldependency of regions and, therefore, the passivity
+of local actors in responding to external control. In the
+new regionalism literature, on the other hand, thereis excessive gloriﬁcation of local networks of small and
+medium-sized enterprises and associational economies
+(for a critical evaluation, see L
+OVERING , 1999;
+MACLEOD, 2001; and C OEet al. , 2004). A more
+recent incarnation of this literature tends to focus on
+learning regions and regional innovation systems(B
+RACZYK et al. , 1997; M ORGAN , 1997, 2004;
+FORNAHL and B RENNER , 2003; C OOKE et al., 2007;
+RUTTEN and B OEKEMA , 2007; C OOKE and L AZZER-
+ETTI, 2008; cf. C RISTOPHERSON and C LARK , 2007;
+AMIN and R OBERTS , 2008; P HELPS , 2008). In either
+strands of the literature, inadequate attention has beenpaid to the interconnections between these external
+global ﬁrms and their local counterparts – often mista-
+ken as small and medium-sized enterprises, eventhough some of them have grown to become major
+global players in their own right.
+This section ﬁrst explains how regional development
+should be seen as a form of trans-regional dynamic.
+It then brings in global lead ﬁrms and shows how
+regions become incorporated into their GPNsthrough the process of strategic coupling. Some keymechanisms facilitating this coupling process are
+described and explained. Taken together, this GPN
+approach to regional development goes beyond thenew regionalism literature through a consideration of
+economic–geographical processes occurring at mul-
+tiple scales – from local and regional to national andglobal (see also H
+UDSON , 1999, 2005; M ACLEOD,
+2001; H ADJIMICHALIS , 2006; and the paper by Lee in
+this issue). This explicit attention to multi-scalarprocesses of regional development represents a helpful
+corrective to the recent rise of the new regionalism
+rhetoric in which intra-regional processes are cham-pioned as the universal panacea for regional develop-
+ment. As noted by H
+UDSON (2005, p. 620) in the
+European context, for example, ‘there is a wealth of evi-dence of people seeking to construct regions as if they
+were closed, bounded and coherent, with shared and
+uniﬁed regional interests’. In the US case, J
+ONAS and
+PINCETL (2006, p. 487) have described American region-
+alist rhetoric and concerns as ‘prosaic’ and ‘atheoretical’
+that have historically been seeking to uncover theoptimal size and function of the (regional) state.
+Several recent studies of Italy’s Veneto region
+(B
+IALASIEWICZ , 2006), North East England (H UDSON ,
+2005), California in the United States ( J ONAS and
+PINCETL , 2006), and Eastern China (W EIet al., 2007)
+have clearly pointed to how regional devolution andthe valorization of local networks of trust are manifested
+in regionalist politics and localist rhetoric. This excessive
+championing of intra-regional issues can be dangerousand inward-looking. As B
+IALASIEWICZ (2006) argued:
+the fortunes [of Veneto] could not have been made
+without the global market and its hypermodern thirstfor innovation, a thirst that Veneto entrepreneurs havebeen masterful in exploiting.
+(p. 46)
+Bialasiewicz validly questions regionalist assertions that:
+all there was to the Veneto model was ‘hard work and crea-tivity’: the region was a ‘self-organising system’, its successa result of ‘spontaneous organisation’.
+In a similar vain, H ADJIMICHALIS (2006, p. 85) reﬂects
+critically on the Third Italy discourse and points to the
+discourse’s ‘failure to take into account the widernational, European and global system of capitalist
+price relations within which these small ﬁrms
+operate’. Hadjimichalis is particularly troubled by theexplanation of Third Italy’s success on the basis of:
+‘internal’ factors only, by their ‘embedded tacit knowl-
+edge’, while the rest of Italy and the world are reducedto simple consumers of their fashion products’.
+Hadjimichalis further relates the success of Third Italy
+in the textile and clothing industry to favourable state
+policies in lowering exchange rates and tax liabilities
+of small ﬁrms, macro-economic protectionist regulationsand labour legislations, and the globalization of leadRegional Development and the Competitive Dynamics of Global Production Networks 329
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+Italian ﬁrms through vertical integration of their value-
+chain activities (see also D UNFORD , 2003, 2006).
+Instead, Hadjimichalis calls for:
+the need to extend the analytical focus from a bounded
+territorial system of production to an unbounded, scalarspatial system in which both local and internationalrelations are taken into account.
+(H
+ADJIMICHALIS , 2006, pp. 102–103)
+(See also H UDSON , 2005, 2006, 2007; A LLEN and
+COCHRANE , 2007; M ASSEY , 2007; and J ONES , 2008.)
+This recent call for a shift of analytical attention from
+focusing on successful intra-regional ingredients a`lathe
+new regionalism and regional innovation literature tothe complex interrelationships between local /regional
+actors and global processes does not represent a straight-
+forward return to the kind of work associated withexternal control (D
+ICKEN , 1976) and social relations
+of production (M ASSEY , 1979, 1984). Instead, it builds
+on this earlier strand of literature and focuses on a rela-tional understanding of the evolution of local and
+regional actors and their dynamic articulation in
+GPNs – what is now broadly recognized as a ‘relationalturn’ in regional studies and economic geography. This
+relational approach to ‘globalizing’ regional develop-
+ment typically starts its analysis of a region’s develop-ment trajectory in relation to complex dynamics in
+respective GPNs. It also encourages understandings
+that embed the economic action of these actors intheir institutional contexts. While the next sub-
+section examines empirically how local actors in
+selected East Asian regions have risen and played animportant role in GPNs, the remaining sub-sections
+tackle two major theoretical issues: (1) why do global
+lead ﬁrms in GPNs become interested in whatS
+TORPER (1997, p. 26) has termed the ‘holy trinity’
+of regional economies – technology, organizations,
+and territories?; and (2) how do key actors in speciﬁcregions become strategically coupled with the impera-
+tives of these lead ﬁrms in GPNs?
+Lead ﬁrms in global production networks
+By global lead ﬁrms is meant powerful ﬁrms that
+orchestrate and coordinate complex GPNs in theirrespective industries that span different territories and
+regions. These lead ﬁrms are often large transnational
+corporations that in turn are movers and shapers ofthe global economy (H
+ARRISON , 1997; P ECK and
+YEUNG , 2003; G EREFFI , 2005; D ICKEN , 2007). They
+are market leaders in terms of their brand names, tech-nology, products /services, and marketing capabilities.
+Good examples are Hewlett-Packard and Motorola in
+information and communication technology (ICT)industries, Sony and Philips in consumer electronics,
+T oyota and General Motors in automobiles, The Gap
+and Nike in clothing and footwear, Citicorp andHSBC in banking, Hilton and Marriott in hospitality,British Airways and Singapore Airlines in passenger air
+travel, Wal-Mart and Carrefour in retailing, and UPS
+and Exel /DHL in logistics. In the manufacturing
+sector, global lead ﬁrms often specialize in the upstream
+activities of research and development and the down-
+stream activities of branding, marketing, and post-saleservices. While they continue to engage in high-value
+manufacturing activities, these global lead ﬁrms are
+increasingly compelled to outsource a large portion oftheir product categories to strategic partners and inde-
+pendent manufacturers (for example, information tech-
+nology, clothing and garment, toys and footwear, andmachinery industries). There is thus a movement of
+global lead ﬁrms towards market control via product
+and market deﬁnitions, rather than leadership in manu-facturing processes and technologies.
+While most of these global lead ﬁrms are original
+equipment manufacturers (OEMs), their manufactur-ing partners are often described in different ways –
+OEM subcontractors, original design manufacturers
+(ODMs), electronic manufacturing service (EMS)providers, and contract manufacturers (CMs). OEM
+subcontractor relationships tend to be most prevalent
+in labour-intensive industries, whereby the OEMcustomers supply design and product speciﬁcations to
+their subcontractors, which in turn take care of the
+manufacturing process. In EMS, CM, and ODMarrangements, global lead ﬁrms rely on the design,
+manufacturing, and logistic services of their strategic
+partners. As noted by S
+TURGEON and L ESTER (2004):
+T oday, suppliers must provide a capability for independent
+process development and an ability to perform a wide rangeof value adding functions associated with the manufactur-ing process, including help with product and componentdesign, component sourcing, inventory management,testing, packaging, and outbound logistics.
+(p. 43)
+Lead ﬁrms are also demanding that suppliers have the
+ability to support the lead ﬁrm’s operations and
+market-serving activities around the world.
+These EMS, CM, and ODM partners may also engage
+separate subcontractors for the manufacture of different
+parts and components of products that they assemble
+for global lead ﬁrms. The ﬁnished products, however,continue to bear the trademarks and brand names of
+global lead ﬁrms. This lack of product /market control
+explains why EMS, CM, and ODM providers cannotbe seen as lead ﬁrms in their own right, even though
+many of them are very large transnational corporations
+in their own right (see the next section; and also thepaper by Y ang et al. in this issue). At the very most,
+they are strategic partners of global lead ﬁrms that are
+brand name companies with or without OEM capability.
+In the service sector, global lead ﬁrms are particularly
+dominant in industries that are global in scope and oper-
+ations (for example, transport, ﬁnance, producer ser-vices, retailing, logistics, and hospitality). In these330 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+service industries, there is a great deal of global inte-
+gration coordinated by these service lead ﬁrms. They,
+therefore, generate substantial demand for globally inte-grated services from their suppliers and providers, for
+example, logistics, maintenance, materials, and so on.
+This demand for global integration in both operationsand suppliers is explained by the necessity of ensuring
+quality consistency on a global scale. This in turn pro-
+vides opportunities for globally integrated service sup-pliers that can ‘follow’ their customers. On the other
+hand, local responsiveness may be called for in many
+of these service industries whereby global lead ﬁrmshave to tailor their services to speciﬁc geographical
+markets. This local orientation allows for substantial
+sourcing on the basis of local and regional markets.
+As their markets and competitors are becoming
+increasingly global, these lead ﬁrms in manufacturing
+and service GPNs are driven by three competitivedynamics that can have profound and, yet, differentiated
+consequences for regional development: cost, ﬂexibility,
+and speed (for empirical evidence, see the next section).The perennial drive towards lowering cost is now an
+established idiom in neoclassical economic and
+Marxian analysis of industrial competition. T o H
+AR VEY
+(1982), M ASSEY (1984), and S MITH (1984), this com-
+petitive pressure results in capital’s ruthless adoption of
+aspatial ﬁx that sees divestment and investment in
+different regions in relation to the ebbs and ﬂows of
+capital.6Regions suffering from high cost reluctantly
+witness the unfolding of processes of deindustrialization,whereas lower cost regions gain new investment through
+the emergence of a new international division of labour
+(F
+RO¨BELet al., 1980). This process of spatial ﬁx is best
+observed in the international relocation of much of
+European and American manufacturing activity to
+East Asia during the past four decades (for example,H
+ENDERSON , 1989; M CKENDRICK et al. , 2000;
+ERNST , 2005; F EENSTRA and H AMILTON , 2006; and
+SCOTT , 2006).
+While this spatial ﬁx can alleviate, at least tempor-
+arily, the cost problem of global lead ﬁrms, it is clearly
+not a long-term solution to their competitive plight.As the saying goes, there will always be someone
+who can do it cheaper. As shown by perceptive scholars
+of business competition (S
+CHOENBERGER , 1997;
+KENNY and F LORIDA , 2004; M ATHEWS , 2005,
+2006a), two other ﬁrm-speciﬁc dynamics – ﬂexibilityand speed – may play a much more important role
+than previously understood in the regional studies lit-
+erature. In order to compete more effectively intoday’s global economy, lead ﬁrms begin to opt for
+what can be broadly termed an organizational ﬁx . Lead
+ﬁrms now realize that competitive advantage can beobtained through a more ﬂexible and efﬁcient form of
+organizing production on a global scale. This idea of
+an organizational ﬁx must be distinguished from theearlier notion of a spatial ﬁx. Reorganization of
+production networks does not necessarily entail spatialrelocation of production, particularly one’s own pro-
+duction facility. Instead, an organizational ﬁx results pri-
+marily from a choice of different business strategies; it isabout strategizing the organizational principle that
+affords the most competitive advantage. The strategy
+of outsourcing, for example, represents an organiz-ational ﬁx through which global lead ﬁrms are able to
+increase their production ﬂexibility without incurring
+substantial liability in owning manufacturing orservice facilities. The rise of OEM, ODM, CM, and
+EMS arrangements can be interpreted as important
+organizational ﬁxes for global lead ﬁrms. Throughthese different organizational arrangements, production
+networks become more globally oriented and inte-
+grated, leading to the emergence of sophisticatedGPNs orchestrated by global lead ﬁrms. Organizational
+ﬁxes, therefore, produce highly differentiated geogra-
+phies of production and service provisions that in turnimpact on different regional fortunes.
+The search for low-cost production locations and the
+creation of organizational economies do not capture fullythe problem of competitive dynamics in an era of globa-
+lization. As noted by H
+AR VEY (1989), the dynamics of
+capitalist accumulation processes have compelled ﬁrmsto search for new competitive advantages based on
+improvements in transport and communication technol-
+ogies, a phenomenon Harvey describes as time–spacecompression. T o S
+CHOENBERGER (1997, 2000) and
+SHEPPARD (2002), this competitive pressure has sub-
+stantially increased the demand for time-to-market as acritical tool of winning market shares. Apart from
+organizational ﬂexibility, the adoption of technological
+solutions can signiﬁcantly improve a lead ﬁrm’s time-to-market capability. This approach can be termed a
+technological ﬁx that entails the critical role of technology
+in the competitive dynamics of lead ﬁrms in GPNs. Inthe electronics industry, for example, information tech-
+nology solutions and global electronic platforms have
+undoubtedly contributed to the successful organizationof production networks on a global scale by lead ﬁrms.
+Such a technological ﬁx can be seen in the widespread
+deployment of such information technology solutions aselectronic data interchange (EDI) with customers and
+suppliers in both manufacturing and service sectors,
+internet-based integration of manufacturing processes
+and enterprise resource planning (ERP) systems, and
+global tracking systems with third-party logistics (3PL)providers (L
+U¨THJE , 2002; M ACHER et al., 2002).
+This technological ﬁx results in the vertical dis-
+integration and the subsequent vertical specialization of
+production in different manufacturing and service
+industries. Since the early 1990s, global lead ﬁrms in
+different GPNs and sectors have moved towards abusiness model of increasing specialization in value
+chain activities (Fig. 1). This trend has been accelerated
+greatly since the late 1990s, particularly in the elec-tronics, automobile, clothing, retailing, and logistics
+sectors (G
+EREFFI et al., 2005; D ICKEN , 2007; Y EUNG ,Regional Development and the Competitive Dynamics of Global Production Networks 331
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+2007a). What this value chain specialization entails is a
+more strategically focused role played by global lead
+ﬁrms in the upstream (research and development) and
+downstream (marketing, distribution, and post-sale ser-vices) segments of the value chain, leaving much of the
+manufacturing portion of the value chain to its inter-
+national strategic partners and dedicated supply chainmanagers. This vertical specialization thus refers to the
+multiple specializations of a lead ﬁrm in different
+stages of the same value chain. It is vertical becauseboth upstream and downstream specializations can be
+possible within the same lead ﬁrm. It is also different
+from vertical disintegration, a process not necessarilyassociated with multiple specializations. The impli-
+cation of vertical specialization for regional develop-
+ment is highly contingent on the strategies of leadﬁrms and their changing organization of GPNs.
+L
+U¨THJE (2002) thus argues that:
+there may emerge different trajectories of technological learning
+depending on the position of particular districts or regionswithin the international division of labor in the pro-
+duction networks of the respective industries.
+(p. 228)
+Taken together, the impact of the above three ﬁxes on
+regional development is critically dependent on the
+ways in which local and regional ﬁrms in theseregions are articulated into GPNs – a process termed
+‘strategic coupling’ in this paper.
+7
+Strategic coupling in global production networks
+Now that the nature and competitive dynamics of lead
+ﬁrms in coordinating GPNs have been clariﬁed, thesection begins to situate regions in these GPNsthrough a relational perspective (Y
+EUNG , 2005a,
+2008a, 2009a). In this perspective, both regions and
+GPNs are relational constructions and social formations
+that are constituted through ongoing actor-speciﬁcpractices and processes; they are not some kind of auto-
+nomous actors capable of effecting spatial change.
+Instead, the need is to focus on business ﬁrms –b o t h
+global lead ﬁrms and their strategic partners – and insti-
+tutions in the political, economic, and social arenas as key
+actors that bring together regions and GPNs throughtheir mutually constitutive relational processes. This is
+where the concept strategic coupling becomes important.
+8
+Strategic coupling is deﬁned as a mutually dependent
+and constitutive process involving shared interests and
+cooperation between two or more groups of actors
+who otherwise might not act in tandem for a commonstrategic objective. In the context of regional develop-
+ment, strategic coupling refers to the dynamic processes
+through which actors in regions coordinate, mediate,and arbitrage strategic interests between local actors
+and their counterparts in the global economy. These
+trans-regional processes involve both material ﬂows intransactional terms and non-material ﬂows (for
+example, information, intelligence, and practices).
+More speciﬁcally, this strategic coupling process
+exhibits several distinctive attributes. Firstly, it is stra-
+tegic because the process does not happen without
+active intervention and intentional action on the partof the participants. As argued by M
+ATHEWS (2006a),
+strategizing is most useful /proﬁtable in a market con-
+dition of disequilibrium because such a conditionallows for arbitraging of different opportunities. This
+view of strategizing concurs with the Schumpeterian
+concept of entrepreneurship that postulates the functionof the entrepreneur as someone serving as a disruptive
+Fig.1. Changing industrial organization and global production networks and their impact on knowledge diffusion
+Source: ERNST (2005), ﬁg. 1, p. 11332 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+and dynamic force in an economy that has reached a
+static equilibrium. Through carrying out ‘new combi-
+nations’ (S CHUMPETER , 1934, p. 66), the entrepreneur
+disturbs the existing static equilibrium of an economy
+and forces it into disequilibrium. This process, widely
+known as creative destruction, is central to the Schum-peterian entrepreneur who brings about economic
+change and regional development.
+9Secondly, it is
+time–space contingent as the coupling process is notpermanent and is subject to change. Indeed, a typical
+strategic coupling resembles a form of temporary
+coalition of different actors and institutions. Thirdly,the convergence process transcends territorial bound-
+aries and geographical scales, as actors from different
+spatial sites (states, regions, and localities) convergeand their practices radiate out to diverse geographical
+scales – some global and some highly local (see also
+Y
+EUNG , 2009a). Overall, the concept explains how
+key actors in speciﬁc regions become articulated into
+the imperatives of lead ﬁrms in GPNs; it is about
+dynamic relational processes and mechanisms.
+What then are these relational processes and mechan-
+isms that facilitate the strategic coupling of local and
+regional actors with lead ﬁrms in GPNs? In the EastAsian context, three such processes will be elaborated:
+(1) the emergence of transnational communities; (2)
+changes in industrial organization; and (3) initiativesby states and institutions. These processes are chosen
+for their theoretical relevance and policy signiﬁcance;
+they are also well illustrated in the following papers inthis issue. The critical role of communities and social
+capital in regional development is now well recognized
+in regional studies (P
+HELPS and W OOD, 2006;
+RODRI ´GUEZ -POSE and S TORPER , 2006). One such
+community refers to the transnational elite professionals
+and business persons in East Asia who shuttle constantlyaround the globe – though often along the East
+Asia–V ancouver /San Francisco corridor (O
+LDS, 2001;
+COEet al., 2003; S AXENIAN and S ABEL , 2008; see also
+the paper by Y ang et al. in this issue). T o S AXENIAN
+(2002, 2006), this transnational elite community has
+rewritten the concept of international knowledge for-mation from one of brain drain to a two-way process
+of brain circulation. Through their constant movements
+between different regions of the world, these Asian or
+Asian-origin technologists and entrepreneurs have
+formed a transnational community of informal brain net-works characterized by certain common social identity
+and, sometimes, nationalistic sentiments. Y et, their trans-
+national business practices have contributed to the formalcoupling of ﬁrms and institutions in Asian regions with
+lead ﬁrms in GPNs through a variety of organizational
+arrangements.
+10SAXENIAN (2002, pp. 183 and 186;
+see also S AXENIAN , 2006) thus argues that:
+these communities have the potential to play an increasingly
+important role in the evolution of global production net-works. Transnational entrepreneurs and their communitiesprovide a signiﬁcant mechanism for the international diffu-
+sion of knowledge and the creation and upgrading of localcapabilities. ...[They] provide a direct mechanism for
+transferring the skill and tacit knowledge that can dramati-cally accelerate industrial upgrading in their developingcountries. In addition they frequently coordinate relation-ships between the network ﬂagships and suppliers, particu-larly when they are based in regions with differinglanguages and business cultures. This role ranges fromhelping to identify appropriate original equipment manu-facturer (OEM) suppliers to facilitating the ongoing (andoften face-to-face) inter-ﬁrm communications requiredby the rapid pace of change in the industry.
+T o elaborate further Saxenian’s important obser-
+vation, one needs to unpack better another criticalcoupling mechanism – changing industrial organiz-
+ation. As explained above, lead ﬁrms in GPNs are com-
+pelled to adopt organizational and technologicalinnovations in order to ﬁx their competitive problems.
+These ﬁxes in turn create a new form of industrial
+organization that provides a window of opportunityfor local and regional actors in Asia to plug themselves
+into GPNs. S
+AXENIAN (2002, pp. 184–185) observes
+that ‘The deepening social division of labor in theindustry creates opportunities for innovation in for-
+merly peripheral regions – opportunities that did not
+exist in an era of highly integrated producers’. In par-ticular, the rise of vertical specialization by brand
+name ﬁrms and /or OEMs in many industries is linked
+to the vertical disintegration of value-chain activitywithin individual lead ﬁrms and the subsequent vertical
+reintegration of this activity in geographically dispersed
+locations. In the global electronics and information andcommunication technology (ICT) industry (Fig. 1), this
+process of vertical disintegration /reintegration provides
+a strategic coupling platform for local and regional ﬁrmsin Asia to connect with lead ﬁrms in GPNs. The papers
+by Y ang and Yang et al. in this issue have detailed how
+changing industrial organization shapes regional devel-opment in China and Taiwan.
+This process of changing industrial organization is
+also greatly facilitated by technological changes. L
+EE
+and L IM(2001) and L EEet al. (2005b), for example,
+showed how rapidly emerging new technological para-
+digms in digital television and mobile phones havecreated windows of opportunity for latecomer Asian
+ﬁrms to engage in leapfrogging. Primarily because of
+the capability, ﬂexibility, response time, and cost com-petitiveness of domestic ﬁrms in particular East Asian
+industrial districts and high-growth regions, this stra-
+tegic coupling process operates to the beneﬁts of bothlead ﬁrms in GPNs and their Asian partners such as
+EMS and ODM providers and dedicated service provi-
+ders (for more detailed examples, see the next section;see also Y
+EUNG , 2007a). L U¨THJE (2002) notes that:
+Through their continuing acquisitions CM [EMS] com-
+panies act as transnational network builders, assemblingRegional Development and the Competitive Dynamics of Global Production Networks 333
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+a variety of plants with different manufacturing practices
+in speciﬁc national and global markets. Contract manu-facturing, therefore, can be characterized as a mode ofintegrating, coordinating, and regulating diverging econ-omic, social, and cultural conditions in global productionsystems.
+(p. 228)
+These changing organizational–technological capabili-
+ties of East Asian actors thus facilitate their coupling
+with the strategic imperatives of lead ﬁrms in GPNs.
+Finally, the availability of the above transnational
+communities and organizational–technological capa-
+bilities of local actors can also be partially explained by
+the relentless efforts of state institutions in paving theway for this strategic coupling to take place. The devel-
+opmental state literature has already explained exactly
+what the East Asian states did in terms of industrial pol-icies and ﬁscal incentives that helped groom the ﬁrst-
+generation Asian ﬁrms up to the late 1980s. There is
+no doubt that the rise of Taiwan, Singapore, andSouth Korea as the world’s major exporters of infor-
+mation technology-related producers is an intended
+outcome of strategic industrial policy actively pursuedby the respective governments (A
+MSDEN , 1989, 2001;
+MATHEWS and C HO, 1998; A MSDEN and C HU, 2003;
+FEENSTRA and H AMILTON , 2006; see also the papers
+by Lee, Lepawsky, Wei et al. , and Y ang et al. in this
+issue). Since the 1970s, the three governments have
+been actively promoting electronics as the key growthsector, though they have taken different pathways to
+achieve such an aggressive objective. Whereas Taiwan
+and South Korea rely mostly on domestic ﬁrms in col-laboration with foreign high-technology companies
+(the United States and, lately, Japan), Singapore is
+much more open to global lead ﬁrms in GPNs. Sincethe mid-1970s, the Taiwanese government has been
+aggressively investing in infrastructures (for example,
+Hsinchu Science-based Industry Park; H
+SU, 2004; see
+also the paper by Yang et al. in this issue), research insti-
+tutes (for example, Industrial T echnology Research
+Institute and Electronics Research Service Organiz-ation), and, sometimes, high-technology capital-inten-
+sive start-ups (for example, TSMC and UMC). It has
+also provided general incentives to attract returningTaiwanese engineers who have developed successful
+careers in Silicon V alley (H
+SUand S AXENIAN , 2000;
+SAXENIAN , 2006), a strategic move adopted in more
+recent years by the central government in Mainland
+China (Z HOU and T ONG, 2003; Z HANG , 2008;
+ZHOU, 2008).
+Similarly, the South Korean government has invested
+heavily in promoting selected business conglomerates
+known as chaebols (CHANG , 2003). Some of the
+leading chaebols include Hyundai, Samsung, and LG.
+By establishing the Korea Institute of Science and
+T echnology (KIST) in 1966 and the Korea Institute ofElectronics T echnology (KIET) in 1976, the SouthKorean government has also played a critical role in
+technological development (S
+HIN, 1996; C HOUNG
+et al., 2000; C YHN, 2002; see also the paper by Lee in
+this issue). Unlike Taiwan, however, the South
+Korean government was directly involved in picking
+industrial winners and subsidizing their research anddevelopment expenditure. Lacking indigenous capa-
+bility in the manufacturing industry, Singapore’s Econ-
+omic Development Board (EDB), on the other hand,has been attracting world class electronics companies
+such as Hewlett-Packard, Philips, General Electric,
+Seagate, T oshiba, and Matsushita to locate their high-value activities in Singapore (L
+OWet al., 1993; C HAN,
+2002). The rise of leading Singaporean ﬁrms is thus
+directly related to the kind of global lead ﬁrmsbrought into Singapore. The Singapore government is
+also actively promoting bilateral free trade agreements
+(FTAs) in order to maintain its locational attractivenessin the regional production networks aiming at the US
+market (Y
+EUNG , 2001).
+The role of these state institutions during the past
+ﬁfteen years has been particularly important in enhan-
+cing human resources and physical infrastructure in
+respective industrial districts and growth regions.11In
+2002, for example, the total cost of an integrated
+circuit chip engineer in Asia is only 10–20% of that
+in Silicon Valley (E RNST , 2005, table 3). This is no
+doubt a positive outcome of state involvement in devel-
+oping human resources and physical infrastructure. The
+outcome for regional development is staggering, as itstimulates both the relocation of chip design work
+from Silicon Valley and elsewhere in developed econ-
+omies to leading clusters in Asia, and the growing costcompetitiveness of leading Asian ﬁrms in chip design
+and engineering capabilities (see the empirical examples
+below). Another role of state institutions in the strategiccoupling between local ﬁrms and lead ﬁrms in GPNs
+has to do with the rapid growth of public–private
+research and development consortiums, particularly inSingapore, South Korea, and Taiwan. In the latter two
+economies, these consortiums are strategically located in
+high-growth regions and they serve as a direct conduitto couple the strategic interests of both local high-
+technology ﬁrms and global lead ﬁrms. They also rep-
+resent a form of state-sponsored collective action to
+reduce excessive competition among participating ﬁrms
+and to develop path-breaking technologies (N
+OBLE ,
+1998; see also the paper by Y ang et al. in this issue).
+T o sum up this section brieﬂy, it has examined how
+regional development should be viewed as a trans-regional dynamic process of growth and change,
+where multiple actors operate at a variety of geographi-
+cal scales. The strategic coupling processes of theseactors in different regions and locales constitute the
+central dynamic of regional development, as they
+bring together regional assets and GPN dynamics in arecursive and cumulative process of growth and devel-
+opment. The particularity of these coupling forms is334 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+shaped by the complex interaction of different ﬁxes in
+GPN dynamics and region-speciﬁc coupling mechan-
+isms. The regional outcomes of this interaction arelikely to be diverse and variable. What remains to be
+seen in the next section is how these dynamic processes
+unfold in different regional development trajectories inEast Asia.
+DIVERGENT REGIONAL DEVELOPMENT
+TRAJECTORIES IN EAST ASIA
+Regional development is a major policy issue in East
+Asia. From China’s Y angtze River Delta and PearlRiver Delta, South Korea’s Seoul Metropolitan Area,
+and Taiwan’s Taipei–Hsinchu, region to Malaysia’s
+Penang and Selangor states and Thailand’s GreaterBangkok region (Fig. 2), rapid industrialization and
+economic development are taking place at historically
+unprecedented rates on the back of high export propen-sities and, more recently, massive growth in domestic
+markets. As shown in the comparative data presented
+in Table 1, these growth regions have clearly stoodout in relation to their growth rates and contributions
+to national economies. If one applies the standard
+analytical toolkit from the new regionalism literatureand its regional innovation system variant, one will
+probably ﬁnd it insufﬁcient to explain these divergent
+regional development trajectories (cf. L
+UNDVALL
+et al., 2006). Many of these East Asian regions do not
+develop similar kinds of institutional thickness (A MIN
+and T HRIFT , 1994a), associational economies (C OOKE
+and M ORGAN , 1998), and regional innovation systems
+present in high-growth regions in Western Europe.
+There is also a relative absence of substantial relationalassets extensively discussed by S
+TORPER (1997) and
+SCOTT and S TORPER (2003); few East Asian regions
+evolve into learning regions capable of generating indi-genous technologies and innovation (A
+SHEIM , 1996;
+MORGAN , 1997; S IMMIE , 1997; B OEKEMA et al. ,
+2000; R UTTEN and B OEKEMA , 2007; cf. H UDSON ,
+1999; B UNNELL and C OE, 2001; H ASSINK , 2005).
+With the exception of perhaps the Taipei–Hsinchu
+region (see also the paper by Yang et al. in this issue)
+and the Seoul Metropolitan Area (see also the paper
+by Lee in this issue), none of the regions in East Asia
+ﬁts the classic story in the new regionalism literaturethat emanates from regional experiences in W estern
+Europe and therefore applies more readily to already
+relatively developed and autonomous regions. Somekey concepts in this literature are also vaguely deﬁned
+and fuzzy in conceptualization. H
+ASSINK (2005), for
+example, found that the conceptualization and deﬁ-nitions of learning regions are (see also M
+ARKUSEN ,
+1999; and M ARTIN , 2001):
+quite vague and diverse, since seldom concrete examples
+can be shown and since policy-makers, who have beeneager to use the concept as a label for their developmentplans, have not made efforts to deﬁne what they mean
+by learning regions.
+(p. 524)
+As noted in the Introduction, the development of East
+Asian regions takes place in diverse historical and geo-graphical contexts – some of them are relatively
+recent creations and others are spatial outcomes of
+deliberate state policies. Malaysia’s Multimedia SuperCorridor (see also the paper by Lepawsky in this
+issue) and China’s Suzhou Industrial Park (see also the
+paper by Wei et al. in this issue) are just two very
+recent examples conceived since only the early to
+mid-1990s. Even in the cases of Taiwan and South
+Korea, they have taken different pathways to couplewith trans-regional processes. For example, while the
+role of state institutions matter signiﬁcantly in these
+high-growth regions, their role and relevance differnot only from those in Western Europe, but also from
+each other (for contrasting examples, see the papers by
+Lee and Y ang et al. in this issue). The extensive use of
+strategic industrial policies to promote growth in
+speciﬁc regions in both Taiwan and South Korea, for
+example, compares very differently with the state’sefforts in building cooperative economies and trust
+mechanisms in Western Europe. Moreover, the central
+government plays a much greater role in regional trajec-tories in East Asia. Still, the role of the state in courting
+transnational communities of professionals and elites
+differs between Taiwan and South Korea. Taiwan hasa much greater success in seeking its ethnic Chinese dia-
+spora to build bridges for trans-regional collaboration
+between local ﬁrms and lead ﬁrms in GPNs. Apartfrom these cases, most other East Asian high-growth
+regions are not really ‘learning’ regions imbued with
+strong indigenous knowledge and technological capa-bilities.
+12Instead, most of them remain quite dependent
+on lead ﬁrms in GPNs and cost-based competition.
+T o account more realistically for these divergent
+regional development trajectories in East Asia, one
+needs to look beyond growth dynamism generated
+endogenously from these regions and bear in mindthe relational openness of regional formations. In this
+sense, the earlier discussion of GPNs and strategic coup-
+ling between regional and extra-regional actorsbecomes relevant and useful. While the author is not
+concerned with the nitty-gritty of regional policies
+per se or the social and environment impact of some-times imbalanced regional growth,
+13the intention is
+to illustrate how regional development occurs in East
+Asia in relation to the strategic coupling of local actorswith lead ﬁrms in GPNs. As summarized in Table 2,
+three types of regional development trajectories are
+shown and their key dynamics are analysed: (1) strategiccoupling through international partnership, (2) strategic
+coupling through indigenous innovation, and (3) stra-
+tegic coupling through the provision of productionplatforms. In these instances, the focus is on how localRegional Development and the Competitive Dynamics of Global Production Networks 335
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+Fig.2. High-growth regions in East Asian economies336 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+Table 1. Economic statistics on growth regions in East and South East Asia
+China (RMB)aPopulation,
+2004Percentage
+of totalGross regional
+product, 2004Percentage
+of totalValue added
+of enterprises,
+2004Percentage
+of totalGross industrial
+output, 2004Percentage
+of totalGross
+capital
+formation,
+2004Percentage
+of totalGrowth rate (%) between 2004 and 2000
+Gross regional
+productValue added
+of enterprises
+T otal 129 988 – 13 688 – 5481 – 6282 – 6235 – 53 115.8
+Shanghai 1742 1.3 745 5.4 343 6.3 349 5.6 361 5.8 63.7 103Jiangsu 7433 5.7 1540 11.3 645 11.8 771 12.3 803 12.9 79.5 148.1Zhejiang 4720 3.6 1124 8.2 417 7.6 538 8.6 575 9.2 86.1 167.3
+Guangdong 8304 6.4 1604 11.7 709 12.9 801 12.8 637 10.2 66 107.3
+South Korea
+(won)Population,
+2000Number of
+manufacturing
+establishments,
+2004Number of
+workers, 2004Value of
+establishipments,
+2004Growth rate (%) between 2004 and 2000
+Number of
+manufacturing
+establishmentsNumber of
+workersValue of
+establishipments
+T otal 4614 – 113 310 – 2798 – 788 633 – 15.5 5.5 41
+Seoul 990 21.5 19 264 17 267 9.5 38 412 4.9 4.7 –4.3 18Gyeonggi-do 898 19.5 34 766 30.7 823 29.4 189 642 24 20.1 10 30.5
+Taiwan (NT)Population,
+2004Number of
+manufacturing
+establishments,
+2001Number in
+employment,
+2001 W ages, 2001Gross
+output,
+2001Growth rate (%) between 2001 and 1995
+Number of
+establishments
+(all sectors)Number in
+employment Gross output
+T otal 2269 – 147 340 – 6655 – 3020 – 17 011 – 8.66 1.16 25.1
+Taipei city 262 11.5 8605 5.8 1635 24.6 876 29 4881 28.7 3.13 8 48.74Hsinchu city 38.7 1.7 2636 1.8 165 2.5 84 2.8 545 3.2 8.44 26.94 71.43North region
+bn.a. n.a. 62 588 42.5 3677 55.3 1773 58.7 10 049 59.1 6.14 3.07 30.57
+Malaysia (RM) Population, 2005Number of
+manufacturing
+establishments, 2002Manufacturing
+employment,
+2002 W ages, 2002Manufacturing
+gross output,
+2002Growth rate (%) between 2002 and 2000
+Number of
+manufacturing
+establishmentsManufacturing
+employment W agesManufacturing
+gross output
+T otal 2613 – 19 705 – 1489 – 27.2 – 456.5 – –3.7 25.5 4.2 3.8
+Penang 147 5.6 1645 8.3 297 19.9 5 18.4 77.8 17 –7.9 24.8 8.7 25.7
+Johor 135 5.2 3660 18.6 196 13.2 4.3 15.8 78.3 17.2 2.3 236.2 210.4 –0.4
+Selangor 474 18.1 3469 17.6 393 26.4 8.8 32.4 132.2 29 1 3.1 12.8 9.3
+Thailand
+(baht) Population, 2004Gross regional
+product, 2004Manufacturing
+gross output,
+2004Growth rate (%) between 2004 and 2000
+Gross regional
+productManufacturing
+gross output
+T otal 6420 – 6577 – 2312 – 33.6 39.8
+Bangkok and
+vicinities1114 17.4 2899 44.1 1104 47.8 24.3 23.1
+Eastern region 434 6.8 998 15.2 528 22.8 59.9 79.6
+Notes:aPopulation is given as 10 000 persons; employment is given as thousands; and values are in billions of the local currency.
+bIncluding prefectures of Taipei, Taoyuan, Hsinchu, and Yilan.
+Sources: CHINA STATISTICS PRESS (2005), tables 3-1 on p. 51, 3-11 on p. 59, 4-3 on p. 94, and 14–2 on p. 489; N ATIONAL STATISTICAL OFFICE ,SOUTH KOREA (2002), table III-3 on p. 130; N ATIONAL
+STATISTICAL OFFICE ,SOUTH KOREA (2006), tables II-11 on p. 146, and V-1 on p. 319; E XECUTIVE YUAN, ROC (2003), tables 3 on p. 3, 23 on p. 43, and 51 on p. 428; E XECUTIVE YUAN, ROC (2005), table
+13 on p. 22; D EPARTMENT OF STATISTICS ,M ALAYSIA (2003 /2006), tables 2.1 and 5.1; and N ATIONAL ECONOMIC AND SOCIAL DEVELOPMENT BOARD (2006).Regional Development and the Competitive Dynamics of Global Production Networks 337
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+ﬁrms are articulated into the strategic imperatives of
+GPNs in respective high-growth industries. Differentregions may experience more than one type of strategic
+coupling, as their development trajectories may change
+over time. The key point here is that each of these three
+types of strategic coupling tends to emerge from differ-
+ent interactive combinations of GPN dynamics andcoupling mechanisms. Given the nature of this position
+paper, however, the author is unable to provide com-
+prehensive empirical evidence for all three types of stra-tegic coupling and substantiate every cell in Table 2 (see
+also the nine papers that follow in this issue). Insofar as
+possible, some of these dynamics, mechanisms, and out-comes are illustrated in relation to selected empirical
+materials chosen from only a limited range of sectors
+(mostly electronics industry, as it is one of the most glo-balized industries and the East Asian regions are signiﬁ-
+cantly plugged into leading GPNs in this industry).
+Strategic coupling through international partnership
+The Taipei–Hsinchu region and, to a certain extent,Singapore present two best examples on how regional
+development can occur through managing the strategiccoupling of local ﬁrms with lead ﬁrms in GPNs.
+14In
+both cases, development takes place through the direct
+articulation of the region into critical GPNs. In theTaipei–Hsinchu region, this articulation has taken the
+form of indigenous Taiwanese ﬁrms serving as strategic
+partners of lead ﬁrms in GPNs (see also the detailed casestudies in the papers by Y ang and Yang et al. in this
+issue). In Singapore, lead ﬁrms have made a direct pre-
+sence through inward foreign direct investment (FDI).This international partnership with global lead ﬁrms,through either transactional relationships or direct pre-
+sence, brings tremendous growth dynamics and devel-opment potential to signiﬁcant industries in both
+cases: the Taipei–Hsinchu region (for example, elec-
+tronics and ICT) and Singapore (electronics, chemicals,
+ﬁnance, and transport and logistics). Since the late
+1990s, major ﬁrms from both Taiwan and Singaporeare also leveraging their direct presence in the United
+States for technological innovation and market develop-
+ment (P
+OON and M ACPHERSON , 2005; P OON et al.,
+2006; Y EUNG , 2007a; H SUet al., 2008).
+In Taiwan, state promotion of high-technology ICT
+industries since the late 1970s and the early 1980s hasled to a high degree of spatial concentration mostly in
+the northern region centred around Taipei
+(M
+ATHEWS , 1997, 2006b, 2007; H SU, 2005; see also
+the papers by Yang et al. in this issue) (see also Table
+1). Taipei now hosts the headquarters of some 70% of
+Taiwan’s top ﬁfty ICT companies. The author’s inter-views with top executives in some nineteen of these
+top ﬁfty ICT ﬁrms conducted between June 2004 and
+July 2005 show that they are not only all located inthe Taipei–Hsinchu region, but also they constitute
+the top ﬁfty largest Taiwanese ﬁrms in all sectors,
+measured by their turnover, market capitalization, andassets (for details, see Y
+EUNG , 2007a). Many of them
+are world’s top three or top ﬁve players in their respect-
+ive market niches, ranging from EMS providers andODM system integrators (for example, Hon Hai,
+Quanta, and Compal) to specialized components and
+services (for example, TSMC, UMC, AU Optronics,and SPIL). These large Taiwanese ICT ﬁrms are
+highly innovative and perform an important role as stra-
+tegic partners of global lead ﬁrms in the ICT GPN.Table 2. Strategic coupling, global production networks, and regional development trajectories
+T ypes of strategic coupling
+International partnership Indigenous innovation Production platforms
+GPN dynamics
+Spatial ﬁx Cost efﬁciency Public subsidies Lower production costs
+Organizational ﬁx Vertical specialization New competition and the rise of new
+lead ﬁrmsInternational outsourcing and
+subcontracting
+T echnological ﬁx Faster time to market New product and process technologies Enabling transport technologies
+Coupling mechanisms
+Transnational
+communitiesTransactional links, business
+intelligence and market knowledgeReverse ‘brain drain’ and technological
+returneesManagerial competence and
+intermediaries
+Industrial
+organizationRise of strategic partners and
+global localization of transnational
+corporations (TNCs)Rise of national champions and new lead
+ﬁrmsSmall and medium-sized enter-
+prises (SMEs) and new industrial
+spaces
+States and institutions Upgrading of labour, technology,
+and infrastructureStrategic industrial policies Fiscal and ﬁnancial incentives
+Regional trajectories Some regional autonomy Increased regional assets and autonomy External dependency
+East Asian regional
+examplesSingapore and Taipei–Hsinchu
+(Taiwan)Seoul Metropolitan Area (South Korea),
+Taipei–Hsinchu (Taiwan), Singapore,and Y angtze and Pearl River Deltas
+(China)Penang and Selangor (Malaysia),
+Greater Bangkok (Thailand), andYangtze and Pearl River Deltas
+(China)
+Relevant sectors Electronics, petrochemicals, ﬁnance,
+transport and logisticsElectronics, automobiles, transport and
+communicationsElectronics, automobiles, apparel
+and toys338 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+Between 1980 and 2000, more than 60% of Taiwan’s
+industrial patents were created in the Taipei–Hsinchu
+region (H SU, 2005, p. 660). In 2001, Taiwan was
+ranked fourth on the back of 6545 patents granted by
+the US Patent and Trademark Ofﬁce, just after three
+industrial giants of the United States, Japan, andGermany, and ahead of France and Britain (C
+HU,
+2006, table 4.12).
+Through these large Taiwanese ICT ﬁrms, the
+Taipei–Hsinchu region is effectively coupled into the
+strategic shift of global lead ﬁrms in Silicon Valley
+towards high-technology research and developmentactivity and leaving much, if not all, of the manufactur-
+ing activity to these strategic partners in the Taipei–
+Hsinchu region. The story of regional success,however, does not end with state promotion efforts.
+In fact, a whole transnational elite community of
+professionals and entrepreneurs has emerged duringthe past two decades that contributes signiﬁcantly to
+the successful strategic coupling of indigenous ﬁrms in
+the Taipei–Hsinchu region with their global lead ﬁrmcustomers (H
+SUand S AXENIAN , 2000; S AXENIAN and
+HSU, 2001; S AXENIAN , 2006; see also the paper by
+Yang et al. in this issue). The previous professional
+experience of these transnational elite entrepreneurs in
+global lead ﬁrms is highly important to this strategic
+coupling process (Table 2). Classic examples are Macro-nix’s founder Miin Wu who worked in Siliconix and
+Intel and was a founding member of VLSI T echnology,
+and TSMC’s founder Morris Chang who worked forT exas Instruments
+15(see also L IUet al., 2005). In both
+cases, their personal experience is useful not only in
+helping them develop strong links with their formeremployers, but also more importantly in allowing
+them to learn best management and manufacturing
+practices. For example, Macronix’s Miin Wu learntfrom his Intel experience how to manage business focus:
+Having a real product out is very time consuming and very
+demanding. So within these two years (2001–2002), wehave nothing coming out. And nobody knows what’sgoing on. Suddenly [our] technology was behind, andthe product was losing money, because we don’t havenew product to begin with. ...Suddenly we became
+very hard. I think what I learned is the focus, how youexecute it, give people a sense of urgency. So that’s whatwe learned. That’s what is happening gradually. But ifyou look at every company, I worked for Intel, andother companies; for ﬁrst ten years, even Intel threetimes they almost got under. They run out of money,they are not making money ...but it’s good for them
+because they know it’s not easy. The ﬁrst ten years,execute perfectly, and then start losing.
+16
+This strategic coupling process does not end with the
+Taipei–Hsinchu region. During the past ﬁve to tenyears, these transnational professionals and entrepre-
+neurs from the region are extending their spatial reach
+into selected regions in China, for example, theYangtze River Delta and the Pearl River Delta. TheSilicon Valley–Taipei /Hsinchu connection becomes
+enlarged into what might be termed a triangular con-
+nection that incorporates Shanghai, the ‘dragon head’of the Yangtze River Delta, into its operating orbit.
+Yang’s paper in this issue offers a detailed analysis of
+how both regions in China are articulated into theseGPNs driven by Taiwanese investment. Echoing
+L
+ENG’s (2002) views, H SU(2005) observes that:
+a triangle connection between Silicon Valley–Taipei
+(Hsinchu)–Shanghai is emerging and creating a patternof capital and knowledge circulation in the nodes of trans-national business networks. The power of the transnationaltechnical community is evident, and has become a key
+force in shaping the global production networks. It origi-
+nated in Silicon Valley and has been transferred ﬁrst toTaiwan by overseas Chinese entrepreneurs (emigratedfrom Taiwan) and then from Taiwan (as well as directlyfrom Silicon Valley) to China. The dense social and pro-fessional networks foster ﬂows of technology, capital,know-how, and information within the triangle, support-ing entrepreneurship in the three regions while alsoproviding the foundation for formal inter-regionalbusiness relations such as consortia, joint-ventures, andpartnerships.
+(p. 661)
+The spatial outreach of major Taiwanese ICT ﬁrms has
+been occurring since the late 1980s, although it hasbeen accelerating very rapidly in China (C
+HEN, 2002;
+YANG, 2007; Y ANG and H SIA, 2007). In developing
+this triangular connection, the Taipei–Hsinchu regioncontinues to maintain its competitive edge in serving
+global lead ﬁrms such as Hewlett-Packard and Motorola
+through innovative designs, product developments, andsophisticated supply chain management grounded in the
+Taipei–Hsinchu region. And yet these Taiwanese ﬁrms
+are able to achieve cost competitiveness through theirmanufacturing operations in the two delta regions in
+China (and elsewhere in South East Asia). In many
+ways, this transnational triangle resembles D
+UNFORD ’s
+(2006, p. 29) idea of a ‘magic circle’ in the Italian cloth-
+ing industry centred around Milan where clothing ‘dis-
+tricts are parts of an interdependent, interregional, andinternational division of labor in the sector and are pro-
+foundly shaped by their articulation with the distri-
+bution system’.
+In Singapore, such a transnational community of elite
+professionals and entrepreneurs also exists. In one
+example, Venture Corp’s Chairman and Chief Execu-tive Ofﬁcer (CEO) W ong Ngit Liong was formerly
+recruited by Hewlett-Packard in California and sent
+back to South East Asia to establish Hewlett-Packardfactories in Malaysia and Singapore during the 1970s.
+After twelve years with Hewlett-Packard, he struck
+out on his own and subsequently built Venture Corp.into a top ten world-class EMS provider, with a turn-
+over of US$2 billion in 2005. Venture is now the stra-
+tegic partner of both Hewlett-Packard and its spin-offAgilent T echnology.
+17Venture Corp, however, is anRegional Development and the Competitive Dynamics of Global Production Networks 339
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+exception rather than a rule in explaining Singapore’s
+articulation into the electronics GPN. In contrast to
+the Taipei–Hsinchu region, Singapore prides itself inattracting global lead ﬁrms in the electronics industry
+to establish a direct presence in terms of research and
+development facilities and manufacturing operations(W
+ONG, 1995; Y EUNG , 2006, 2008b). As the largest
+manufacturing industry in Singapore accounting for
+9.8% of gross domestic product and 36.5% of manufac-turing output in 2005, the electronics industry boosts
+the substantial presence of the industry who’s who in
+the global league of lead ﬁrms, for example, Hewlett-Packard, Matsushita, Motorola, Philips, Samsung,
+Seagate, ST Microeletronics, T oshiba, and so on.
+Apart from generous ﬁscal and non-ﬁscal incentivesoffered by the Singapore government, these world-
+class electronics ﬁrms also beneﬁt from Singapore’s
+well-developed technology and transport infrastructureand its important logistical position in the electronics
+GPN (Table 2). Singapore’s Changi Airport is the
+world’s eighth busiest freight-handling airport andSingapore Airlines is the world’s fourth largest freight
+carrier in terms of freight tonne-kilometres (B
+OWEN
+and L EINBACH , 2006, p. 155). Virtually all leading
+third-party logistics (3PL) providers have established a
+strong presence in Singapore, for example, Exel
+(Germany), DHL (Germany), Fedex (United States),UPS (United States), and GeoLogistics (United
+States). Taken together, the experiences of both the
+Taipei–Hsinchu region and Singapore show thatregional development can beneﬁt substantially from
+the strategic coupling of local ﬁrms with global lead
+ﬁrms. More generally, a form of international partner-ship exists between these regions and lead ﬁrms in
+GPNs, facilitated by an indigenous community of trans-
+national elites and entrepreneurial ﬁrms.
+Strategic coupling through indigenous innovation
+Similar to the success stories in Western Europe,
+endogenous regional development can occur if there
+are sufﬁcient efforts in developing innovative capacityin speciﬁc regions. In East Asia, the role of the state in
+growing national champions can have a profound
+impact on regional performance. Table 2 notes thepossibility of indigenous innovation through sustained
+national efforts in developing new products and
+process technologies embodied in such organizationalforms as national champions. These are large lead
+ﬁrms emerging from decades of sustained industrial pol-
+icies that work in tandem with the return of technologi-cal and business elites from advanced industrialized
+economies. Indeed, some of these national champions
+have become lead ﬁrms in their respective GPNs,underscoring the developmental possibility of increased
+autonomy and capabilities in East Asian regions. In each
+of these industries one ﬁnds major lead ﬁrms emanatingfrom East Asia: electronics (Samsung and LG),automobiles (Hyundai), marine engineering (Keppel
+Corp. and Sembcorp), air transport services (Singapore
+Airlines), shipping (OOCL, Evergreen, and NeptuneOrient Lines), and communications (SingT el). How
+does the rise of these national ﬁrms relate to regional
+growth and dynamics in their respective homeeconomies?
+The Seoul Metropolitan Area is a good illustration
+here (Table 1), as it plays host to two of the world’slargest producers of digital television and mobile
+phones – Samsung Electronics and LG Electronics.
+The rise and success of these global lead ﬁrms is botha condition for and the outcome of the dynamic
+growth of the Seoul Metropolitan Area. Unlike their
+Taiwanese and Singaporean counterparts, these SouthKorean chaebols have chosen a different developmental
+trajectory that is described by L
+EEet al. (2005b) as
+path-creating catch-up; they have grown from servingas subcontractors to OEMs to become original brand
+manufacturers (OBMs) in their own right (V
+AN
+HOESEL , 1999; C YHN, 2002). While state promotion
+efforts have laid important preconditions for these two
+chaebols , their strategic coupling through technology
+licensing and agreements with respective lead ﬁrms pro-vides the initial knowledge base for their subsequent
+choice of leapfrogging as a successful pathway to
+global leadership.
+This process of strategic coupling was particularly
+critical during the early phase of their entry in both
+product categories. Samsung, for example, achievedrapid catch-up through such technology agreements
+in the semiconductor industry between 1983 and
+1997 (L
+IM, 1999, table 4.9). C YHN (2002, ch. 3)
+observes that by the early 1990s, the chaebols had
+become much less dependent on government-spon-
+sored research institutes for their technological inno-vation. Instead, they turned to in-house research and
+development laboratories, friendly global lead ﬁrms,
+and international industrial associations. T o L
+EEet al.
+(2005b), both Samsung and LG have successfully
+pursued a path-creating catch-up approach through an
+appropriate combination of:
+technological regimes, the competitive advantages of the
+innovation outcomes in the market, the foreign and dom-estic knowledge base, the government policies and ﬁrmstrategies.
+(p. 42)
+By the mid-2000s, they had become ﬁrst movers in
+these two product categories.
+The present author’s research shows that both chaebols
+have actively pursued a strategy of original brand man-
+ufacturing (OBM) with their own distinctive techno-
+logical strength and marketing capability. There is alsoa great deal of reluctance in internationalizing their
+research and development and manufacturing activity.
+Both companies prefer to keep a large portion of theirmanufacturing activity in South Korea, particularly340 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+within the Seoul Metropolitan Area.18The region
+beneﬁts from the enormous innovative capability,
+employment generation, and industrial linkages ofboth chaebols . Lee’s paper in this issue shows how
+South Korea’s ‘multi-scalar’ regional policy continues
+to reinforce the dominant role of the Seoul Metropoli-tan Area. With respective sales of US$80 billion and
+US$44 billion in 2005, Samsung Electronics and LG
+Electronics have become the world’s top three plasmadisplay panel (PDP) and liquid crystal display (LCD)
+makers. Samsung Electronics is also the world’s
+number two mobile handset manufacturer, trailingjust behind Finland’s Nokia, and the world’s largest
+maker of memory chips and liquid crystal display
+driver integrated circuits. Taking into account Sam-sung’s ﬁrst foray into the memory chip business in Sep-
+tember 1982 (L
+IM, 1999; S HIN and J ANG, 2005), its
+global market dominance since its successful construc-tion of the world’s ﬁrst 1-gigabyte dynamic random
+access memory (DRAM) prototype in November
+1996 is indeed a remarkable achievement.
+Strategic coupling through production platforms
+The above two types of strategic coupling clearly require
+very substantial ﬁnancial commitments by state insti-
+tutions, technological development among nationalﬁrms, and the presence of an effective transnational
+community – something that regions in other Asian
+developing countries cannot yet afford. High-growthregions in the above Asian newly industrialized econ-
+omies have taken several decades to emerge from their
+former coupling type as production platforms duringthe 1960s and 1970s. Since the 1980s, developing
+regions such as China’s Yangtze River Delta and Pearl
+River Delta, Malaysia’s Penang, and Thailand’s GreaterBangkok region have been strategically coupled with
+the huge demand for competitive production platforms
+by lead ﬁrms in GPNs (Table 2). As production plat-forms, these regions provide very competitive cost struc-
+tures, an abundant labour supply, a stable policy
+environment, ﬁscal and other ﬁnancial incentives, andso on. Their institutional set-up is geared not so much
+towards developing indigenous capability as in the case
+of industrial districts in the United States, WesternEurope, and, more recently, South Korea and Taiwan.
+Rather, these developing country regions are actively
+plugging themselves into evolving global divisions oflabour spearheaded by brand name lead ﬁrms (OEMs).
+Interestingly, this process of strategic coupling is some-
+times mediated by the strategic partners of global leadﬁrms in the Asian newly industrialized economies
+(EMS and ODMs). The resultant regional development
+trajectory is thus not a straightforward pattern of the‘new international division of labour’ described by
+F
+RO¨BELet al. (1980) and, more recently, by both
+SCOTT (2006) and G LASSMAN (2007). It reﬂects much
+more complicated pattern of strategic coupling thatoccurs during the past ﬁfteen years when manufacturing
+ﬁrms in the Asian newly industrialized economies have
+emerged as strategic partners of global lead ﬁrms. Thethree empirical papers by Sajarattanochote and Poon,
+Weiet al. , and Y ang in this issue have demonstrated
+how leading regions in Thailand and China are articu-lated into GPNs as production platforms coordinated
+through Asian partners of global lead ﬁrms. This is par-
+ticularly the case in China’s Y angtze River Delta andPearl River Delta (Table 2). Export-oriented production
+platforms have been well established to serve global lead
+ﬁrms and their Asian strategic partners – mostly fromHong Kong, Singapore, and Taiwan – in such diverse
+industries as clothing, footwear, consumer products,
+electronics, and ICT (Y
+ANG, 2007; Y ANG and H SIA,
+2007).
+In the electronics GPNs, Malaysia’s Penang has
+gained a strong foothold in the development of inte-grated manufacturing of computer and semiconductor
+products (Table 2). In 2000, electronics accounted for
+over 80% of Malaysia’s total manufactured exports(R
+ASIAH , 2006, p. 127; see also E RNST , 2004). After
+over three decades of active promotion of the industry
+at both the federal and state levels, Penang is now wellarticulated into the electronics GPNs, primarily
+through such lead ﬁrms as Intel, Dell, and Seagate
+(including the former Maxtor and Conner Peripherals),and their different tiers of foreign and domestic suppliers
+(for example, Read-Rite, Komag, MMI, and Eng
+T eknologi). T ogether with Singapore and Thailand,Penang is an integral part of the South East Asian
+‘golden triangle’ that accounts for a massive majority
+of the global hard disk drive (HDD) production (seealso Y
+EUNG , 2008b). It now serves as a ramp-up
+centre for these global lead ﬁrms to prepare new pro-
+ducts for mass production in other lower-cost locationsin South East Asia or China (B
+OWEN and L EINBACH ,
+2006, p. 155). The Penang Development Corporation
+(PDC) plays a critical role in this coupling process bydeveloping and maintaining the air hub at Penang
+with strong links to Singapore, Taipei, and T okyo, and
+introducing information technology into the supplychains of local ﬁrms. In this issue, Lepawsky offers a
+further example of the Multimedia Super Corridor in
+Malaysia. As what Lepawsky terms an ‘anti-politics
+machine’, the MSC was promoted by the federal
+government and interestingly bypassed the state ofPenang (even though it had a much more developed
+information technology industry and infrastructure).
+In Thailand’s Greater Bangkok region that includes
+Rayong and Samutprakarn provinces along the eastern
+seaboard (Fig. 2 and Table 1), global lead ﬁrms in two
+contrasting GPNs have found favourable productionplatforms for their regional and global markets: auto-
+mobile and HDD industries (K
+RONGKAEW and
+KRONGKAEW , 2006; Y EUNG , 2008b). In both indus-
+tries, the Thai regions have successfully coupled with
+the demand by global lead ﬁrms for low-cost andRegional Development and the Competitive Dynamics of Global Production Networks 341
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+reliable production platforms (for detailed evidence on
+the role of foreign direct investment in regional spil-
+lover, see also the paper by Sajarattanochote and Poonin this issue). In the automobile industry, the Rayong
+region has now become South East Asia’s leading pro-
+duction centre, featuring some two dozen automobileassemblers (global lead ﬁrms) and their 700 plus ﬁrst-
+tier suppliers (C
+OEet al. , 2004, p. 479; see also
+DONER et al., 2004; T AKAYASU and M ORI, 2004; and
+HASSLER , 2006). In 2003, the automobile industry
+exported 230 000 units of its total production of
+760 000 cars. It is now the second largest export afterelectronics and electrical products.
+In the HDD industry, one can ﬁnd major manufac-
+turing facilities in the same Thai regions, operated bythe world’s leading HDD ﬁrms such as Seagate,
+Maxtor (part of Seagate after the acquisition in May
+2006), Western Digital, Hitachi-IBM, and Fujitsu.Thailand is only second to Singapore in terms
+of global HDD outputs. In the HDD industry,
+M
+CKENDRICK et al. (2000, p. 8) note that ‘[t]he
+ongoing ﬁt between the operational requirements of
+American HDD ﬁrms and the region’s abilities under-
+scores the dynamic character of competitive advantage’.The Thai regions are also intimately woven into the
+complex regional production networks of these global
+lead ﬁrms and their major suppliers based in Singapore(M
+CKENDRICK et al. , 2000; W ONG, 2001; Y EUNG ,
+2001). For example, MMI Holdings, a world-leading
+precision component supplier and a strategic partnerof Seagate, enjoys proximity to Seagate’s operational
+headquarters in Singapore and a long-standing partner-
+ship since its inception as an OEM supplier to Seagate in1989. As a Singaporean company, MMI has developed
+very strong capability and competitiveness in manufac-
+turing die-cast base plates for Seagate disk drives.
+19
+MMI Holdings has one plant in Navanakorn in
+Thailand that is engaged in high-volume precision
+components and medium-volume mechanical assembly.This case shows how production platforms in South
+East Asian regions can be enrolled into the international
+partnership of another regional state (Singapore). Asnoted recently by P
+HELPS (2007), this extra-territorial
+dimension of regional development has important
+implications for both Singapore and the host South
+East Asian regions.
+CONCLUSION
+This introductory paper has attempted to situate
+regional development trajectories within the competi-
+tive dynamics of GPNs and provide an analytical frame-
+work for reading the following nine empirical papers inthis special issue. Moving away from the new regional-
+ism approach in which analytical privilege is placed on
+trust networks and growth institutions endogenous tospeciﬁc regions, interest here rests with how theseregions are articulated into the global economy. It has
+been argued here that this question can be satisfactorily
+answered through an examination of the critical linkbetween regions and the global economy – local
+actors such as ﬁrms and institutions and their strategic
+coupling with trans-scalar production networks. Thisstrategic coupling is facilitated by three possible mech-
+anisms and interacts with different global production
+network (GPN) dynamics. As summarized in Table 2,this relational approach to linking regional performance
+with GPN dynamics is fruitful because it helps one
+avoid the danger of a myopic reading of regional devel-opment on the basis of endogenous growth factors.
+More importantly, it helps one appreciate the relevance
+of what A
+MIN and T HRIFT (1994b) some time ago
+called ‘holding down the global’. Without unpacking
+the strategic coupling processes and mechanisms, one
+will not be able to explain convincingly why globallead ﬁrms have selectively incorporated some regions
+into their GPNs. The present analytical approach,
+therefore, echoes several recent attempts to understandthe phenomenon of ‘globalizing’ regional development
+in economic geography and regional studies (C
+OEet al.,
+2004; see also A MIN, 1998; M ACKINNON et al., 2002;
+SMITH et al., 2002; C OX, 2004; and H UDSON , 2004,
+2007). It reinforces H UDSON ’s (2007) recent conclusion
+that:
+What is needed is a rather different model and understand-
+ing of politics and practice that recognizes that simplyliving in the same region does not confer identity of inter-est but also that in many regions the regional capacity toshift regional development trajectories onto a ‘higherand better’ path is strictly limited precisely because oftheir location within the structural relations of capitalistdevelopment.
+(p. 1158)
+T o operationalize the arguments, three contrasting
+development trajectories among several major growthregions in East Asia have been illustrated (Table 2).
+The preliminary analysis will be followed up in much
+greater detail in the following nine empirical papers.Based on an analysis of ﬁrms, industries, and institutions
+in these growth regions, some evidence has been pro-
+vided for the analytical relevance of understanding thestrategic coupling between regions and GPNs (see also
+Y
+USUF et al., 2004; and G EREFFI et al., 2005). In the
+cases of the Taipei–Hsinchu region and Singapore, adistinct trajectory of strategic partnership with global
+lead ﬁrms is identiﬁed. In both instances, there exist
+deeply coupled relationships between the region andpropulsive GPNs. Whereas local ﬁrms in the Taipei–
+Hsinchu region play a much more instrumental role
+in coupling transnationally with vertically specializedglobal lead ﬁrms, the developmental trajectory in
+Singapore is more driven by the state-sanctioned
+direct presence of these global lead ﬁrms and theirlocal coupling process. In other growth regions of342 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+East Asia, the coupling process works out differently. In
+South Korea, for example, the Seoul Metropolitan Area
+is articulated into the global economy through indigen-ous innovation activity spearheaded by large-scale chae-
+bols. Global lead ﬁrms play a much less signiﬁcant role
+here. In China, Malaysia, and Thailand, global leadﬁrms have established major operations, mediated by
+their Asian strategic partners, to take advantage of the
+production platforms of these regions. All of thesecases point to the analytical importance of understand-
+ing regional development as a form of trans-regional
+dynamics constituted by the complex strategic couplingprocess between local actors and lead ﬁrms in GPNs.
+They also show how the archetypical Asian develop-
+mental state can play a necessary but not sufﬁcientrole in engendering regional development. Effective
+state policies and initiatives can enhance the strategic
+coupling process. But this enhancement takes placewithin the broader context of global lead ﬁrms actively
+searching for the spatial, organizational, and technologi-
+cal ﬁxes of their competitive problems (Table 2).Overall, then, regional development is a multi-scalar
+phenomenon that encapsulates the local ﬁrm, the
+region, the nation-state, transnational lead ﬁrms, andGPNs.
+Looking forward, this analysis provides several major
+implications for theory and policy. Firstly, it is clear thatone needs to theorize the (re)positioning of regions
+within GPNs and their divergent developmental trajec-
+tories. This is an important task as the coupling mech-anisms and articulation processes are not yet fully
+theorized and understood. This theoretical inadequacy
+is particularly unfortunate because the interest in thetrans-regional dynamics of regional development was
+evident as early as the 1970s in the work of D
+ICKEN
+(1976) and M ASSEY (1979). Although the present
+paper has focused on the East Asian speciﬁcity of the
+coupling mechanisms and GPN dynamics, these con-
+cepts are very likely to be applicable to other developingand even mature regions throughout the world. This
+situatedness of the GPN approach in an East Asian
+context represents a useful form of ‘theorizing back’(Y
+EUNG and L IN, 2003; Y EUNG , 2007b) through
+which one can add much value to the existing analytical
+approach in the dominant new regionalism literature
+(see also the papers by Kelly and Lin in this issue).
+While the recent ‘relational turn’ in regional studiesand the GPN-inspired research programme have
+begun to focus on the issue of regional development,
+there is a great deal of theoretical work required forunderstanding how regions are articulated into GPNs
+over time and how different coupling mechanisms
+lead to divergent regional responses and outcomes.The theoretical work also needs to go beyond industrial
+organization, technological change, and knowledge
+accumulation. There is also a highly important butoften neglected aspect of the ﬁnancialization of
+regions in GPNs. P
+IKE (2006), for example, hasshown recently how ﬁrm closure in a region can be
+intricately linked to strategic considerations by ﬁnancial
+communities located elsewhere, often in global ﬁnancialcentres. One needs to theorize urgently how technol-
+ogy, knowledge, and ﬁnance shape the strategic coup-
+ling of regions in GPNs.
+Secondly, the multi-scalar analysis of regional devel-
+opment from a GPN perspective points to the import-
+ance of theorizing the intensiﬁcation of inter-regionalcompetition (see also M
+ASSEY , 2007). As different
+regions are articulated into the global economy
+through diverse networks of local ﬁrms and theirglobal lead ﬁrm partners, inter-regional competition is
+expected to be intensiﬁed signiﬁcantly. In the East
+Asian context, regions are competing directly witheach other through their efforts in developing indigen-
+ous ﬁrms, facilitating their coupling with global lead
+ﬁrms, and attracting the direct presence of these leadﬁrms in GPNs. As the Taipei–Hsinchu region, the
+Yangtze River Delta, Penang, Rayong, and Singapore
+are competing ﬁercely in the global information andcommunication technology (ICT) industry, there is a
+misleading perception that these different regions are
+in head-on collision with each other within thecontext of a zero-sum game. Indeed, the reality is far
+more complex and interdependent than the above
+casual observation commonly found in the publicdomain. There are, for example, intricate and, often,
+complementary relationships between global lead
+ﬁrms, their strategic partners in Taiwan and Singapore,and production sites in the Yangtze River Delta,
+Penang, and Rayong. This ‘inter-regional’ competition
+should rather be theorized as intra- and inter-GPNcompetition (for an excellent analysis of two Chinese
+regions, see the paper by Yang in this issue). At the
+intra-GPN level, different electronic manufacturingservice (EMS) and original design manufacturer
+(ODM) providers are competing against each other
+for the same lead ﬁrm. At the inter-GPN level, leadﬁrms and strategic partners belonging to different
+GPNs are competing for market shares. This phenom-
+enon is not unique to the global ICT Industry and canbe observed easily in other industries and regions (see
+also P
+HELPS and F ULLER , 2000). Reﬂecting on the
+future of textile and clothing ﬁrms in Italy, for
+example, D UNFORD (2006) notes that:
+many are insufﬁciently differentiated from producers in
+low-cost countries and are insufﬁciently oriented towardexport markets with growth potential. As a result, manyenterprises and regional economies are under threat.
+(p. 56)
+Dunford’s conclusion underscores the critical import-
+ance of understanding the strategic coupling of ﬁrmactivities in regional economies within GPNs. For this
+coupling process brings about far greater intra- and
+inter-GPN competition that might manifest in theform of alleged inter-regional competition. Clearly,Regional Development and the Competitive Dynamics of Global Production Networks 343
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+one needs to theorize these complex relationships that
+impinge on inter-regional competition.
+Finally, one can learn a great deal about strategic
+regional policy options from a GPN perspective.
+Regional authorities and government agencies should
+not be paying excessive policy attention to buildingregional capability without carefully assessing and
+understanding the kind of GPNs with which the
+region can have a good chance of strategic coupling.This means an in-depth assessment of the position of
+a region within certain GPNs. There is, of course, no
+easy policy solution and universal panacea, as pointedout in the second implication above. Regions can
+become locked into the strategic interests of global
+lead ﬁrms and face a serious policy dilemma when thelatter disembed from these regions (P
+HELPS et al. ,
+1998; P HELPS and W ALEY, 2004; H ASSINK , 2005;
+MARTIN and S UNLEY , 2006; see also the paper by
+Aoyama in this issue). While regions are not necessarily
+the scale at which competition takes place, regions do
+certainly experience the outcomes of this competition.This is where policy instruments might be deployed to
+mitigate the potential negative regional impact of intra-
+and inter-GPN competition. Again, such policyinitiatives should be situated within a comprehensive
+understanding of the relationships and positions of a
+region in certain highly competitive GPNs. Thisgreater sensitivity and sensibility in regional policy-
+making, in S
+TIGLITZ ’s (2001, p. 523) words, requires
+decisions makers ‘to resist accepting without questionthe current mantras of the global marketplace of
+ideas’. The currently endless debate on clusters in
+regional studies is just one such example (M
+ARTIN
+and S UNLEY , 2003).
+In the East Asian context, for example, it does not
+make much sense to implement policies that promotea region as a production platform for lead ﬁrms in
+GPNs, if the region already has a strong presence of
+local ﬁrms, technological competence, and institutionalsupport. Regional policies will likely be more effective
+if they are designed to help these local ﬁrms to achieve
+enduring strategic coupling with lead ﬁrms in GPNs(for example, the Taipei–Hsinchu region) or to
+become global lead ﬁrms in their own right (for
+example, the Seoul Metropolitan Area). In other devel-
+oping regions (for example, the Yangtze River Delta
+and Penang), the policy challenge is much more com-plicated as local ﬁrms remain relatively weak in their
+organizational and technological capabilities. And yet,
+these regions face tremendous pressure from cost-based competition. Whatever the chosen development
+trajectory and policy regime, one important lesson is
+that they are unlikely to be effective and sustainablewithout a fuller appreciation of the trans-regional
+dynamics in which the region is located. This is the
+key contribution of thinking of regional developmentas necessarily situated in the competitive dynamics of
+GPNs.Acknowledgement –
+This paper was speciﬁcally written
+as an introductory position paper for this special issue. Theauthor would like to thank Andy Pike for inviting him tobring these papers together. Apart from thanking theauthors of the nine papers to follow, the present author isalso grateful to Hege Knutsen, Balaji Parthasarathy, MartinPerry, T ulus Tahi, Hamonangan Tambunan, Jonathan Rigg,Markus Hassler, and the many referees for participating inthis major undertaking to understand better regionaldevelopment in Asia. Arnoud Lagendijk, as the newEditor-in-Chief of Regional Studies , is thanked for expediting
+the publication of this special issue. Meanwhile, this paper wasﬁrst presented as a Plenary Lecture at the Regional StudiesAssociation Annual Conference, London, UK, on 24November 2006. The author would like to thank theRegional Studies Association, its Chief Executive, SallyHardy, and Conference Coordinator, Andrew Cumbers, forinviting and funding him to deliver this plenary paper. Thepaper was also presented at the Annual Meeting of the Associ-ation of American Geographers, San Francisco, California,USA, on 17–21 April 2007. The NUS Academic ResearchFund (Grant Number R-109-000-050-112) supported theresearch project underpinning this paper. The author is grate-ful to his research collaborators, Jang-sup Shin and Y ong-Sook Lee, for their signiﬁcant intellectual inputs, and toAngela Leung for her excellent research assistance. Thepaper was written while the author was a Visiting Researcherat the International Centre for the Study of East Asian Devel-opment (ICSEAD), Kitakyushu, Japan, during July–Septem-ber 2006, and further revised while he was a VisitingProfessor at the School of Geography, University of Hong
+Kong. The author is very grateful to the ICSEAD for its gen-
+erous Visiting Researcher scheme and the University of HongKong. Detail and constructive comments were subsequentlyreceived from Andy Pike, Neil Coe, Nick Phelps, JessiePoon, and two anonymous reviewers of Regional Studies.
+The author is solely responsible for the content of this paper.
+NOTES
+1. While this important point is likely to be applicable to
+the experiences of regional development in NorthAmerica and Western Europe, it is clearly beyond thescope of the present paper to examine these experiencesempirically (P
+IKEet al., 2006; P IKE, 2007b).
+2. Other major groups of actors are labour and civil society
+organizations (CSOs). But given the constraints of spacein this paper, the author is unable to give sufﬁcientanalytical attention to them all (H
+ENDERSON et al. ,
+2002; C OEet al., 2004). The papers by Kelly, Lee, and
+Lepawsky in this issue demonstrate clearly how house-holds and CSOs in the Philippines, South Korea, andMalaysia participate actively in these expanding globalnetworks of regional development.
+3. This observation might appear to be quite strange when
+key developmental state theorists had published theirwork by the late 1980s and early 1990s (for example,A
+MSDEN , 1989; W ADE, 1990). While not denying the
+signiﬁcance of state policies in paving the initial con-
+ditions for industrialization and economic development(see also L
+EEet al., 2005a), the present author believes344 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+their work was based on research conducted in and refer-
+ring to mostly the early phases of development during the1970s and the 1980s. For an updated analysis of the role ofthe developmental state in South Korea and Taiwan, seealso the papers by Lee and Y ang et al. in this issue.
+Lepawsky’s paper also illustrates the political role of theMalaysian state in regional development initiatives.
+4. For two detail case studies of strategic coupling mechan-
+isms in China and Taiwan, see the papers by Y ang andYang et al. in this issue.
+5. The empirical evidence presented here originates from a
+major transnational research project in which personalinterviews with top executives of leading Asian ﬁrmswere conducted in the four newly industrialized econ-omies. A total of 68 leading Asian ﬁrms were interviewedbetween June 2004 and December 2006: nineteen HongKong ﬁrms, thirteen South Korean ﬁrms, 24 Taiwaneseﬁrms, and twelve Singaporean ﬁrms. These ﬁrms wereselected on the basis of their 2003 /2004 operating reven-
+ues or turnover captured in the OSIRIS database pub-lished by Bureau van Dijk Electronic Publishing, acomprehensive database containing detail ﬁnancial infor-mation on publicly listed companies worldwide. The top
+ﬁfty ﬁrms from each of the four newly industrialized
+economies were selected, and they were approached forpersonal interviews with their top executives. Amongthe 68 leading Asian ﬁrms interviewed, ﬁfteen were inthe top ten and 29 were in the top twenty by operatingrevenues in their respective economies. Eleven of themwere ranked in the U
+NITED NATIONS CONFERENCE
+ONTRADE AND DEVELOPMENT’S (UNCTAD) (2005)
+top ﬁfty transnational corporations from developingeconomies. Some 33 of the interviewees were CEOs /
+Presidents or Managing Directors, whereas another 32were Executive Directors, General Managers, or(Senior /Executive) Vice-Presidents. In some cases (for
+example, Samsung Electronics), personal interviewswith several top executives were conducted. In all inter-views lasting between one and two hours, an open-endedapproach was taken and only brief interview aides wereused. Extensive background information from all avail-able public sources was consulted to form the basis ofcustomized qualitative questions during each interview.All interviews except one were taped and transcribed,and these transcripts and other relevant informationform the empirical basis of this paper.
+6. Admittedly, this is a narrow representation of H
+AR VEY ’s
+(1982) idea of spatial ﬁx that in its original formulationalso includes opening up new spaces for capitalist pro-duction, new markets, or new sources of raw materialsand re-creating or rejuvenating old production spaces.See also G
+LASSMAN (2007) for a case of Thailand and
+the paper by Lepawsky in this issue on how theMultimedia Super Corridor in Malaysia serves a spatialﬁx through state-led national decentralization initiatives.7. Constraints of space preclude the possibility of dealing
+fully with other important issues about market structures,inter-ﬁrm /network rivalries, regulation, and so on that
+characterize different forms of GPN dynamics (H
+ESS
+and Y EUNG , 2006; C OEet al., 2008a).
+8. Again, it is important to note that this concept, despite its
+potential misinterpretation as a structuralist or function-alist take, is a heuristic device for understanding theinterconnections with regions and global productionnetworks (C
+OEet al., 2004, n. 1).
+9. On how entrepreneurial culture shapes regional trajec-
+tories in Japan and China, see the papers by Aoyamaand Wei et al. in this issue.
+10. Based empirically on the case of Cavite in the
+Philippines, the paper by Kelly in this issue speciﬁcallyexplores the role of transnational migration and remit-tances in constituting another critically important formof ‘global reproduction networks’.
+11. See a variety of empirical examples in this issue on South
+Korea (by Lee), Malaysia (by Lepawsky), China (by Linand Wei et al.), and Taiwan (by Yang et al.).
+12. For an exception of two regions in Japan – Hamamatsu
+and Kyoto – see the paper by Aoyama in this issue.
+13. There is now a credible body of literature in English
+examining the political economy of regional develop-ment in China (F
+AN, 1995; L IN, 1997; M ARTON , 2000;
+WEI, 2000; Z WEIG , 2002; W EIet al. , 2007; Y ANG,
+2007; K IMand Z HANG , 2008; and the papers by Lin,
+Weiet al., and Yang in this issue), Malaysia (J OMO and
+FELKER , 1999; M ORSHIDI , 2000; S MAKMAN , 2003;
+and the paper by Lepawsky in this issue), South Korea(C
+HO, 1997; P ARK, 2005; and the paper by Lee in this
+issue), Taiwan (H SUand C HENG , 2002; H SU, 2005;
+LEEand S AXENIAN , 2008; and the paper by Yang et al.
+in this issue), and Thailand (U NGER , 1998; D IXON ,
+1999; G LASSMAN , 2001, 2007; and the paper by
+Sajarattanochote and Poon in this issue). An overwhelm-ing majority of these authors are nationals originatingfrom or living in the respective East Asia economies.Their work in English represents a balanced view oftheir understanding of different strands of literature pub-lished in English and their local languages.
+14. Singapore is taken as a region in this section, even though
+it is an independent nation-state. As a city-state,Singapore is territorially and functionally not too differ-ent from any major global city-regions in the world(S
+COTT , 2001; O LDSand Y EUNG , 2004).
+15. Interviews with Macronix and TSMC in Taipei, July
+2004.
+16. Interview in Taipei, 9 July 2004.17. Interviewed in Singapore, 19 May 2006.18. Interviews with Samsung Electronics and LG Electronics
+in Seoul, May 2004 and June 2005.
+19. Interview with the co-founder and Group Managing
+Director in Singapore, 22 June 2006.
+REFERENCES
+ALLEN J. and C OCHRANE A. (2007) Beyond the territorial ﬁx: regional assemblages, politics and power, Regional Studies 41,
+1161–1175.
+ALLEN J., M ASSEY D. and C OCHRANE A. (1997) Re-thinking the Region: Spaces of Neo-Liberalism . Routledge, London.
+AMINA. (1998) Globalisation and regional development: a relational perspective, Competition and Change 3, 145–165.
+AMINA. (2004) Regions abound: towards a new politics of place, Geograﬁska Annaler B 86, 33–44.Regional Development and the Competitive Dynamics of Global Production Networks 345
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+AMINA. and R OBERTS J. (Eds) (2008) Community, Economic Creativity, and Organization . Oxford University Press, Oxford.
+AMINA. and T HRIFT N. (1994a) Living in the global, in A MINA. and T HRIFT N. (Eds) Globalization, Institutions, and Regional Devel-
+opment in Europe , pp. 1–22. Oxford University Press, Oxford.
+AMINA. and T HRIFT N. (1994b) Holding down the global, in A MINA. and T HRIFT N. (Eds) Globalization, Institutions, and Regional
+Development in Europe , pp. 257–260. Oxford University Press, Oxford.
+AMSDEN A. H. (1989) Asia’s Next Giant: South Korea and Late Industrialization . Oxford University Press, New Y ork, NY .
+AMSDEN A. H. (2001) The Rise of ‘The Rest’: Challenges to the West from Late-Industrializing Economies . Oxford University Press,
+New Y ork, NY .
+AMSDEN A. H. and C HUW .-W . (2003) Beyond Late Development: Taiwan’s Upgrading Policies . MIT Press, Cambridge, MA.
+ASHEIM B. T. (1996) Industrial districts as ‘learning regions’, European Planning Studies 4, 379–400.
+BATHELT H. (2006) Geographies of production: growth regimes in spatial perspective 3 – towards a relational view of economic
+action and policy, Progress in Human Geography 30, 223–236.
+BATHELT H. and G LU¨CKLER J. (2003) T oward a relational economic geography, Journal of Economic Geography 3, 117–144.
+BIALASIEWICZ L. (2006) Geographies of production and the contexts of politics: dis-location and new ecologies of fear in the
+Veneto citta diffusa ,Environment and Planning D: Society and Space 24, 41–67.
+BOEKEMA F. , M ORGAN K., B AKKERS S. and R UTTEN R. (Eds) (2000) Knowledge, Innovation and Economic Growth: The Theory and
+Practice of Learning Regions . Edward Elgar, Cheltenham.
+BOGGS J. S. and R ANTISI N. M. (2003) The ‘relational turn’ in economic geography, Journal of Economic Geography 3, 109–116.
+BOWEN J. T. J Rand L EINBACH T . R. (2006) Competitive advantage in global production networks: air freight services and the elec-
+tronics industry in Southeast Asia, Economic Geography 82, 147–166.
+BOYDR. and N GOT .-W . (Eds) (2005) Asian States: Beyond the Developmental Perspective . Routledge /Curzon, London.
+BRACZYK H.-J., C OOKE P . and H EIDENREICH M. (Eds) (1997) Regional Innovation Systems: The Role of Governances in a Globalized
+World . UCL Press, London.
+BRENNER N., J ESSOP B., J ONES M. and M ACLEODG. (Eds) (2003) State/Space . Blackwell, Oxford.
+BUNNELL T. G. and C OEN. M. (2001) Spaces and scales of innovation, Progress in Human Geography 25, 569–590.
+CHAN C. B. (Ed.) (2002) Heart Work: Stories of How EDB Steered the Singapore Economy from 1961 into the 21st Century .E D B ,
+Singapore.
+CHANG S.-J. (2003) Financial Crisis and Transformation of Korean Business Groups: The Rise and Fall of Chaebols . Cambridge University
+Press, Cambridge.
+CHEN S.-H. (2002) Global production networks and information technology: the case of Taiwan, Industry and Innovation 9,
+249–265.
+CHINA STATISTICS PRESS (2005) China Statistical Yearbook . China Statistics Press, Beijing.
+CHOM.-R. (1997) Flexibilization through metropolis: the case of post-Fordist Seoul, Korea, International Journal of Urban and
+Regional Research 21, 180–201.
+CHOUNG J.-Y ., H WANG H.-R. and C HOIJ.-H. (2000) Transition of latecomer ﬁrms from technology user to technology creators:
+Korean semiconductor ﬁrms, World Development 28, 962–982.
+CRISTOPHERSON S. and C LARK J. (2007) Power in ﬁrm networks: what it means for regional innovation systems, Regional Studies
+41, 1223–1236.
+CHUY .-P . (2006) The political economy of Taiwan’s high-tech industrialisation, in C HUY .-P . and H ILLH. (Eds) The East Asian
+High-Tech Drive , pp. 119–181. Edward Elgar, Cheltenham.
+COEN., D ICKEN P . and H ESSM. (2008a) Global production networks: realizing the potential, Journal of Economic Geography 8,
+271–295.
+COEN., H ESSM. and D ICKEN P . (Eds) (2008b) Theme issue on global production networks: debates and challenges, Journal of
+Economic Geography 8, 267–440.
+COEN., H ESSM., Y EUNG H. W .-C., D ICKEN P . and H ENDERSON J. (2004) ‘Globalizing’ regional development: a global production
+networks perspective, Transactions of the Institute of British Geographers n.s.29, 468–484.
+COEN. M., K ELLYP . F . and O LDSK. (2003) Globalization, transnationalism, and the Asia-Paciﬁc, in P ECKJ. and Y EUNG H. W .-C.
+(Eds) Remaking the Global Economy: Economic–Geographical Perspectives , pp. 45–60. Sage, London.
+COMBES P .-P ., M AYER T. and T HISSE J.-F . (2008) Economic Geography: The Integration of Regions and Nations . Princeton University
+Press, Princeton, NJ.
+COOKE P. , D ELAURENTIS C., T O¨DTLING and T RIPPL M. (2007) Regional Knowledge Economies: Markets, Clusters and Innovation .
+Edward Elgar, Cheltenham.
+COOKE P . and L AZZERETTI L. (Eds) (2008) Creative Cities, Cultural Clusters and Local Economic Development . Edward Elgar,
+Cheltenham.
+COOKE P . N. and M ORGAN K. (1998) The Associational Economy: Firms, Regions, and Innovation . Oxford University Press, Oxford.
+COXK. R. (2004) Globalization and the politics of local and regional development: the question of convergence, Transactions of the
+Institute of British Geographers 29, 179–194.
+CYHNJ. W . (2002) Technology Transfer and International Production: The Development of the Electronics Industry in Korea . Edward Elgar,
+Cheltenham.
+DEPARTMENT OF STATISTICS ,M ALAYSIA (2003 /2006) State/District Data Bank . CD-ROM Version. Department of Statistics, Kuala
+Lumpur.
+DICKEN P . (1976) The multiplant business enterprise and geographical space: some issues in the study of external control and
+regional development, Regional Studies 10, 401–412.346 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+DICKEN P . (2007) Global Shift: Mapping the Changing Contours of the World Economy , 5th Edn. Sage, London.
+DICKEN P. , K ELLYP. , O LDSK. and Y EUNG H. W .-C. (2001) Chains and networks, territories and scales: towards an analytical frame-
+work for the global economy, Global Networks 1, 89–112.
+DICKEN P . and M ALMBERG A. (2001) Firms in territories: a relational perspective, Economic Geography 77, 345–363.
+DIXON C. (1999) The Thai Economy: Uneven Development and Internationalisation . Routledge, London.
+DONER R. F ., N OBLE G. W . and R AVENHILL J. (2004) Production networks in East Asia’s automobile parts industry, in Y USUF S.,
+ALTAFM. and N ABESHIMA K. (Eds) Global Production Networking and Technological Change in East Asia , pp. 159–208. World Bank,
+Washington, DC, and Oxford University Press, Oxford.
+DONER R. F ., R ITCHIE B. K. and S LATER D. (2005) Systemic vulnerability and the origins of developmental states: Northeast and
+Southeast Asia in comparative perspective, International Organization 59, 327–361.
+DUNFORD M. (2003) Theorizing regional economic performance and the changing territorial division of labour, Regional Studies
+37, 839–854.
+DUNFORD M. (2006) Industrial districts, magic circles, and the restructuring of the Italian textiles and clothing chain, Economic
+Geography 82, 27–59.
+ERNST D. (2004) Global production networks in East Asia’s electronics industry and upgrading prospects in Malaysia, in Y USUF S.,
+ALTAFM. and N ABESHIMA K. (Eds) Global Production Networking and Technological Change in East Asia , pp. 89–157. World Bank,
+Washington, DC, and Oxford University Press, Oxford.
+ERNST D. (2005) Pathways to innovation in Asia’s leading electronics-exporting countries – a framework for exploring drivers and
+policy implications, International Journal of Technology Management 29, 6–20.
+ETTLINGER N. (2008) The predicament of ﬁrms in the new and old economies: a critical inquiry into traditional binaries in the
+study of the space-economy, Progress in Human Geography 32, 45–69.
+EXECUTIVE YUAN, ROC (2003) The Report on 2001 Industry, Commerce and Service Census Taiwan–Fuchien Area, The Republic of
+China 1 General Report . Executive Y uan, Taipei.
+EXECUTIVE YUAN, ROC (2005) Statistical Yearbook of the Republic of China 2004 . Executive Y uan, Taipei.
+FANC. C. (1995) Of belts and ladders: state policy and uneven regional development in Post-Mao China, Annals of the Association of
+American Geographers 85, 421–449.
+FEENSTRA R. C. and H AMILTON G. G. (2006) Emergent Economies, Divergent Paths: Economic Organization and International Trade in
+South Korea and Taiwan . Cambridge University Press, Cambridge.
+FORNAHL D. and B RENNER T. (Eds) (2003) Cooperation, Networks and Institutions in Regional Innovation Systems . Edward Elgar,
+Cheltenham.
+FRO¨BELF. , H EINRICHS J. and K REYE O. (1980) The New International Division of Labour . Cambridge University Press, Cambridge.
+FUJITA M. and K RUGMAN P . (2004) The new economic geography: past, present and the future, Papers in Regional Science 83, 139–
+164.
+FUJITA M., K RUGMAN P . and V ENABLES A. J. (1999) The Spatial Economy: Cities, Regions, and International Trade . MIT Press,
+Cambridge, MA.
+GEREFFI G. (2005) The global economy: organization, governance, and development, in S MELSER N. J. and S WEDBERG R. (Eds)
+The Handbook of Economic Sociology , 2nd Edn, pp. 160–182. Princeton University Press, Princeton, NJ.
+GEREFFI G., H UMPHREY J. and S TURGEON T . (2005) The governance of global value chains, Review of International Political Economy
+12, 78–104.
+GLASSMAN J. (2001) Economic crisis in Asia: the case of Thailand, Economic Geography 77, 122–147.
+GLASSMAN J. (2007) Recovering from crisis: the case of Thailand’s spatial ﬁx, Economic Geography 83, 349–370.
+GOODWIN M. and P AINTER J. (1996) Local governance, the crises of Fordism and the changing geographies of regulation, Trans-
+actions of the Institute of British Geographers 21, 635–648.
+HADJIMICHALIS C. (2006) The end of Third Italy as we knew it?, Antipode 38, 82–106.
+HANSEN G. H. (2008) The far side of international business: local initiatives in the global workshop, Journal of Economic Geography 8,
+1–20.
+HARRISON B. (1997) Lean and Mean: The Changing Landscape of Corporate Power in the Age of Flexibility . Guilford, New Y ork, NY .
+HARRISON J. (2007) From competitive regions to competitive city-regions: a new orthodoxy, but some old mistakes, Journal of
+Economic Geography 7, 311–332.
+HAR VEY D. (1982) The Limits to Capital . Basil Blackwell, Oxford.
+HAR VEY D. (1989) The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change . Basil Blackwell, Oxford.
+HASSINK R. (2005) How to unlock regional economies from path dependency? From learning region to learning cluster, European
+Planning Studies 13, 521–535.
+HASSLER M. (2006) Global production networks and industrial transformation: the automobile industry of Thailand. Unpublished
+habilitation thesis, Department of Geography, Ruhr-University Bochum.
+HEAVER T. D. (2004) Logistics in East Asia, in Y USUF S., A LTAF M. and N ABESHIMA K. (Eds) Global Production Networking and
+Technological Change in East Asia , pp. 297–351. World Bank, Washington, DC, and Oxford University Press, Oxford.
+HENDERSON J. (1989) The Globalisation of High Technology Production . Routledge, London.
+HENDERSON J., D ICKEN P. , H ESSM., C OEN. and Y EUNG H. W .-C. (2002) Global production networks and the analysis of econ-
+omic development, Review of International Political Economy 9, 436–464.
+HESSM. and Y EUNG H. W .-C. (2006) Whither global production networks in economic geography? Past, present and future,
+Environment and Planning A 38, 1193–1204.
+HIRSCHMAN A. O. (1958) The Strategy of Economic Development . Yale University Press, New Haven, CT.Regional Development and the Competitive Dynamics of Global Production Networks 347
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+HOBDAY M. (2001) The electronics industries of the Asia-Paciﬁc: exploiting international production networks for economic
+development, Asian-Paciﬁc Economic Literature 15, 13–29.
+HOWELLS J. R. L. (2005) Innovation and regional economic development: a matter of perspective?, Research Policy 34, 1220–1234.
+HSUJ.-Y . (2004) The evolving institutional embeddedness of a late industrial district in Taiwan, Tijdschrift voor Economische en Social
+Geograﬁe 95, 218–232.
+HSUJ.-Y . (2005) A site of transnationalism in the ‘Ungrounded Empire’: Taipei as an interface city in the cross-border business
+networks, Geoforum 36, 654–666.
+HSUJ.-Y . and C HENG L.-L. (2002) Revisiting economic development in post-war Taiwan: the dynamic process of geographical
+industrialization, Regional Studies 36, 897–908.
+HSUJ.-Y ., P OON J. P . and Y EUNG H. W .-C. (2008) External leveraging and technological upgrading among East Asian ﬁrms in the
+United States, European Planning Studies 16, 99–118.
+HSUJ.-Y . and S AXENIAN A.-L. (2000) The limits of guanxi capitalism: transnational collaboration between Taiwan and the USA,
+Environment and Planning A 32, 1991–2005.
+HUDSON R. (1999) The learning economy, the learning ﬁrm and the learning region: a sympathetic critique of the limits to learn-
+ing,European Urban and Regional Studies 6, 59–72.
+HUDSON R. (2004) Conceptualising economies and their geographies: spaces, ﬂows and circuits, Progress in Human Geography 28,
+447–471.
+HUDSON R. (2005) Region and place: devolved regional government and regional economic success?, Progress in Human Geography
+29, 618–625.
+HUDSON R. (2006) Regional devolution and regional economic success: enabling myths and illusions about power, Geogfraﬁska
+Annaler B 88, 159–171.
+HUDSON R. (2007) Regions and regional uneven development forever? Some reﬂective comments upon theory and practice,
+Regional Studies 41, 1149–1160.
+JESSOP B., B RENNER N. and J ONES M. (2008) Theorizing socio-spatial relations, Environment and Planning D: Society and Space 26,
+389–401.
+JOMO K.S. and F ELKER G. (Eds) (1999) Technology, Competitiveness and the State: Malaysia’s Industrial Technology Policies . Routledge,
+London.
+JONAS A. E. G. and P INCETL S. (2006) Rescaling regions in the state: the new regionalism in California, Political Geography 25, 482–
+505.
+JONES A. (2008) Beyond embeddedness: economic practices and the invisible dimensions to transnational business activity, Progress
+in Human Geography 32, 71–88.
+JONES M. R., G OODWIN M. and J ONES R. (Eds) (2005) Special issue on devolution and economic governance, Regional Studies 39,
+397–553.
+KENNY M. and F LORIDA R. (Eds) (2004) Locating Global Advantage: Industry Dynamics in the International Economy . Stanford Uni-
+versity Press, Stanford, CA.
+KIMJ. Y . and Z HANG L.-Y . (2008) Formation of foreign direct investment clustering – a new path to local economic development?
+The case of Qingdao, Regional Studies 42, 265–280.
+KRONGKAEW M. and K RONGKAEW T. (2006) Thailand as a high-tech industrial economy: an impossible dream?, in C HUY .-P . and
+HILLH. (Eds) The East Asian High-Tech Drive , pp. 259–300. Edward Elgar, Cheltenham.
+KRUGMAN P . R. (1995) Development, Geography, and Economic Theory . MIT Press, Cambridge, MA.
+LAGENDIJK A. (2006) Learning from conceptual ﬂow in regional studies: framing present debates, unbracketing past debates,
+Regional Studies 40, 385–399.
+LEEC.-K. and S AXENIAN A.-L. (2008) Coevolution and coordination: a systemic analysis of the Taiwanese information technology
+industry, Journal of Economic Geography 8, 157–180.
+LEEK. and L IMC. (2001) T echnological regimes, catching-up and leapfrogging: ﬁndings from the Korean industries, Research
+Policy 30, 459–483.
+LEEK., L IMC. and S ONG W . (2005b) Emerging digital technology as a window of opportunity and technological leapfrogging:
+catch-up in digital TV by the Korean ﬁrms, International Journal of Technology Management 29, 40–63.
+LEEK., L INJ. Y . and C HANG H.-J. (2005a) Late marketisation versus late industrialisation in East Asia, Asian-Paciﬁc Economic
+Literature 19, 42–59.
+LEINBACH T . R. and B OWEN J. T. (2004) Air cargo services and the electronics industry in Southeast Asia, Journal of Economic Geogra-
+phy4, 1–24.
+LENGT.-K. (2002) Economic globalization and IT talent ﬂows across the Taiwan Strait: the Taipei /Shanghai /Silicon Valley
+triangle, Asian Survey 42, 230–250.
+LIMY . (1999) Technology and Productivity: The Korean Way of Learning and Catching Up . MIT Press, Cambridge, MA.
+LING. C. S. (1997) Red Capitalism in South China: Growth and Development of the Pearl River Delta . University of British Columbia
+Press, Vancouver, BC.
+LIUT.-H., C HUY .-Y ., H UNGS.-C. and W US.-Y . (2005) T echnology entrepreneurial styles: a comparison of UMC and TSMC,
+International Journal of Technology Management 29, 92–115.
+LOVERING J. (1999) Theory led by policy: the inadequacies of the ‘new regionalism’ (illustrated from the case of Wales), Inter-
+national Journal of Urban and Regional Research 23, 379–395.
+LOWL., T OHM. H., S OON T. W., T ANK. Y . and H UGHES H. (1993) Challenge and Response: Thirty Years of the Economic Development
+Board . Times Academic Press, Singapore.348 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+LUNDVALL B.-A., I NTARAKUMNERD P . and V ANG-LAURIDSEN J. (Eds) (2006) Asia’s Innovation Systems in Transition . Edward Elgar,
+Cheltenham.
+LU¨THJE B. (2002) Electronics contract manufacturing: global production and the international division of labor in the age of the
+internet, Industry and Innovation 9, 227–247.
+MACHER J. T., M OWERY D. C. and S IMCOE T . S. (2002) E-business and disintegration of the semiconductor industry value chain,
+Industry and Innovation 9, 155–181.
+MACKINNON D., C UMBERS A. and C HAPMAN K. (2002) Learning, innovation and regional development: a critical appraisal of
+recent debates, Progress in Human Geography 26, 293–311.
+MACLEODG. (2001) New regionalism reconsidered: globalization and the remaking of political economic space, International
+Journal of Urban and Regional Research 25, 804–829.
+MACLEODG. and J ONES M. (2007) T erritorial, scalar, networked, connected: in what sense a ‘regional world’?, Regional Studies 41,
+1177–1191.
+MANSFIELD B. (2005) Beyond rescaling: reintegrating the ‘national’ as a dimension of scalar relations, Progress in Human Geography
+29, 458–473.
+MARKUSEN A. (1994) Studying regions by studying ﬁrms, Professional Geographer 46, 477–490.
+MARKUSEN A. (1999) Fuzzy concepts, scanty evidence, policy distance: the case for rigor and policy relevance in critical regional
+studies, Regional Studies 33, 869–884.
+MARKUSEN A. (2004) An actor-centered approach to economic geographic change, Annals of the Japan Association of Economic Geo-
+graphers 49, 395–408.
+MARTIN R. (2001) Geography and public policy: the case of the missing agenda, Progress in Human Geography 25, 189–210.
+MARTIN R. and S UNLEY P . (1996) Paul Krugman’s geographical economics and its implications for regional development theory: a
+critical assessment, Economic Geography 72, 259–292.
+MARTIN R. and S UNLEY P . (1998) Slow convergence? The new endogenous growth theory and regional development, Economic
+Geography 74, 201–227.
+MARTIN R. and S UNLEY P . (2003) Deconstructing clusters: chaotic concept or policy panacea?, Journal of Economic Geography 3,
+5–35.
+MARTIN R. and S UNLEY P . (2006) Path dependence and regional economic evolution, Journal of Economic Geography 6, 395–437.
+MARTON A. M. (2000) China’s Spatial Economic Development: Regional Transformation in the Lower Yangzi Delta . Routledge, London.
+MASSEY D. (1979) In what sense a regional problem?, Regional Studies 13, 233–243.
+MASSEY D. (1984) Spatial Divisions of Labour: Social Structures and the Geography of Production . Macmillan, London.
+MASSEY D. (2007) World City . Polity, Cambridge.
+MATHEWS J. A. (1997) A Silicon Valley of the east: creating Taiwan’s semiconductor industry, California Management Review 39,
+26–54.
+MATHEWS J. A. (2005) Strategy and the crystal cycle, California Management Review 47, 6–32.
+MATHEWS J. A. (2006a) Strategizing, Disequilibrium and Proﬁt . Stanford University Press, Stanford, CA.
+MATHEWS J. A. (2006b) Electronics in Taiwan – a case of technological learning, in C HANDRA V . (Ed.) Technology, Adaptation, and
+Exports: How Some Developing Countries Got It Right , pp. 83–126. World Bank, Washington, DC.
+MATHEWS J. A. (2007) How Taiwan built an electronics industry: lessons for developing countries today, in Y EUNG H. W .-C. (Ed.)
+Handbook of Research on Asian Business , pp. 307–332. Edward Elgar, Cheltenham.
+MATHEWS J. A. and C HOD. S. (1998) Tiger Chips: The Creation of a Semiconductor Industry in East Asia, 1975–2000 . Cambridge
+University Press, Cambridge.
+MCKENDRICK D. G., D ONER R. F . and H AGGARD S. (2000) From Silicon Valley to Singapore: Location and Competitive Advantage in the
+Hard Disk Drive Industry . Stanford University Press, Stanford, CA.
+MORGAN K. (1997) The learning region: institutions, innovation and regional renewal, Regional Studies 31, 491–503.
+MORGAN K. (2004) The exaggerated death of geography: learning, proximity and territorial innovation systems, Journal of Economic
+Geography 4, 3–21.
+MORGAN K. (2007) The polycentric state: new spaces of empowerment and engagement?, Regional Studies 41, 1237–1251.
+MORSHIDI S. (2000) Globalising Kuala Lumpur and the strategic role of the producer services sector, Urban Studies 37,
+2217–2241.
+NATIONAL ECONOMIC AND SOCIAL DEVELOPMENT BOARD (2006) Domestic Product and Gross Regional Product (1997–2004) . National
+Economic and Social Development Board, Bangkok.
+NATIONAL STATISTICAL OFFICE,SOUTH KOREA (2002) Regional Statistics Yearbook 2002 . National Statistical Ofﬁce, Seoul.
+NATIONAL STATISTICAL OFFICE,SOUTH KOREA (2006) Korea Statistical Yearbook . National Statistical Ofﬁce, Seoul.
+NOBLE G. W . (1998) Collective Action in East Asia: How Ruling Parties Shape Industrial Policy . Cornell University Press, Ithaca, NY .
+OLDSK. (2001) Globalization and Urban Change: Capital, Culture and Paciﬁc Rim Mega Projects . Oxford University Press, New Y ork,
+NY .
+OLDSK. and Y EUNG H. W .-C. (2004) Pathways to global city formation: a view from the developmental city-state of Singapore,
+Review of International Political Economy 11, 489–521.
+PARKB.-G. (2005) Spatially selective liberalization and graduated sovereignty: politics of neo-liberalism and ‘special economic
+zones’ in South Korea, Political Geography 24, 850–873.
+PECKJ. and Y EUNG H.W .-C. (Eds) (2003) Remaking the Global Economy: Economic–Geographical Perspectives . Sage, London.
+PHELPS N. A. (2007) Gaining from globalisation? State extra-territoriality and domestic economic impacts – the case of Singapore,
+Economic Geography 83, 371–394.Regional Development and the Competitive Dynamics of Global Production Networks 349
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+PHELPS N. A. (2008) Cluster or capture? Manufacturing foreign direct investment, external economies and agglomeration,
+Regional Studies 42, 457–473.
+PHELPS N. A. and F ULLER C. (2000) Multinationals, intracorporate competition, and regional development, Economic Geography
+76, 224–243.
+PHELPS N. A. and W ALEY P . (2004) Capital versus the districts: a tale of one multinational company’s attempt to disembed itself,
+Economic Geography 80, 191–215.
+PHELPS N. A. and W OODA. (2006) Lost in translation? Local interests, global actors and inward investment regimes, Journal of Econ-
+omic Geography 6, 493–515.
+PHELPS N. A., L OVERING J. and M ORGAN K. (1998) T ying the ﬁrm to the region or tying the region to the ﬁrm? Early observations
+on the case of LG in South Wales, European Urban and Regional Studies 5, 119–137.
+PIKEA. (2006) ‘Shareholder value’ versus the regions: the closure of the Vaux Brewery in Sunderland, Journal of Economic Geography
+6, 201–222.
+PIKEA. (2007a) Wither regional studies?, Regional Studies 41, 1143–1148.
+PIKEA.(Ed.) (2007b) ‘Wither Regional Studies?’, Regional Studies 41[Special Issue], 1143–1270.
+PIKEA., R ODRI ´GUEZ -POSEA. and T OMANEY J. (2006) Local and Regional Development . Routledge, London.
+PIKEA., R ODRI ´GUEZ -POSEA. and T OMANEY J. (2007) What kind of local and regional development and for whom?, Regional
+Studies 41, 1253–1269.
+POON J., H SUJ.-Y . and S UHJ. (2006) The geography of learning and knowledge acquisition among Asian latecomers, Journal of
+Economic Geography 6, 541–559.
+POON J. and M ACPHERSON A. (2005) Innovation strategies of Asian ﬁrms in the United States, Journal of Engineering and Technology
+Management 22, 255–273.
+RASIAH R. (2006) Electronics in Malaysia: export expansion but slow technical change, in C HANDRA V . (Ed.) Technology, Adap-
+tation, and Exports: How Some Developing Countries Got It Right , pp. 127–161. World Bank, Washington, DC.
+RODRI ´GUEZ -POSEA. and G ILLN. (2004) Is there a global link between regional disparities and devolution?, Environment and Plan-
+ning A 36, 2097–2118.
+RODRI ´GUEZ -POSEA. and S TORPER M. (2006) Better rules or stronger communities? On the social foundations of institutional
+change and its economic effects, Economic Geography 82, 1–25.
+ROMER P . M. (1986) Increasing returns and long-run growth, Journal of Political Economy 94, 1002–1037.
+ROMER P . M. (1994) The origins of endogenous growth, Journal of Economic Perspective 8, 3–22.
+RUTTEN R. and B OEKEMA F . (Eds) (2007) The Learning Region: Foundations, State-of-the-Art, Future .E d w a r dE l g a r ,
+Cheltenham.
+SAXENIAN A.-L. (2002) Transnational communities and the evolution of global production networks: the cases of Taiwan, China
+and India, Industry and Innovation 9, 183–202.
+SAXENIAN A.-L. (2006) The New Argonauts: Regional Advantage in a Global Economy . Harvard University Press, Cambridge, MA.
+SAXENIAN A.-L. and H SUJ.-Y . (2001) The Silicon Valley–Hsinchu connection: technical communities and industrial upgrading,
+Industrial and Corporate Change 10, 893–920.
+SAXENIAN A.-L. and S ABEL C. (2008) Venture capital in the ‘periphery’: the new Argonauts, global search, and local institution
+building, Economic Geography 84, 379–394.
+SCHOENBERGER E. (1997) The Cultural Crisis of the Firm . Basil Blackwell, Oxford.
+SCHOENBERGER E. (2000) The management of time and space, in C LARK G. L., F ELDMAN M. A. and G ERTLER M. S. (Eds) The
+Oxford Handbook of Economic Geography , pp. 317–332. Oxford University Press, Oxford.
+SCHUMPETER J. A. (1934) The Theory of Economic Development: An Inquiry into Proﬁts, Capital, Credit, Interest and the Business Cycle .
+Harvard University Press, Cambridge, MA.
+SCOTT A. J. (Ed.) (2001) Global City-Regions: Trends, Theory, Policy . Oxford University Press, Oxford.
+SCOTT A. J. (2006) The changing global geography of low-technology, labor-intensive industry: clothing, footwear, and furniture,
+World Development 34, 1517–1536.
+SCOTT A. J. and S TORPER M. (2003) Regions, globalization, development, Regional Studies 37, 579–593.
+SHEPPARD E. (2002) The spaces and times of globalization: place, scale, networks, and positionality, Economic Geography 78,
+307–330.
+SHINJ.-S. (1996) The Economics of the Latecomers: Catching-Up, Technology Transfer and Institutions in Germany, Japan and South Korea .
+Routledge, London.
+SHINJ.-S. and J ANGS.-W . (2005) Creating First-Mover Advantages: The Case of Samsung Electronics. Unpublished manuscript,
+Department of Economics, National University of Singapore.
+SIMMIE J. (Ed.) (1997) Innovation, Networks and Learning Regions? Jessica Kingsley, London.
+SMAKMAN F . (2003) Local Industry in Global Networks: Changing Competitiveness, Corporate Strategies and Pathways of Development in
+Singapore and Malaysia’s Garment Industry . Rozenberg, Amsterdam.
+SMITH A., R AINNIE A., D UNFORD M., H ARDY J., H UDSON R. and S ADLER D. (2002) Networks of value, commodities and regions:
+reworking divisions of labour in macro-regional economies, Progress in Human Geography 26, 41–63.
+SMITH N. (1984) Uneven Development: Nature, Capital and the Production of Space . Basil Blackwell, Oxford.
+STIGLITZ J. E. (2001) From miracle to crisis to recovery: lessons from four decades of East Asian experience, in S TIGLITZ J. E. and
+YUSUF S. (Eds) Rethinking the East Asian Miracle , pp. 509–526. Oxford University Press, New Y ork, NY .
+STIGLITZ J.E. and Y USUF S. (Eds) (2001) Rethinking the East Asian Miracle . Oxford University Press, New Y ork, NY .
+STORPER M. (1997) The Regional World: Territorial Development in a Global Economy . Guilford, New Y ork, NY .350 Henry Wai-chung Yeung
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
+STURGEON T. J. and L ESTER R. K. (2004) The new global supply base: new challenges for local suppliers in East Asia, in Y USUF S.,
+ALTAFM. and N ABESHIMA K. (Eds) Global Production Networking and Technological Change in East Asia , pp. 35–87. World Bank,
+Washington, DC, and Oxford University Press, Oxford.
+SUNLEY P . (2008) Relational economic geography: a partial understanding or a new paradigm?, Economic Geography 84, 1–26.
+SWYNGEDOUW E. A. (2000) Authoritarian governance, power, and the politics of rescaling, Environment and Planning D: Society and
+Space 18, 63–76.
+TAKAYASU K. and M ORIM. (2004) The global strategies of Japanese vehicle assemblers and the implications for the Thai auto-
+mobile industry, in Y USUF S., A LTAF M. and N ABESHIMA K. (Eds) Global Production Networking and Technological Change in
+East Asia , pp. 209–253. World Bank, Washington, DC, and Oxford University Press, Oxford.
+TAYLOR M. and A SHEIM B. T . (2001) The concept of the ﬁrm in economic geography, Economic Geography 77, 315–328.
+UNGER D. (1998) Building Social Capital in Thailand: Fibers, Finance, and Infrastructure . Cambridge University Press, Cambridge.
+UNITED NATIONS CONFERENCE ON TRADE AND DEVELOPMENT (UNCTAD) (2005) World Investment Report 2005: Transnational
+Corporations and the Internationalization of R&D . United Nations, New Y ork, NY .
+VANHOESEL R. (1999) New Multinational Enterprises from Korea and Taiwan: Beyond Export-Led Growth . Routledge, London.
+WADER. (1990) Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization . Princeton Uni-
+versity Press, Princeton, NJ.
+WATTS H. D. (1981) The Branch Plant Economy: A Study of External Control . Croom Helm, London.
+WEIY . D. (2000) Regional Development in China: States, Globalization and Inequality . Routledge, London.
+WEIY. D. , L IW . and W ANGC. (2007) Restructuring industrial districts, scaling up regional development: a study of the Wenzhou
+model, China, Economic Geography 83, 421–444.
+WEISSL. (1998) The Myth of the Powerless State: Governing the Economy in a Global Era . Polity, Cambridge.
+WEISSL. (Ed.) (2003) States in the Global Economy: Bringing Domestic Institutions Back In . Cambridge University Press, Cambridge.
+WONGP . K. (1995) Competing in the global electronics industry: a comparative study of the innovation networks of Singapore and
+Taiwan, Journal of Industry Studies 2, 35–62.
+WONGP . K. (2001) Flexible production, high-tech commodities, and public policies: the hard disk drive industry in Singapore, in
+DEYOF. C . , D ONER R. F . and H ERSHBERG E. (Eds) Economic Governance and the Challenge of Flexibility in East Asia , pp. 191–216.
+Rowman & Littleﬁeld, Lanham, MD.
+WOO-CUMINGS M. (Ed.) (1999) The Developmental State . Cornell University Press, Ithaca, NY .
+YANGC. (2007) Divergent practices of capitalisms in China: Hong Kong and Taiwan-invested electronics clusters in Dongguan,
+Economic Geography 83, 395–420.
+YANGY .-R. and H SIAC.-J. (2007) Spatial clustering and organizational dynamics of trans-border production networks: a case
+study of Taiwanese IT companies in the Greater Suzhou Area, China, Environment and Planning A 39, 1382–1402.
+YEUNG H. W .-C. (2001) Organising regional production networks in Southeast Asia: implications for production fragmentation,
+trade and rules of origin, Journal of Economic Geography 1, 299–321.
+YEUNG H. W .-C. (2005a) Rethinking relational economic geography, Transactions of the Institute of British Geographers, n.s.30, 37–
+51.
+YEUNG H. W .-C. (2005b) The ﬁrm as social networks: an organizational perspective, Growth and Change 36, 307–328.
+YEUNG H. W .-C. (2006) Innovating for global competition: Singapore’s pathway to high-tech development, in L UNDVALL B.-A˚.,
+INTARAKUMNERD P . and V ANGJ. (Eds) Asian Innovation Systems in Transition , pp. 257–292. Edward Elgar, Cheltenham.
+YEUNG H. W .-C. (2007a) From followers to market leaders: Asian electronics ﬁrms in the global economy, Asia Paciﬁc Viewpoint
+48, 1–25.
+YEUNG H. W .-C. (2007b) Remaking economic geography: insights from East Asia, Economic Geography 83, 339–348.
+YEUNG H. W .-C. (2008a) Perspectives on inter-organizational relations in economic geography, in C ROPPER S., E BERS M.,
+HUXHAM C., S MITH and R INGP . (Eds) The Oxford Handbook of Inter-Organizational Relations , pp. 473–501. Oxford University
+Press, Oxford.
+YEUNG H. W .-C. (2008b) Industrial clusters and production networks in Southeast Asia: a global production networks approach,
+in K UROIWA I. and T OHM. H. (Eds) Production Networks and Industrial Clusters: Integrating Economies in Southeast Asia , pp. 83–
+120. Institute of Southeast Asian Studies, Singapore.
+YEUNG H. W .-C. (2009a) Transnationalizing entrepreneurship: a critical agenda for economic geography, Progress in Human
+Geography 33. DOI: 10.1177 /0309132508096032.
+YEUNG H. W .-C. (2009b) The rise of East Asia: an emerging challenge to the study of international political economy, in B LYTH
+M. (Ed.) Routledge Handbook of International Political Economy , pp. 195–209. London, Routledge.
+YEUNG H. W .-C. and L ING. C. S. (2003) Theorizing economic geographies of Asia, Economic Geography 79, 107–128.
+YUSUF S., A LTAFM.A. and N ABESHIMA K. (Eds) (2004) Global Production Networking and Technological Change in East Asia . World
+Bank, Washington, DC, and Oxford University Press, Oxford.
+ZHANG J. (2008) China’s dynamic industrial sector – the internet industry, Eurasian Geography and Economics 49, 549–568.
+ZHANG J. and W UF . (2006) China’s changing economic governance: administrative annexation and the reorganization of local
+governments in the Yangtze River Delta, Regional Studies 40, 3–21.
+ZHOUY . (2008) The Inside Story of China’s High-Tech Industry: Making Silicon Valley in Beijing . Rowman & Littleﬁeld, Lanham, MA.
+ZHOU Y . and T ONGX. (2003) An innovative region in China: interaction between multinational corporations and local ﬁrms in a
+high-tech cluster in Beijing, Economic Geography 79, 129–152.
+ZWEIG D. (2002) Internationalizing China: Domestic Interests and Global Linkages . Cornell University Press, Ithaca, NY .Regional Development and the Competitive Dynamics of Global Production Networks 351
+Downloaded by [USM University of Southern Mississippi] at 17:23 12 September 2014 
